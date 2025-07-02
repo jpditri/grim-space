@@ -1,0 +1,131 @@
+---
+title: "Beverly Martinez - The Clairvoyant Mother"
+tags: ["#dresden-lite", "#npc", "#good-aligned", "#clairvoyant", "#single-mother", "#paranormal-investigator"]
+type: "npc"
+campaign: "dresden-lite"
+alignment: "good"
+location: "Local Supermarket / Various paranormal investigation sites"
+---
+
+# Beverly Martinez
+## The Clairvoyant Mother
+
+### Physical Description
+Beverly is a 34-year-old woman with the tired but determined look of a single mother balancing multiple responsibilities. She has shoulder-length dark hair that she usually keeps in a practical ponytail, and expressive brown eyes that seem to see more than they should. Her build is average, neither particularly tall nor short, but she carries herself with the confident posture of someone who's learned to be strong. She typically wears comfortable clothing suitable for both her day job and her investigative work—jeans, practical shoes, and layered tops that can handle various weather conditions.
+
+**Most Notable Feature**: Her eyes occasionally unfocus during conversations, as if she's listening to something no one else can hear—which she often is.
+
+### Personality Traits
+- **Protective Mother**: Fiercely devoted to her two children's safety and well-being
+- **Secretive**: Refuses to discuss the father of her children due to genuine fear
+- **Professionally Competent**: Excellent at her supermarket management job
+- **Amateur Investigator**: Passionate about paranormal research, though largely self-taught
+- **Intuitive**: Trusts her supernatural senses, even when they contradict logic
+
+### Background
+Beverly has been raising her two children alone for several years, never speaking about their father except to deflect questions with obvious discomfort. She works as a manager at the local supermarket to support her family, but her true passion lies in paranormal investigation. What she doesn't advertise is that her interest isn't purely academic—she's genuinely clairvoyant and can channel voices from beyond our reality.
+
+### Supernatural Abilities
+**Clairvoyance**: Beverly can perceive supernatural presences and occasionally receive visions
+**Spirit Communication**: She can channel voices from other dimensions or deceased spirits
+**Psychic Sensitivity**: Able to sense emotional imprints left in locations
+**Danger Intuition**: Her abilities often warn her when supernatural threats are near
+
+### Current Situation
+- **Work Life**: Manages the day shift at the supermarket, well-respected by employees
+- **Investigation Work**: Conducts paranormal investigations on weekends and evenings
+- **Family Protection**: Increasingly worried about supernatural activity affecting her children
+- **Memory Recovery**: Could potentially help unlock suppressed memories in trauma victims
+
+### The Father Secret
+Beverly's fear of discussing her children's father stems from a supernatural encounter:
+- The father was involved with dangerous supernatural entities
+- He disappeared under mysterious circumstances years ago
+- Beverly fears his return could endanger her and the children
+- She's changed her name and moved to Salem to escape connections to her past
+
+### Professional Life
+**Position**: Day Shift Manager at Local Supermarket
+**Responsibilities**: Staff scheduling, inventory management, customer service oversight
+**Reputation**: Known as fair, efficient, and good with both employees and difficult customers
+**Schedule**: Monday-Friday 6 AM to 2 PM, which allows her to be home when children return from school
+
+### Paranormal Investigation Work
+**Methods**: EMF detectors, digital recorders, thermal cameras, pendulum dowsing
+**Specialties**: Communicating with spirits, sensing emotional trauma in locations
+**Recent Focus**: Investigating the connection between missing persons and supernatural activity
+**Equipment**: Basic ghost hunting gear purchased over time, some improvised tools
+
+### Family Life
+**Children**: Two kids, ages 8 and 11 (names kept private for security)
+**Living Situation**: Small but comfortable apartment near the supermarket
+**Childcare**: After-school program and trusted babysitter for investigation work
+**Financial Status**: Living paycheck to paycheck but managing
+
+### Key Information She Possesses
+- **Supernatural Activity Patterns**: Has mapped unusual occurrences across Salem area
+- **Missing Persons Connection**: Senses supernatural involvement in recent disappearances
+- **Dimensional Voices**: The entities she channels may have crucial information
+- **Protective Measures**: Knows how to ward locations against supernatural threats
+
+### Memory Recovery Abilities
+Beverly's most valuable skill for the current crisis is her ability to help recover suppressed memories:
+- Can guide traumatized individuals through psychic communication sessions
+- Helps spirits or entities communicate through willing mediums
+- Identifies when memories have been supernaturally suppressed or altered
+- Risks her own sanity to access dangerous psychic territories
+
+### Roleplaying Notes
+**Voice**: Warm but cautious, often pauses mid-sentence as if listening
+**Mannerisms**:
+- Touches her temple when receiving psychic impressions
+- Automatically checks her phone for messages from her children's school
+- Becomes immediately guarded when asked about personal history
+- Shows genuine concern for other people's supernatural experiences
+
+**Conversation Starters**:
+- "Sorry, I thought I heard... never mind. What were you saying?"
+- "My kids don't know about my other work. I'd like to keep it that way."
+- "I've been sensing something wrong in this town for weeks now."
+
+### Potential Plot Hooks
+- **Memory Recovery**: Essential for helping Madison Scott recover her suppressed memories
+- **Supernatural Detection**: Can sense supernatural activity and guide investigations
+- **Spirit Communication**: May channel information from victims or other entities
+- **Local Network**: Knows other paranormal enthusiasts and supernatural-aware individuals
+
+### Character Arc Opportunities
+- Confronting her mysterious past and the children's father
+- Deciding how much to involve herself in dangerous supernatural investigations
+- Teaching others to develop their own psychic abilities
+- Protecting Salem's supernatural community while keeping her family safe
+
+### Risks and Vulnerabilities
+- **Psychic Backlash**: Channeling dangerous entities could harm her mentally
+- **Family Exposure**: Her children could become targets if her abilities are discovered
+- **Past Connections**: The father of her children may eventually track her down
+- **Authority Suspicion**: Her paranormal work could attract unwanted attention
+
+### Stats & Abilities
+**AC**: 12 (Natural Intuition + Dex)
+**HP**: 32 (7d8+7)
+**Speed**: 30 ft
+
+**STR**: 10 (+0) **DEX**: 14 (+2) **CON**: 12 (+1)
+**INT**: 13 (+1) **WIS**: 18 (+4) **CHA**: 15 (+2)
+
+**Skills**: Insight +7, Perception +7, Investigation +4, Deception +5
+**Languages**: English, Spanish
+**Proficiencies**: Management, customer service, basic paranormal investigation
+
+**Special Abilities**:
+- **Clairvoyance**: Can sense supernatural presences within 60 feet
+- **Spirit Channeling**: Can communicate with entities from other dimensions
+- **Memory Recovery**: Can help others access suppressed or altered memories
+- **Danger Sense**: Advantage on initiative rolls when supernatural threats are present
+
+**Equipment**: EMF detector, digital recorder, smartphone, car keys, pepper spray
+
+---
+
+*"Look, I know how this sounds, but I've got two kids to protect and bills to pay. I don't go looking for trouble. But sometimes trouble finds you anyway, and when it does, you better know how to listen to the voices trying to warn you."*
