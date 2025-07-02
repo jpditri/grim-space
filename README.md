@@ -22,14 +22,6 @@ This repository contains lore and campaigns for collaborative D&D gaming, organi
 - Energy credit economy and multiverse travel
 - Sanity system based on ability score modifiers
 
-### Lantae - Mystical Academy
-**Setting**: Magical harbor academy town  
-**Theme**: Mystical learning with hidden dangers  
-**Key Features**:
-- Carbomancy (baking magic) system
-- Ancient beetle threats and comet magic
-- Harbor town politics and secret orders
-- Academy-focused adventures
 
 ## Directory Organization
 
@@ -47,24 +39,18 @@ campaigns/
 │   ├── npcs/              # Xenocortex species and space travelers
 │   ├── mechanics/         # Pattern-locking and sanity rules
 │   └── items/             # Bio-tech and crystalline artifacts
-└── lantae/                # Mystical academy campaign
-    ├── lore/              # Magic systems and historical events
-    ├── locations/         # Harbor town and academy sites
-    ├── npcs/              # Academy members and town residents
-    ├── mechanics/         # Carbomancy and custom rules
-    └── items/             # Magical artifacts and academy equipment
 ```
 
 ## Cross-Campaign Elements
 
 ### The Penance Sandwich
-A recurring food item that appears across multiple campaigns, suggesting shared cultural or supernatural connections between worlds.
+A supernatural food item featured in the Dresden Files campaign, served in certain supernatural establishments around Boston.
 
-### Glyph Systems
-Both Lantae (comet glyphs) and Kepharion (crystalline patterns) feature symbolic systems that store knowledge and power.
+### Symbolic Systems
+Kepharion features crystalline patterns that store knowledge and power within the xenocortex consciousness system.
 
 ### Hidden Knowledge
-All three campaigns feature secret organizations, hidden lore, and the tension between public facade and hidden truth.
+Both campaigns feature secret organizations, hidden lore, and the tension between public facade and hidden truth.
 
 ## Integration Notes
 
