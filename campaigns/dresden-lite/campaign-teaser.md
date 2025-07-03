@@ -38,7 +38,7 @@ But you've been paying attention to the details they ignore:
 
 **Something is hunting in the shadows of Salem.**
 
-And now it's escalating toward Halloween—when the barrier between worlds grows thin.
+And the pattern is escalating—each disappearance more brazen than the last.
 
 ---
 
@@ -82,9 +82,9 @@ Every location has two faces: the one the tourists see, and the one that reveals
 
 ---
 
-### **The Countdown Begins**
+### **The Mystery Deepens**
 
-*Halloween approaches. The missing teenagers aren't just gone—they're being prepared for something. In the catacombs beneath Salem, cultists gather around pages of forbidden knowledge. On Winter Island, an ancient entity stirs in its dimensional prison.*
+*The missing teenagers aren't just gone—they're being prepared for something. Dark rituals are being performed in hidden places throughout the North Shore. On Winter Island, an ancient entity stirs in its dimensional prison.*
 
 *The police think they're looking for a serial killer.*
 *The media thinks they're covering urban decay.*
@@ -92,7 +92,7 @@ Every location has two faces: the one the tourists see, and the one that reveals
 
 **They're all wrong.**
 
-*The question isn't whether you can solve the mystery before Halloween.*
+*The question isn't whether you can solve the mystery in time.*
 *The question is whether Salem—and the world—will survive what happens when you do.*
 
 ---
