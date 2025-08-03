@@ -1,12 +1,20 @@
-# 🧠 Xenocortex
+title:: Xenocortex
+type:: lore
+campaign:: kepharion
+category:: bio-crystalline-organ
+tags:: #kepharion #xenocortex #bio-crystalline #dual-cognition #pattern-locking #memory-core
+
+# Xenocortex
 *A crystallized mirror of the mind—fast, exact, and utterly inflexible.*
 
-## 🔍 Overview
-The **xenocortex** is a bio-crystalline organ evolved by lifeforms on Kepharion. It is not a second brain, but rather a **structured memory core**: a substrate for storing and executing *known behaviors* that have been shaped by experience and encoded through biological rest cycles.
+## Overview
+- The **xenocortex** is a bio-crystalline organ evolved by lifeforms on [[Kepharion]]
+- It is not a second brain, but rather a **structured memory core**: a substrate for storing and executing *known behaviors* that have been shaped by experience and encoded through biological rest cycles
 
-Once encoded, these routines act as hardwired reflexes—executed without hesitation, analysis, or adaptation. This allows Kepharion’s creatures to maintain vast, instinctual repertoires of language, ritual, combat, migration, or even spellcasting patterns across generations.
+- Once encoded, these routines act as hardwired reflexes—executed without hesitation, analysis, or adaptation
+- This allows [[Kepharion]]'s creatures to maintain vast, instinctual repertoires of language, ritual, combat, migration, or even spellcasting patterns across generations
 
-## 🧬 Dual Cognition Model: Biological vs Crystalline
+## Dual Cognition Model: Biological vs Crystalline
 
 | Capability                 | Biological Brain (Neuro)                          | Xenocortex (Crystal)                               |
 |----------------------------|---------------------------------------------------|----------------------------------------------------|

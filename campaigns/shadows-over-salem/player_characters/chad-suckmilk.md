@@ -1,3 +1,13 @@
+title:: Chad Suckmilk
+type:: player-character
+campaign:: shadows-over-salem
+race:: Human
+class:: Monk
+level:: 1
+background:: Sailor
+player:: TheGrimPandaMan
+tags:: #shadows-over-salem #pc #monk #sailor #human
+
 # Chad Suckmilk
 
 ## Identity
