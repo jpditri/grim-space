@@ -1,0 +1,683 @@
+Crilla (Scar )
+CHARACTER NAME
+
+•
+
+STRENGTH
+•
+
+19
++4
+
++6
+
+Strength
+
++3
+
+Dexterity
+
++5
+
+Constitution
+
++3
+
+Intelligence
+
+-1
+
+Wisdom
+
++1
+
+Charisma
+
+Barbarian 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Soldier
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
++3
+
+15
+
+Temp HP
+
+Current HP
+
+-HIT POINTS
+
+Total
+
+1d12
+
+SUCCESSES
+FAILURES
+
+HIT DICE
+
+DEFENSES
+
++3
+
+SAVING THROWS
+
+CONSTITUTION
+
+17
+P
+
++3
+
+INTELLIGENCE
+P
+
++3
+
+WISDOM
+P
+
++3
+
+Acrobatics DEX
+
+-1
+
+Animal Handling WIS
+
++3
+
+Arcana INT
+
++6
+
+Athletics STR
+
++1
+
+Deception CHA
+
++3
+
+History INT
+
+-1
+
+Insight WIS
+
++3
+
+Intimidation CHA
+
++3
+
+Investigation INT
+
+-1
+
+Medicine WIS
+
++3
+
+Nature INT
+
+-1
+
+Perception WIS
+
++3
+
+Performance CHA
+
++1
+
+Persuasion CHA
+
++3
+
+Religion INT
+
++3
+
+Sleight of Hand DEX
+
++3
+
+Stealth DEX
+
+-1
+
+Survival WIS
+
+-1
+
+CHARISMA
+
+16
+CLASS
+
+INITIATIVE
+
+16
+
+9
+
+Max HP
+
+Saving Throw Modifiers
+
+DEXTERITY
+
+16
+
+ARMOR
+
+12
++1
+
+HEROIC INSPIRATION
+
++2
+
+=== ARMOR ===
+Light Armor, Medium Armor, Shields
+=== WEAPONS ===
+Martial Weapons, Simple Weapons
+
+PROFICIENCY BONUS
+
+=== TOOLS ===
+Dice Set
+ABILITY SAVE DC
+
+=== LANGUAGES ===
+Common, Common Sign Language, Orc
+30 ft. (Walking)
+
+SPEED
+PROFICIENCIES & TRAINING
+
+Once per turn, when you hit a creature with an
+Unarmed Strike, you can deal damage to the target
+and also push it 5 ft. away from you.
+
+=== ACTIONS ===
+Standard Actions
+Attack, Magic, Dash, Disengage, Dodge, Help,
+Hide, Ready, Search, Utilize, Opportunity Attack,
+Grapple, Shove, Improvise, Two-Weapon Fighting,
+Interact with an Object, Study, Influence
+=== BONUS ACTIONS ===
+Rage (Enter) • 2 / Long Rest
+You can enter Rage if you aren’t wearing Heavy
+Armor. You can use Rage 2 times per Long Rest, and
+regain one expended use when you finish a Short
+Rest.
+=== SPECIAL ===
+Push
+
+ACTIONS
+
+SKILLS
+
+9
+
+PASSIVE PERCEPTION
+
+9
+
+PASSIVE INSIGHT
+
+13
+
+PASSIVE INVESTIGATION
+
+SENSES
+
+DEATH SAVES
+
+NAME
+
+HIT
+
+DAMAGE/TYPE
+
+Unarmed Strike
+
++6
+
+5 Bludgeoning
+
+Enhanced Unarmed Strike
+
++6
+
+1d4+4 Bludgeoning
+
+NOTES
+
+WEAPON ATTACKS & CANTRIPS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Crilla (Scar )
+CHARACTER NAME
+
+Barbarian 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Soldier
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
+=== BARBARIAN FEATURES ===
+
+Long Rest.
+
+* Core Barbarian Traits • PHB-2024 51
+
+* Skillful • PHB-2024 193
+You gain proficiency in one skill of your choice.
+
+* Rage • PHB-2024 51
+You can take a Bonus action to enter Rage if you
+aren’t wearing Heavy Armor. You can use Rage 2
+times per Long Rest, and regain one expended use
+when you finish a Short Rest.
+
+* Versatile • PHB-2024 194
+You gain an Origin feat of your choice.
+
+| Greataxe (Cleave) •
+Cleave. Once per turn, if you hit a creature with a
+melee attack using a Greataxe, you can make another
+melee attack with it against a second creature within 5
+ft. of the first that’s within your reach. On a hit, the
+second creature takes the Greataxe’s damage, but
+without your ability modifier (unless the modifier is
+negative).
+
+=== FEATS ===
+Activate Rage by clicking on this feature and selecting
+the drop down called Activate Rage. Deselect it to stop
+Raging.
+| Rage (Enter): 2 / Long Rest • 1 Bonus Action
+* Unarmored Defense • PHB-2024 51
+While not wearing armor, your base AC equals 16 +
+any Shield bonus.
+* Weapon Mastery • PHB-2024 52
+You are able to use the mastery properties of 2 kinds
+of Simple or Martial Melee weapons of your choice.
+Whenever you finish a Long Rest, you can change one
+of those weapon choices.
+
+=== HUMAN SPECIES TRAITS ===
+
+| Slow (Club): 1 Action
+
+* Tavern Brawler • PHB-2024 202
+Enhanced Unarmed Strike. When you hit with your
+Unarmed Strike and deal damage, you can deal 1d4+4
+Bludgeoning damage instead of the normal damage of
+an Unarmed Strike.
+Damage Rerolls. Whenever you roll a damage die for
+your Unarmed Strike, you can reroll the die if it rolls a
+1, and you must use the new roll.
+Improvised Weaponry. You have proficiency with
+improvised weapons.
+
+| Cleave (Greataxe): 1 Action
+* Savage Attacker • PHB-2024 201
+Once per turn when you hit a target with a weapon,
+you can roll the weapon’s damage dice twice and use
+either roll against the target.
+* Soldier Ability Score Improvements • PHB-2024 185
+| Increase two scores (+2 / +1) •
+
+Push. When you hit a creature with an Unarmed
+Strike, you can deal damage to the target and also
+push it 5 ft. away from you. You can use this benefit
+only once per turn.
+| Enhanced Unarmed Strike: 1 Action
+
+* Creature Type • PHB-2024 194
+You're a Humanoid.
+
+| Push: Special
+* Size • PHB-2024 194
+Your Size is Medium or Small, chosen when you select
+this species.
+* Speed • PHB-2024 194
+Your Speed is 30 ft.
+* Resourceful • PHB-2024 194
+You gain Heroic Inspiration whenever you finish a
+
+* Weapon Mastery • PHB-2024 52
+| Club (Slow) •
+Slow. If you hit a creature with a Club and deal
+damage to the creature, you can reduce its Speed by
+10 ft. until the start of your next turn. If the creature is
+hit more than once with this property, the Speed
+reduction doesn’t exceed 10 ft.
+FEATURES & TRAITS
+
+CP
+
+SP
+
+NAME
+
+QTY
+
+WEIGHT
+
+NAME
+
+QTY
+
+WEIGHT
+
+Club
+
+1
+
+2 lb.
+
+Oil
+
+2
+
+2 lb.
+
+Handaxe
+
+1
+
+2 lb.
+
+Rations
+
+10
+
+20 lb.
+
+Handaxe
+
+1
+
+2 lb.
+
+Rope
+
+1
+
+5 lb.
+
+Handaxe
+
+1
+
+2 lb.
+
+Bedroll
+
+1
+
+7 lb.
+
+Handaxe
+
+1
+
+2 lb.
+
+Tinderbox
+
+1
+
+1 lb.
+
+Spear
+
+1
+
+3 lb.
+
+Torch
+
+10
+
+10 lb.
+
+Shortbow
+
+1
+
+2 lb.
+
+Waterskin
+
+1
+
+5 lb.
+
+Greataxe
+
+1
+
+7 lb.
+
+Chalk (1 piece)
+
+1
+
+--
+
+Dice Set
+
+1
+
+--
+
+Backpack
+
+1
+
+5 lb.
+
+ENCUMBERED
+
+Quiver
+
+1
+
+1 lb.
+
+ATTUNED MAGIC ITEMS
+
+QTY
+
+WEIGHT
+
+285 lb.
+
+Arrows
+
+20
+
+1 lb.
+
+Healer's Kit
+
+1
+
+3 lb.
+
+Traveler's Clothes
+
+1
+
+4 lb.
+
+0
+
+0
+
+EP
+
+0
+
+GP
+
+29
+
+PP
+
+0
+WEIGHT CARRIED
+
+86 lb.
+
+PUSH/DRAG/LIFT
+
+570 lb.
+
+EQUIPMENT
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Crilla (Scar )
+
+female
+
+30
+
+Medium
+
+6ft 5 inches
+
+200
+
+GENDER
+
+AGE
+
+SIZE
+
+HEIGHT
+
+WEIGHT
+
+pale
+
+green
+
+Bald
+
+FAITH
+
+SKIN
+
+EYES
+
+HAIR
+
+Neutral
+
+CHARACTER NAME
+
+ALIGNMENT
+
+Quiet and reserved, moody
+and observant
+PERSONALITY TRAITS
+
+That all people should be free so
+long as they do not infringe on others
+and to try not to be an ..horses rear
+IDEALS
+
+BONDS
+
+anger issues , frightened of clowns , substance
+abuser and hard of hearing
+
+CHARACTER APPEARANCE
+
+FLAWS
+
+ALLIES & ORGANIZATIONS
+
+Dishonorably discharged marine living in poverty
+on the city streets. Does freelance work as
+security or as a bouncer for several clubs.
+Disconected and alone as most of her family is too
+far away or passed away while she was away on
+tour.
+
+CHARACTER BACKSTORY
+
+ADDITIONAL NOTES
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+SPELLCASTING
+ABILITY
+
+SPELLCASTING
+CLASS
+
+PREP SPELL NAME
+
+SOURCE
+
+SAVE/ATK TIME
+
+RANGE
+
+COMP
+
+SPELL SAVE DC
+
+DURATION
+
+PAGE REF
+
+NOTES
+
+SPELLS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+SPELL ATTACK
+BONUS
+
+

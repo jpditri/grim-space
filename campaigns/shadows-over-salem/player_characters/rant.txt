@@ -1,0 +1,540 @@
+Rant
+CHARACTER NAME
+
+•
+
+STRENGTH
+•
+
+13
++1
+
++3
+
+Strength
+
++3
+
+Dexterity
+
++2
+
+Constitution
+
++0
+
+Intelligence
+
++2
+
+Wisdom
+
+-1
+
+Charisma
+
+Fighter 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Soldier
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
++3
+
+13
+
+10
+
+CLASS
+
+INITIATIVE
+
+Temp HP
+
+Current HP
+
+-HIT POINTS
+
+Total
+
+1d10
+
+SUCCESSES
+FAILURES
+
+17
+
+HIT DICE
+
+DEFENSES
+
++3
+
+SAVING THROWS
+
+CONSTITUTION
+
+11
+P
+
++0
+
+INTELLIGENCE
+
+10
+
+P
+
++0
+
+P
+
+WISDOM
+
+15
+CHARISMA
+
+Max HP
+
+Saving Throw Modifiers
+
+DEXTERITY
+
++2
+
+ARMOR
+
+P
+
+P
+
++3
+
+Acrobatics DEX
+
++2
+
+Animal Handling WIS
+
++0
+
+Arcana INT
+
++3
+
+Athletics STR
+
+-1
+
+Deception CHA
+
++0
+
+History INT
+
++2
+
+Insight WIS
+
++1
+
+Intimidation CHA
+
++0
+
+Investigation INT
+
++4
+
+Medicine WIS
+
++0
+
+Nature INT
+
++2
+
+Perception WIS
+
+-1
+
+Performance CHA
+
+-1
+
+Persuasion CHA
+
++2
+
+Religion INT
+
++3
+
+Sleight of Hand DEX
+
++3
+
+Stealth DEX
+
++4
+
+Survival WIS
+
+8
+
+HEROIC INSPIRATION
+
++2
+
+=== ARMOR ===
+Heavy Armor, Light Armor, Medium Armor,
+Shields
+
+PROFICIENCY BONUS
+
+=== WEAPONS ===
+Martial Weapons, Simple Weapons
+=== TOOLS ===
+Dice Set
+
+ABILITY SAVE DC
+
+=== LANGUAGES ===
+Common, Draconic, Orc
+30 ft. (Walking)
+
+SPEED
+PROFICIENCIES & TRAINING
+
+=== ACTIONS ===
+Standard Actions
+Attack, Magic, Dash, Disengage, Dodge, Help,
+Hide, Ready, Search, Utilize, Opportunity Attack,
+Grapple, Shove, Improvise, Two-Weapon Fighting,
+Interact with an Object, Study, Influence
+=== BONUS ACTIONS ===
+Second Wind • 2 / Long Rest
+You can draw upon a limited well of physical and
+mental stamina and regain 1d10+1 HP.
+
+=== SPECIAL ===
+Push (Shotgun)
+Push. If you hit a creature with a Shotgun, you can
+push the creature up to 10 ft. straight away from you if
+it’s Large or smaller.
+Slow (Automatic Rifle)
+Slow. If you hit a creature with an Automatic Rifle
+and deal damage to the creature, you can reduce its
+Speed by 10 ft. until the start of your next turn. If the
+creature is hit more than once with this property, the
+Speed reduction doesn’t exceed 10 ft.
+
+You can use this 2 times per Long Rest, and can
+regain one expended use when you finish a Short
+Rest.
+
+-1
+
+ACTIONS
+
+SKILLS
+
+12
+
+PASSIVE PERCEPTION
+
+12
+
+PASSIVE INSIGHT
+
+10
+
+PASSIVE INVESTIGATION
+
+SENSES
+
+DEATH SAVES
+
+NAME
+
+HIT
+
+DAMAGE/TYPE
+
+Unarmed Strike
+
++3
+
+2 Bludgeoning
+
+NOTES
+
+WEAPON ATTACKS & CANTRIPS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Rant
+CHARACTER NAME
+
+Fighter 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Soldier
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
+start of your next turn.
+
+* Versatile • PHB-2024 194
+You gain an Origin feat of your choice.
+
+=== FIGHTER FEATURES ===
+
+| Slow (Automatic Rifle): Special
+
+* Core Fighter Traits • PHB-2024 91
+* Fighting Style • PHB-2024 91
+You gain a Fighting Style feat of your choice, and
+whenever you gain a Fighter level, you can replace the
+feat you chose with a different Fighting Style feat.
+* Second Wind • PHB-2024 91
+As a Bonus Action, you can draw upon a limited well of
+physical and mental stamina and regain 1d10+1 HP.
+You can use this 2 times per Long Rest, and can
+regain one expended use when you finish a Short
+Rest.
+
+=== FEATS ===
+
+| Push (Shotgun): Special
+
+* Archery • PHB-2024 209
+You gain a +2 bonus to attack rolls with Ranged
+weapons.
+
+| Sap (War Pick): 1 Action
+
+* Healer • PHB-2024 201
+Battle Medic. As a Utilize action, you can expend one
+use of a Healer's Kit to tend to a creature within 5 feet
+of yourself. That creature can expend one of its HP
+Dice, and you then roll that die. The creature regains a
+number of HP equal to the roll +2.
+
+* Savage Attacker • PHB-2024 201
+Once per turn when you hit a target with a weapon,
+you can roll the weapon’s damage dice twice and use
+either roll against the target.
+* Soldier Ability Score Improvements • PHB-2024 185
+| Increase two scores (+2 / +1) •
+
+Healing Rerolls. Whenever you roll a die to determine
+the number of HP you restore with a spell or with this
+feat's Battle Medic benefit, you can reroll the die if it
+rolls a 1, and you must use the new roll.
+
+| 2 / Long Rest • 1 Bonus Action
+* Weapon Mastery • PHB-2024 91
+
+| Battle Medic: 1 Action
+
+=== HUMAN SPECIES TRAITS ===
+
+* Weapon Mastery • PHB-2024 91
+
+* Creature Type • PHB-2024 194
+You're a Humanoid.
+* Size • PHB-2024 194
+Your Size is Medium or Small, chosen when you select
+this species.
+* Speed • PHB-2024 194
+Your Speed is 30 ft.
+* Resourceful • PHB-2024 194
+You gain Heroic Inspiration whenever you finish a
+Long Rest.
+* Skillful • PHB-2024 193
+You gain proficiency in one skill of your choice.
+
+| Automatic Rifle (Slow) •
+Slow. If you hit a creature with a Automatic Rifle and
+deal damage to the creature, you can reduce its Speed
+by 10 ft. until the start of your next turn. If the creature
+is hit more than once with this property, the Speed
+reduction doesn’t exceed 10 ft.
+| Shotgun (Push) •
+Push. If you hit a creature with a Shotgun, you can
+push the creature up to 10 ft. straight away from you if
+it’s Large or smaller.
+| War Pick (Sap) •
+Sap. If you hit a creature with a War Pick, that creature
+has Disadvantage on its next attack roll before the
+FEATURES & TRAITS
+
+NAME
+CP
+
+0
+
+SP
+
+0
+
+EP
+
+0
+
+GP
+
+0
+
+PP
+
+0
+
+QTY
+
+WEIGHT
+
+NAME
+
+QTY
+
+WEIGHT
+
+ATTUNED MAGIC ITEMS
+
+QTY
+
+WEIGHT
+
+WEIGHT CARRIED
+
+0 lb.
+ENCUMBERED
+
+195 lb.
+PUSH/DRAG/LIFT
+
+390 lb.
+EQUIPMENT
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Rant
+
+Male
+
+34
+
+Medium
+
+6'2"
+
+215
+
+GENDER
+
+AGE
+
+SIZE
+
+HEIGHT
+
+WEIGHT
+
+caucasian
+
+brown
+
+Black
+
+FAITH
+
+SKIN
+
+EYES
+
+HAIR
+
+Lawful Neutral
+
+CHARACTER NAME
+
+ALIGNMENT
+
+PERSONALITY TRAITS
+
+IDEALS
+
+BONDS
+
+CHARACTER APPEARANCE
+
+CHARACTER BACKSTORY
+
+FLAWS
+
+ALLIES & ORGANIZATIONS
+
+ADDITIONAL NOTES
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+SPELLCASTING
+ABILITY
+
+SPELLCASTING
+CLASS
+
+PREP SPELL NAME
+
+SOURCE
+
+SAVE/ATK TIME
+
+RANGE
+
+COMP
+
+SPELL SAVE DC
+
+DURATION
+
+PAGE REF
+
+NOTES
+
+SPELLS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+SPELL ATTACK
+BONUS
+
+

@@ -1,0 +1,827 @@
+Craig Weatherspoon
+CHARACTER NAME
+
+STRENGTH
+•
+
+12
++1
+
+•
+
++1
+
+Strength
+
++2
+
+Dexterity
+
++4
+
+Constitution
+
++0
+
+Intelligence
+
++3
+
+Wisdom
+
++4
+
+Charisma
+
+Sorcerer 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Guard
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
++4
+
+10
+
+Temp HP
+
+Current HP
+
+-HIT POINTS
+
+Total
+
+1d6
+
+SUCCESSES
+FAILURES
+
+HIT DICE
+
+DEFENSES
+
++2
+
+SAVING THROWS
+
+CONSTITUTION
+
++2
+
+Acrobatics DEX
+
+14
+
+P
+
++5
+
+Animal Handling WIS
+
+P
+
++2
+
+Arcana INT
+
++2
+
+P
+
++3
+
+Athletics STR
+
++2
+
+Deception CHA
+
++0
+
+History INT
+
++3
+
+Insight WIS
+
++2
+
+Intimidation CHA
+
++0
+
+Investigation INT
+
++3
+
+Medicine WIS
+
++0
+
+Nature INT
+
++5
+
+Perception WIS
+
++2
+
+Performance CHA
+
++4
+
+Persuasion CHA
+
++0
+
+Religion INT
+
++2
+
+Sleight of Hand DEX
+
++2
+
+Stealth DEX
+
++3
+
+Survival WIS
+
+INTELLIGENCE
+
+11
++0
+
+P
+
+P
+
++3
+
+CHARISMA
+
+12
+CLASS
+
+INITIATIVE
+
+14
+
+16
+
+Max HP
+
+Saving Throw Modifiers
+
+DEXTERITY
+
+WISDOM
+
+ARMOR
+
+15
+
+HEROIC INSPIRATION
+
++2
+
+DEATH SAVES
+
+=== WEAPONS ===
+Simple Weapons
+=== TOOLS ===
+Darts
+
+PROFICIENCY BONUS
+
+=== LANGUAGES ===
+Common, Common Sign Language, Giant
+ABILITY SAVE DC
+
+30 ft. (Walking)
+
+SPEED
+PROFICIENCIES & TRAINING
+
+=== ACTIONS ===
+Standard Actions
+Attack, Magic, Dash, Disengage, Dodge, Help,
+Hide, Ready, Search, Utilize, Opportunity Attack,
+Grapple, Shove, Improvise, Two-Weapon Fighting,
+Interact with an Object, Study, Influence
+=== BONUS ACTIONS ===
+Innate Sorcery • 2 / Long Rest
+Twice per Long Rest, you can take a Bonus Action
+to unleash the simmering magic within you for 1
+minute.
+
++2
+ACTIONS
+
+SKILLS
+
+15
+
+PASSIVE PERCEPTION
+
+13
+
+PASSIVE INSIGHT
+
+10
+
+NAME
+
+HIT
+
+DAMAGE/TYPE
+
+NOTES
+
+Semiautomatic Pistol
+
++2
+
+2d6+2 Piercing
+
+Firearms, Ammunition (Firearms), Range, Reload, Vex, Range (50/150)
+
+Semiautomatic Pistol
+
++2
+
+2d6+2 Piercing
+
+Firearms, Ammunition (Firearms), Range, Reload, Vex, Range (50/150)
+
+Unarmed Strike
+
++3
+
+2 Bludgeoning
+
+PASSIVE INVESTIGATION
+
+SENSES
+
+WEAPON ATTACKS & CANTRIPS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Craig Weatherspoon
+CHARACTER NAME
+
+Sorcerer 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Guard
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
+=== SORCERER FEATURES ===
+
+* Spellcasting • PHB-2024 139
+
+* Tough • PHB-2024 202
+When you take this feat, your HP maximum increases
+by 2. Whenever you gain a character level thereafter,
+your HP maximum increases an additional 2 HP.
+
+* Innate Sorcery • PHB-2024 140
+Twice per Long Rest, you can take a Bonus Action to
+unleash the simmering magic within you for 1 minute.
+
+* Alert • PHB-2024 200
+Initiative Proficiency. When you roll Initiative, add +2 to
+the roll.
+
+Activate this effect by clicking on this feature and
+selecting Activate Innate Sorcery. Deselect it to stop
+this effect.
+
+Initiative Swap. Immediately after you roll Initiative, you
+can swap your Initiative with the Initiative of one willing
+ally in the same combat. You can’t make this swap if
+you or the ally has the Incapacitated condition.
+
+* Core Sorcerer Traits • PHB-2024 139
+
+| 2 / Long Rest • 1 Bonus Action
+* Guard Ability Score Improvements • PHB-2024 181
+| Increase two scores (+2 / +1) •
+
+=== HUMAN SPECIES TRAITS ===
+* Creature Type • PHB-2024 194
+You're a Humanoid.
+* Size • PHB-2024 194
+Your Size is Medium or Small, chosen when you select
+this species.
+* Speed • PHB-2024 194
+Your Speed is 30 ft.
+* Resourceful • PHB-2024 194
+You gain Heroic Inspiration whenever you finish a
+Long Rest.
+* Skillful • PHB-2024 193
+You gain proficiency in one skill of your choice.
+* Versatile • PHB-2024 194
+You gain an Origin feat of your choice.
+
+=== FEATS ===
+FEATURES & TRAITS
+
+CP
+
+SP
+
+0
+
+0
+
+EP
+
+0
+
+GP
+
+28
+
+PP
+
+0
+WEIGHT CARRIED
+
+99 lb.
+ENCUMBERED
+
+180 lb.
+PUSH/DRAG/LIFT
+
+360 lb.
+
+NAME
+
+QTY
+
+WEIGHT
+
+NAME
+
+QTY
+
+WEIGHT
+
+Cast-Off Armor, Studded Leather
+
+1
+
+13 lb.
+
+Crystal
+
+1
+
+1 lb.
+
+Dagger
+
+1
+
+1 lb.
+
+Candle
+
+1
+
+--
+
+Dagger
+
+1
+
+1 lb.
+
+Holy Symbol
+
+1
+
+--
+
+Spear
+
+1
+
+3 lb.
+
+Holy Symbol
+
+1
+
+--
+
+Semiautomatic Pistol
+
+1
+
+3 lb.
+
+Rod
+
+2
+
+4 lb.
+
+Semiautomatic Pistol
+
+1
+
+3 lb.
+
+Oil
+
+2
+
+2 lb.
+
+Paper
+
+1
+
+--
+
+Rations
+
+10
+
+20 lb.
+
+Paper
+
+1
+
+--
+
+Rope
+
+1
+
+5 lb.
+
+Paper
+
+1
+
+--
+
+Tinderbox
+
+1
+
+1 lb.
+
+Paper
+
+1
+
+--
+
+Torch
+
+10
+
+10 lb.
+
+Paper
+
+1
+
+--
+
+Waterskin
+
+1
+
+5 lb.
+
+Backpack
+
+1
+
+5 lb.
+
+ATTUNED MAGIC ITEMS
+
+QTY
+
+WEIGHT
+
+Calligrapher's Supplies
+
+1
+
+5 lb.
+
+Manacles
+
+1
+
+6 lb.
+
+Jug
+
+1
+
+4 lb.
+EQUIPMENT
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Craig Weatherspoon
+CHARACTER NAME
+
+Sorcerer 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Guard
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
+ADDITIONAL FEATURES & TRAITS
+
+NAME
+
+QTY
+
+Caltrops
+
+20
+
+2 lb.
+
+Crowbar
+
+1
+
+5 lb.
+
+WEIGHT
+
+NAME
+
+ADDITIONAL EQUIPMENT
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+QTY
+
+WEIGHT
+
+Craig Weatherspoon
+CHARACTER NAME
+
+M
+
+51
+
+Medium
+
+Tall
+
+230
+
+GENDER
+
+AGE
+
+SIZE
+
+HEIGHT
+
+WEIGHT
+
+Chaotic Good
+
+Techno Zoroastrianism
+Worn
+
+ALIGNMENT
+
+FAITH
+
+=== Allies ===
+His fellow security guards
+
+SKIN
+
+Vaguely Sad
+
+Balding
+
+EYES
+
+HAIR
+
+Talks to his fish, believes
+they understand him
+
+=== Organizations ===
+Toastmasters
+
+PERSONALITY TRAITS
+
+Truth and Justice, there used to
+be another one
+IDEALS
+
+His fish
+BONDS
+
+Chronically late
+CHARACTER APPEARANCE
+
+Below average but friendly
+
+FLAWS
+
+ALLIES & ORGANIZATIONS
+
+Hates pickles
+
+CHARACTER BACKSTORY
+
+ADDITIONAL NOTES
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+CHA
+
+12
+
++4
+
+SPELLCASTING
+ABILITY
+
+SPELL SAVE DC
+
+SPELL ATTACK
+BONUS
+
+Sorcerer
+SPELLCASTING
+CLASS
+
+SAVE/ATK TIME
+
+RANGE
+
+Sorcerer
+
++4
+
+Sorcerer
+
+CON 12 1A
+
+Mind Sliver
+
+Sorcerer
+
+INT 12
+
+=== 1st LEVEL ===
+
+2 Slots OO
+
+Ice Knife
+
+Sorcerer
+
+DEX 12 / +4
+
+Thunderwave
+
+Sorcerer
+
+CON 12 1A
+
+PREP SPELL NAME
+
+O
+O
+O
+
+O
+O
+
+SOURCE
+
+=== CANTRIPS ===
+
+(At Will)
+
+Booming Blade
+Frostbite
+
+DURATION
+
+PAGE REF
+
+Self/5 ft. Sphere S,M
+
+1 round
+
+SCAG 142 D: 1Rnd, 5 ft. Sphere, S/M
+
+60 ft.
+
+V,S
+
+Instantaneous
+
+EE 156
+
+V/S
+
+1A
+
+60 ft.
+
+V
+
+Instantaneous
+
+TCoE 108
+
+V
+
+1A
+
+60 ft./5 ft. Sphere
+
+S,M
+
+Instantaneous
+
+PHB-2024 287
+
+5 ft. Sphere, S/M
+
+Self/15 ft. Cube V,S
+
+Instantaneous
+
+PHB-2024 334
+
+15 ft. Cube, V/S
+
+1A
+
+COMP
+
+NOTES
+
+SPELLS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+

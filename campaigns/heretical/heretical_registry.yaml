@@ -1,0 +1,21 @@
+# Campaign Registry Manifest for Heretical (D&D 5e Compatible)
+
+campaign:
+  id: heretical
+  name: The Heretical
+  description: |
+    A campaign setting across the Antolian Hills, featuring the infamous Heretical band, Lord Krolus, and a land of intrigue, miracles, and ruin. Designed for use as a D&D 5e campaign registry compatible with the dnd-lantae platform. Contains unique cities, major factions, and deep politics.
+  default_locations:
+    - Narrow Sectarian
+    - Eliozor
+    - Mascas
+    - Estonia
+    - Ice Goblin Mountain
+    - Saljaimer
+    - Grimore
+    - Jorbundo
+  faction_registry: factions.md
+  location_registry: locations.md
+  npc_directory: npcs/
+  notes: |
+    Mechanics follow D&D 5e SRD, with custom factions, role models, and politics for maximal player drama. Use with dnd-lantae tools for best results.

@@ -1,0 +1,13 @@
+# Mascas
+
+Type: Capital City
+Region: Antolian Hills (central)
+Summary: Once glorious capital, now decayed under Lord Krolus’s rule. Hub of dark politics and intrigue, surrounded by ruined lands.
+Notable NPCs: Lord Krolus, Princess Katzen (formerly)
+Features:
+- Surrounded by cities: Grimore, Orinda, Saljaimer, Goblin Mountain
+- Site of frequent political schemes
+- Central fortress and the seat of the Order of Krolus
+Hooks:
+- Faction feuds, dark magic rumors, diplomatic meetings
+- House of Blackrock Crow stronghold location

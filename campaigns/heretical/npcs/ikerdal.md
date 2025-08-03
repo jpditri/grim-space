@@ -1,0 +1,10 @@
+# Ikerdal
+Race: Elf
+Class: Ranger (Beast Master)
+Alignment: Chaotic Good
+Pronouns: He/Him
+Location: Grimore
+Background:
+  Ikerdal, brother of Botan, is a master animal wrangler and works at the Great Zoo in Grimore. He maintains rare and magical beasts within the city’s sanctuary.
+Traits: Adventurous, protective, daring with animals
+Hook: Can introduce animal companions, offer quest hooks, or rescue with beasts in play.

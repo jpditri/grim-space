@@ -1,0 +1,965 @@
+**LOCATIONS**
+
+Narrow Sectarian is a beautiful village, constantly growing as the Coven
+Sisters have agreed to take in refugees from other nearby towns and
+areas abandoned as the Order of Krolus expand their influence over the
+Antolian Hills. The town is made up of a few different churches for
+people of varying religious beliefs. A bustling market area known for
+high quality goods and affordable prices. The village also boasts some
+of the best eateries and taverns on the Eastern border of the Antolian
+Hills. The North and East fields outside the town are covered in wheat,
+used to make delicious bread and some of the strongest mead known to man
+or beast! Athena of the Coven Sisters brokered a deal with King Everec
+of the Mountain Dwarves, who live inside Mount Menastily. The people of
+Narrow Sectarian will provide bread and mead to the dwarves in exchange
+for building materials for new housing as well as defensive buildings
+such as towers and a city wall.
+
+Eliozor was once one of the larger cities among the Antolian Hills. It
+was the home of Trebor Nodrog, a good and noble blacksmith and fighter.
+The town is west of Mount Menastily and Northwest of Narrow Sectarian.
+The town was overtaken by the Order of Krolus and acted as a base of
+operations for their soldiers. The Heretical had an epic battle there,
+stopping the army's advances, but inadvertently lost the town to a large
+fire at the same time. The Heretical felt shame and guilt for their
+actions and blamed the fire on Krolus's army. This decisive win over
+Krolus's army gave much popularity to the Heretical in the Antolian
+Hills.
+
+Mascas is the capital of the Antolian Hills and the home of Lord Krolus.
+While his brother King Halus ventures outside his territory for the
+expansion of his empire, Lord Krolus has brought a darkness over the
+city of Mascas. To the North of the city lies Orinda. To the east,
+Grimore. To the Southwest, the golden city of Saljaimer. To the
+Northwest, the frozen Goblin Mountain. The surrounding area of Mascas
+has fallen to ruin. What was once a glorious capitol city has now lost
+its luster.
+
+Estonia is the oldest city within the Antolian Hills. West of Eliozor
+and North of Saljaimer, it is a large fortified city, once the capitol
+of a now fallen empire. The inhabitants are good and peaceful people.
+The market is strong in Estonia, but it does not have the decadence and
+excitement of the other large cities, like Saljaimer, Grimore, Jorbundo,
+or even Mascas before the dark reign of Lord Krolus. Because of its deep
+historical significance, Estonia is a beacon for many religions. Those
+with connections to many different deities will make a pilgrimage to
+Estonia to worship at the ancient temples and hope to take part in a
+miracle or two.
+
+Ice Goblin Mountain is a treacherous location filled with natural and
+unnatural dangers alike. West of Orinda, North of Saljaimer, Northwest
+of Mascas, Southwest of Eliozor, and Southeast of Estonia, the trade
+roads surround the great mountain. The goblins that reside on the
+mountain are often found raiding the roadways around the mountain for
+anything they can get their hands on.
+
+Saljaimer, the Golden City, lies just outside the Antolian Hills.
+Perched atop a great hill, the city bursts forth with riches, political
+activity, and adventure. The Orc armies of the Southern Untamed
+Territories were once a divided group of clans constantly raiding and
+pillaging their surrounding areas. When King Halus marched South to
+expand his empire and do away with the scourge of wild orcs, a chieftain
+was appointed general and the Orc armies were created. A deal was
+brokered with King Shabaku of the Untamed Territories and the city of
+Saljaimer was given to him by King Halus on the condition that he keep
+the Orc armies out of the Antolian Hills. Shabaku took his role very
+seriously and quickly established connections with brave warriors, great
+adventurers, and some of the greatest political minds in the
+unincorporated areas outside the Antolian Hills. With a great and
+powerful cabinet of Ambassadors and generals, Saljaimer thrived. The
+city quickly grew. The ambassadors brokered many deals with tradespeople
+to develop a high-end marketplace. The wealth accumulating within the
+city tempted several religious groups to its gates and Shabaku
+designated a district on the outer rim of the East side of the city as
+Holy Street. The city also brough in tourism as well as refuge. The inns
+and eateries are open to all. Queen Elsuon, the second wife of King
+Shabaku, welcomed in the artists from near and far. Music, paintings,
+performances, sculptures, tapestries, and everything else you can
+imagine can be found all over the city. Adventurers use Saljaimer as a
+haven between campaigns as the city looks at them as freelance soldiers
+to carry out political and military covert missions.
+
+Grimore is the home of Princess Katzen, also known as the Purple
+Princess due to her unusual natural purple hair. Grimore has a rare and
+unusual magical blessing over the entire city. This blessing maintains a
+level of peace for all that come within range, including all races and
+beasts. Because of this, Princess Katzen created an amazing and
+beautiful open zoo within the city, showcasing all the most amazing
+animals, beasts, monsters, and even otherworldly creatures for all to
+see and interact with. South of Jorbundo and East of Mascas, Grimore is
+a lovely escape from all the activity of the other large cities within
+the Antolian Hills. Grimore was given to Princess Katzen by her uncle,
+Lord Krolus, under the guise that she would be learning how to rule, but
+after his possession, it was truly a means to remove her from Mascas to
+keep her out of his affairs. Grimore prospered under The Purple
+Princess. She developed a strong relationship with King Shabaku's
+ambassadors, which increased trade and brought many to see the miracle
+of the City of Peace. A large stone castle with purple stained glass and
+the royal purple banners of the Halus family sits in the center of the
+city. Surrounding the castle is a large garden in the shape of a ring
+that spreads across 36 blocks of the cityscape, in total. This large
+garden, with its amazing flora and fauna, was designed by Botan, the
+fabled Arborist of Cayabor, and Ikerdal, his brother the animal
+wrangler. Outside the Great Garden, the city moves with the amazing
+offerings of the marketplace, the music of some of the greatest bards in
+the lands, and an array of shops, taverns, fancy eateries, and busy
+inns. Towards the Northern side of the city, lies the most opulent and
+beautiful church in all the known world, the church of Pelor. This
+specific church was built by the inhabitants of Grimore before the
+coming of Princess Katzen. It was this church that blessed the city for
+safety and security...and Pelor made it a strong and mighty blessing due
+to the devout praise and worship that frequently occurred within the
+church walls. There are, on the outer rims of the city, much seedier
+businesses, shops and taverns of ill repute that are frequented by those
+who fell on hard times and are looking for any kind of opportunity to
+turn their luck around. These places are commonly used for gambling,
+smuggling, off the record exchanges, and sharing of information.
+
+Jorbundo was an alluring city, but developed a rather concerning
+history. North of Grimore and South of Mount Jorog, Jorbundo is the
+furthest East of the great cities of the Antolian Hills. Not too long
+ago, the city was known for its many schools of learning. The city
+prospered under the education and creativity of the greatest thinkers of
+their time. Engineering made incredible leaps and bounds under the
+school of artificers. Their creativity and innovation led to many
+advancements within the city including plumbing and electricity. As more
+advancements were made, the city drew in even more people, and with more
+people, came more problems. The great minds of the school of law came up
+with intricate and detailed laws to maintain societal standards while
+encouraging a booming economy. Wanting to keep all these brilliant minds
+after their schooling was done, Jorbundo offered a subsidy for new
+families. Each child from the family of an alumnus of one of the schools
+would receive 1000 gold pieces each year for the first 3 years of the
+child's life. For the first few years, the program was successful in
+keeping bright, young couples within the city. As children were born and
+focus shifted to families, engineers and the business-minded came up
+with a fantastic idea, an amusement park! Six Banners over Jorbundo was
+created and featured modern marvels the likes of which had never been
+seen before. Mechanical miracles that overjoyed and excited all who
+witnessed. Word spread rapidly throughout the lands, even Princess
+Katzen visited the famous Six Banners. With this new influx of people,
+came curious minds as to the ways in which the city operated.
+Unfortunately, some unsavory people saw an opportunity to take advantage
+of the city's subsidy program for children. Temptresses preyed upon the
+desires of the male students, guilting them into marriage and creating
+families for financial gain. Although the city was prosperous and
+well-known, the enormous baby boom in a short few years crippled the
+economy. The schools saw less and less new students, breaking the
+established structure of the city. The families that once proudly built
+upon the beauty of Jorbundo, were now leaving in droves. The city was
+overtaken by vile and depraved opportunists. Once children were no
+longer making money for their families, they were abandoned and sent to
+the city orphanage or, if older, sold to the city under indentured
+servitude. Jorbundo fell into dark times. Those left behind were unable
+to keep up the advanced systems of the city on their own and the city
+began to fall apart. The farming systems were too advanced to be worked
+by average people. The trade routes had primarily dried up as there was
+no longer any true draw to the city. This caused an extreme lack of food
+for the city's inhabitants, forcing them to evaluate their only true
+abundant resource, their children. Sadly, the city became a mad mob of
+ghoulish cannibals. Although the city still stands and some adventurers
+are still drawn to it, it is a place of the most desperate of people and
+should be avoided.
+
+Cayabor is a fabled magical moving forest. It is said to be imbued with
+fairy, pixie, and chaos magic. The tales of Cayabor all state that
+magical creatures use it as a refuge from the persecution of the outside
+world. There is one particular story of a druid known as the Arborist,
+who turned away from the world of man and chose instead to live amongst
+the plants and the pixies within Cayabor. This hermit spent years
+developing a relationship with the forest and its inhabitants to the
+point that some say they became extensions of each other. The magic of
+the forest opened up to the hermit and the Arborist received all the
+knowledge and power bestowed upon him. Many sorcerers, druids, warlocks,
+and even clerics have sought out the elusive forest to take advantage of
+its magical properties. Even for those who beat the odds and were able
+to stumble into Cayabor, the creatures and the forest itself would
+quickly end the visit of their unwelcomed guest. If, however, the guest
+was deemed too powerful, the Arborist would emerge and use the mix of
+magic of the land to turn those unwelcomed guests into wooden statues of
+their former selves.
+
+Mount Jorog is an active volcano North of Jorbundo and Southeast of
+Mount Menastily. Its perpetual fog of volcanic ash blocks out the sun,
+leaving the mountainside and surrounding area in almost perpetual night.
+This makes the area a perfect dwelling place for The House of Blackrock
+Crow, a group of elite vampires that reside within the estate of Lord
+Mor Amroth. The mountain is nearly uninhabitable by any other creature
+or beast, leaving the vampires to live out a decadent and free
+lifestyle, as they see fit. The surrounding area is commonly plagued by
+disappearances of farmhands and adventurers daring enough to fare the
+roads around the Mountain. As their dark influence grips the area, the
+beasts of around the mountain seem to have become more twisted and
+ravenous as well. However, the mountain itself is said to be riddled
+with rare gems and precious stones, equally matched in beauty and
+magical properties. This is an obvious draw to the area, but the prize
+is seldom worth the price.
+
+Orinda is one of the smaller villages of the Antolian Hills. However, it
+is a very popular village as it is the geographical center of the
+Antolian Hills and many of the travel and trade routes go straight
+through Orinda. For this very reason, Carsten Tyre was able to learn
+much of the stories and history of the Antolian Hills from travelers and
+passers-by at a young age. This fueled his interest in exploration.
+Carsten's family were influential in town management. He grew up in the
+Elder Tree, a hollowed out, yet still living, giant oak, claimed to be
+over 600 years old. The folk story goes that an Elder Tree was coming to
+its end and sought out the perfect place to rest. As it came to Orinda,
+it was enamored by the beauty of the land. Carsten's ancestors had
+settled the land and met the Elder Tree kindly. The Elder Tree explained
+that it planned to rest on the grounds for all eternity. The ancestors
+explained that it would take up a lot of space in the middle of their
+land and make it difficult for them. The Elder Tree, seeking compromise,
+agreed to give its body as a home for the people and bless the lands and
+their future generations as long as the family agreed to pay homage to
+the land and praise Silvanus. It is because of this pact that the Elder
+Tree and the Church of Silvanus still stand within the village. Orinda
+also has a small set of shops, several inns, and a modest tavern. The
+surrounding land is made up of farms. It is a beautiful and peaceful
+area, just North of Mascas.
+
+The Untamed Lands is a moniker for the area Southwest of Saljaimer,
+outside the Antolian Hills. It is a vast and expansive space filled with
+warring tribes and old trade routes and adventurer roads long abandoned
+due to the amount of beasts, thieves, and marauders left in the area.
+Many important tribes, adventurers, generals and kings have come from
+The Untamed Lands. King Halus ventured deep into the Untamed Lands to
+reclaim them and potential trade routes outside the Antolian Hills,
+while also squashing the uprise of the Orc armies.
+
+The Cave of Yuan-Ti, the oldest legend goes back over 1000 years. It
+tells of the Yuan-Ti, who were ostracized for their evil appearance
+amongst the humans of their native land. Their villages were often
+raided by the Orcs of the area, as well. Looking for a way to save his
+people, Chief Hsssssssssssspuh set out on a mission to obtain power from
+a dragon that laid in Caverns underground. The dragon was accustomed to
+fortune seekers and power-hungry madmen coming into the caverns seeking
+wealth and power. Each one meeting their demise. But Hsssssssssssspuh
+didn\'t seek battle, he sought an ally. He pleaded with the dragon. His
+plans for an alliance won the dragon over. The Yuan-Ti relocated to the
+Caverns and fought alongside the dragon, protecting her\...and
+eventually her children. The Yuan-Ti, over generations, forgot the
+reasons for their Cavern lives and used the dragons to raid surrounding
+villages. The humans and the Orcs banded together to drive the Yuan-Ti
+back into the caverns, but realizing they could not defeat them in the
+caverns, chose instead to close off the caverns and seal them up in
+their own home. This alliance between Human and Orc was, of course,
+short-lived, known as the Blood Hand Pact, and set the stage for an
+almost unending war over the lands outside of Saljaimer\...
+
+**CHARACTERS**
+
+Trebor Nodrog, once a simple smith of a small village known as Eliozor,
+was forced to defend the innocent people of Eliozor from the tyrant,
+Lord Krolus. Krolus, enraged by the following Trebor inadvertently
+developed, decreed that Trebor and anyone foolish enough to follow in
+his footsteps would meet their end at the hands of his Death Squads.
+Trebor was forced to flee Eliozor, but swore to return to overthrow
+Krolus and return peace to his people. Trebor tirelessly quests to save
+those trampled by the corrupted in power.
+
+Lord Krolus, ruler of the Antolian Hills, resides in his castle
+demanding the tribute of his people and plotting the torture and demise
+of the upstart, Trebor Nodrog. Krolus is the bastard son of the late
+King Halus and therefore half-brother to the present king, Lannon Halus
+II. Halus casts a blind eye to Krolus\'s actions, not realizing they
+could be his undoing\...
+
+The Coven Sisters: Athena, Brianna, Cassandra, and Delilah all reside
+together in the Village of Narrow Sectarian, a half day's walk south of
+Mount Menastily. Each sister has developed a specialty in some form of
+magic. Athena can infuse physical objects with magical properties.
+Brianna can speak with trees and animals and can copy their abilities.
+Cassandra is a potion-maker, and Delilah, the youngest, is cursed with a
+form of chaos magic. The sisters have agreed to stay in Narrow Sectarian
+together to watch over Delilah as her chaos magic shows her dark visions
+of a desperate future.
+
+King Everec of the Mountain Dwarves is an old but wise leader. His
+dwarven city inside the mountain is filled with beauty and wonder. Walls
+made of precious stones and gems and a foundry that makes some of the
+strongest armor and weapons imaginable.
+
+Carsten Tyre is a scrawny nerdy human who has somehow safely traveled in
+and out of the region mapping as he goes. He has extensive knowledge of
+the Antolian Hills, both geographically and historically. He is very
+scholarly. His home is in Orinda, a smaller village North of Mascas. His
+actual home is a large hollow tree with magical properties that
+safeguard the knowledge and special items he has accrued during his
+travels. He has an extensive library and journals as well as a small
+shop where he trades and sells unique items from all over.
+
+Martin, the Haberdasher, a meek lizardfolk, is one of the greatest
+tradesmen in all the Antolian Hills. Although it is not known how he
+obtains all the high-quality goods he peddles, everyone agrees that only
+the best materials can be found by seeking out Martin. He has provided
+the wears to royalty as well as the common man and has traded with
+vampires and the clergy alike. If there is something to be known on the
+trade routes, rest assured, Martin is already aware. Because of his
+status, most ne'er-do-wells tend to leave Martin alone. However,
+desperate times and even more desperate people can lead to poor
+decisions. Martin is very generous and has agreed to help those who help
+him in matters of business, political standing, and social status. He is
+definitely someone you want to keep on your good side.
+
+King Shabaku was once a tribal chieftain in the Untamed Lands Southwest
+of the Antolian Hills. Among the humans, he was considered to be one of
+the bravest warriors as well as one of the wisest leaders. He prided
+himself on looking for solutions that would not endanger a single life.
+He attempted many times to broker peace treaties with the Orc army to no
+avail. He continued to seek peace up until the kidnapping of his wife,
+Sona Yoruba. The loss of his love drove Shabaku into a dark rage and a
+bloodlust for all Orcs that dare cross his path. It was not until he
+lost his best friend, Imari Maniflu, that he realized the chaos he was
+creating. It was at this same time that word had made its way to King
+Halus of the upheaval in the Untamed Lands. King Halus came to Shabaku
+and his tribe, in the midst of their mourning for Imari, and told him of
+his plan to expand his empire and do away with the Orcish threat once
+and for all. King Halus propositioned Shabaku to assist in leading his
+armies against the Orcs. Shabaku, with a heavy heart, looked at his
+people and said he could not agree to help King Halus in this way. Halus
+could see the pain and remorse on each and every face as he looked over
+what was left of the great tribe. Instead, King Halus proposed Shabaku
+and his people take refuge in the defensive city of Saljaimer. It was
+designed to keep armies from invading The Antolian Hills. If they agreed
+to watch over that passageway into the Antolian Hills and keep King
+Halus's empire safe, King Halus would return Shabaku's land to his
+people to lord over under the Halus Empire. Shabaku agreed. Shabaku took
+his role very seriously and quickly established connections with brave
+warriors, great adventurers, and some of the greatest political minds in
+the unincorporated areas outside the Antolian Hills. With a great and
+powerful cabinet of Ambassadors and generals, Saljaimer thrived. To
+further solidify his stature among the unincorporated tribes, Shabaku
+remarried, taking Elsuon, daughter of Tribal Chief Greco Ahbiddes. This
+union solidified the two largest tribal factions and created what Elsuon
+called "a new royal line." Elsuon and Shabaku were soon with child, the
+city was thriving under his rule, and the people of Saljaimer were
+happy, unaware of the impending troubles that loomed on the horizon...
+
+Queen Elsuon is a stunningly gorgeous and strong black woman, the
+perfect partner for King Shabaku. Although their union was political in
+nature, the two find solace and mutual admiration for one another. Their
+child further cemented this bond. Elsuon is also an incredible tactician
+and amazingly charismatic leader. Affairs that appear to be ignored by
+her King are quickly picked up and addressed with discretion. She never
+attempts to undermine her husband's power and importance. She works
+tirelessly with the ambassadors to stay abreast of current affairs and
+potential problems to minimize the amount Shabaku puts upon himself.
+Elsuon and Shabaku share a deep love and respect for each other not only
+as their individual selves, but also for the roles they both must play.
+Queen Elsuon has vowed to be by Shabaku's side against any enemy and
+will do whatever it takes to make sure he ascends to the title of King
+as he so rightfully deserves.
+
+Hadamir and Stolvagg are two of King Everec's most reliable soldiers and
+two of Bunmand's best friends outside of the members of the Heretical.
+While their lives have been limited to that of Mount Menastily and the
+Kingdom of the Mountain Dwarves, there is nothing that occurs inside
+that rock the two of them do not know about.
+
+Xargano is a friendly demon in his meek form. He takes on the appearance
+of a small grey goat-like humanoid with hollow yellow eyes and a
+devilish grin. It is somewhat rare to see him, but as long as he is in
+his meek form, it will be a pleasant encounter. He is somewhat playful
+and silly. Xargano worships the demon god, Ebokia, a trickster demigod
+that likes to take on the shape of a young woman for the purpose of
+getting kidnapped so that "she" can torture her aggressors and punish
+them for their wicked ways. Xargano calls Ebokia master and follows her
+bidding quite literally to the last word. Xargano, however, has a unique
+ability to absorb evil and magic. When doing so, he grows in size and
+stature, becoming a terrifying monstrosity that has been said to have
+the ability to take out as many as 20 men at once. Xargano is not very
+bright, however, and can be easily tricked into doing all sorts of
+things if you're clever and dumb enough to want to play with a demon.
+
+Eimelazerus, the ghost, resides within the cemetery of a small town west
+of Grimore. He was awakened from his eternal slumber by excess chaos and
+dark magic emanating from an archaic ritual taking place on those
+unhallowed grounds. Eimelazerus is unable to leave the confines of the
+cemetery, but is more than happy to talk with anyone willing to
+conversate with a ghost. Since his reawakening, Eimelazerus has been a
+watchful eye over the land and can see things the mortal eyes cannot.
+
+Ikerdal, animal wrangler, lives in Grimore and works for Princess Katzen
+as her royal aide in regards to the creatures and beasts that live among
+them. Ikerdal is the brother of Botan Harris and the two of them have a
+unique and deep connection with nature. Ikerdal sees animals as a more
+pure and therefore more just group of living beings than that of his
+fellow man. He can be seen conversing with all matter of animals
+throughout the day. In fact, the only person he regularly talks with is
+Prawna, his teenage protégé and apprentice. Prawna and Ikerdal are
+complete opposites of each other yet hold a kindred bond through a
+mutual love of animals, beasts, and otherworldly creatures. Ikerdal
+believes the magic that maintains the peace within the city of Grimore
+is related to the respect given to all living beings there and Pelor
+smiles down on them for the good they are doing.
+
+Prawna, Ikerdal's apprentice, is a young girl with the gift of animal
+handling. She can calm any creature and seems to be able to converse
+with them in a way few can. Her gifts and abilities stunned her mentor,
+Ikerdal, and he did not hesitate to take her under his wing to help care
+for the creatures of Grimore. When chaos magic began to creep across the
+land, new animals and unknown beings began to surface. Prawna had no
+difficulty in bringing these new animals under her control and they even
+seemed to bond with her. Ikerdal has noted to Princess Katzen that
+sometimes, it seems that the characteristics and traits of the animals
+under Prawna's care are almost absorbed by Prawna herself. This has been
+a bit of a concern for Ikerdal.
+
+Princess Katzen, the Purple Princess, only child to King Halus and ruler
+over the city of Grimore, is a headstrong and brash young lady with a
+desire to explore the world. Her inner circle and the ambassadors of
+King Shabaku have all agreed privately that Princess Katzen is too
+important of a person, in title and lineage, to be left to her own
+devices. Because of this, she is just as much a prisoner in her own city
+as she is its ruler. Princess Katzen has a level of anxiety because of
+this that lends itself to paranoia and she feels as though anyone
+outside her inner circle cannot be trusted.
+
+Botan Harris, the Arborist, brother of Ikerdal, is the proclaimed
+protector of the magical forest of Cayabor. Once an advisor to King
+Halus and overseer of the farms of Mascas, Botan became increasingly
+annoyed by the modernization of farming techniques and what he felt like
+was the needless destruction and ravaging of the lands and forests. When
+the engineers of Jorbundo came to Mascas to showcase the machinery they
+devised to replace the old farming ways, all Botan could see was the
+death of the relationship between nature and man. It sickened him. He
+protested to the King, but his concerns were brushed away as the
+technology was seen good for the people. Botan felt this direction made
+it impossible for him to continue in his advisory role and he left the
+capitol, seeking refuge in Grimore with his brother. The two worked
+together wonderfully, creating the gardens and bringing in the animals
+to the city. When Princess Katzen first came to Grimore, she had just
+visited Jorbundo and was amazed by their technical and mechanical
+advances. She spoke very highly of the school of artificers and their
+work. Botan was disgusted and remembered his last interactions with her
+father, King Halus. Ikerdal attempted to calm his brother down, but
+Botan refused and looked at his brother's attempts as allegiance to the
+king. He left the city with barely anything on his person and the intent
+to find a simpler life connected to nature rather than the world of man.
+He stumbled into a forest one night, following a dim light, and hoping
+to find shelter and hospitality. Instead, he found himself surrounded by
+pixies. He had made his way into Cayabor completely by accident. The
+forest and the pixies seemed to recognize his love for nature and
+welcomed him in. He learned more and more each day about the beauty and
+magic of the forest and the forest shared its magic with Botan. The
+pixies adopted him into their family and Botan fell in love with their
+lifestyle. The forest wasn't always peaceful, though. Many times Botan
+would find creatures attacking pixies or people attempting to take magic
+from the forest. Botan believed himself the protector of something so
+sacred as Cayabor, so he defended the forest and the pixies with the
+magic Botan and Cayabor now shared. This shared magic changed him and
+Botan left his old identity and became the Arborist.
+
+Jalba, the Red Menace, is a cold-blooded assassin who is just as
+beautiful as she is deadly. Jalba was once a dedicated warrior under
+Queen Elsuon. When word of Princess Katzen's reassignment to Grimore
+made its way to Saljaimer, Queen Elsuon recognized something was not
+right about the situation. Due to their close age, Elsuon believed Jalba
+could quickly infiltrate Katzen's inner circle and act as a secret agent
+to keep the Queen aware of all that transpires on the other side of the
+Antolian Hills. Jalba was hesitant at first as her previous missions
+were simple killings and therefore short timeframes. The idea of having
+to pretend to be something else and connect with other people was a
+foreign concept to Jalba. Her loyalty to the Queen drove her, though.
+She made her way to Grimore under the guise of an envoy for Queen Elsuon
+as well as a gift for the princess. Jalba was to be Katzen's servant.
+Katzen heard the message from the Queen and scoffed. Katzen stated she
+was not in need of a servant, but that Jalba could stay in Grimore are a
+guest of the princess and was allowed to take advantage of the benefits
+as such. Jalba was not accustomed to such luxuries and the two young
+ladies quickly became close friends. Jalba still fed information to her
+Queen, as she was aligned to do, but doing so increasingly weighed heavy
+on her heart as she felt she was betraying her one and possibly only
+true friend, Princess Katzen.
+
+Wendy, daughter of King Everec, was promised to Alcar for his bravery
+and courage. Although Alcar's adventures and exploits leave him out and
+away from Wendy, she is dutifully devoted to her husband-to-be. She
+admires his qualities and believes that he will one day see her in such
+a way that will mirror the way she sees him. A longtime friend of the
+Coven Sisters, Wendy has learned a lot of magical abilities, something
+her father King Everec does not approve of. Wendy and Cassandra,
+unbeknownst to one another, both desire Alcar for different reasons, and
+both long for adventure and exploration. Wendy believes Alcar will
+provide adventure, exploration, love and excitement as soon as he comes
+back from his adventures.
+
+Boudica is a formidable warrior and a hero to the people. Her history is
+riddled with inconsistencies, as though she herself either can't
+remember or doesn't want others to know her true past. As she is well
+known on the adventurer's road, there are many rumors and theories as to
+her origins and backstory. Some believe, due to her size and stature,
+that she is half orc and is disgraced by her lineage so she does not
+share her past. Others say she has connections to the Order of Krolus,
+possibly a soldier that abandoned her post and is embarrassed by her
+moment of cowardice. These theories have made their way to Boudica's
+ears and she strives to prove them wrong by being brave and doing what
+is right and just. She wants to show the world that she is a good
+person. She wants all to know that she is a hero. Unfortunately, the
+dark secret no one knows is that Boudica is from Jorbundo and is the
+orphaned daughter of a temptress who ended up being responsible for
+picking out her fellow orphans for the slaughter.
+
+**GROUPS AND MEMBERS**
+
+**[Order of Krolus]{.underline}** -- An elite group of knights sent out
+to kill, raid, and kidnap for Lord Krolus. The Order consists of the
+following:
+
+> Sergauf the Berserker - A silent but deadly knight of the Order,
+> Sergauf feels no pain, heals quickly, and kills even faster. He
+> typically works alone and is one of the most feared members of the
+> Order.
+>
+> Sir Sinclair, The WereBear - Sir Sinclair appears, at first, as a
+> well-mannered knight. However, he has the ability to transform at will
+> into a bear. He has special armor that adapts to his size.
+>
+> Sir Vinci - A master tinkerer and engineer, Vinci was wounded in
+> battle. His wounds healed, but he eventually lost his leg to The Rot,
+> forcing him to step away from battle. Vinci, driven by his bloodlust,
+> was determined to return to battle and spent weeks without sleep
+> designing and constructing a replacement leg. After months of
+> variations, he constructed a successful replacement. He went out into
+> battle and lost his hand. He went back and designed a replacement.
+> Each injury pleased Vinci as it became an opportunity to improve upon
+> himself. What little humanity remains of Vinci is unknown.
+>
+> Sir Jossef McBane The Bloody Blade - The Bloody Blade is silent, moves
+> effortlessly, kills instantly, and is the most trusted of The Order to
+> Krolus. If you see him, your death is all but imminent.
+>
+> Sir Ommin The Seer - Although his fighting skills are nowhere near
+> that of his brothers in the Order, Ommin has the ability to predict
+> the outcomes of his interactions with others, even to their deaths.
+> This ability comes in handy when in battle.
+>
+> Christina - The only woman allowed into the Order. Born with a rare
+> defect of a third arm, Christina was mocked and ridiculed by everyone,
+> including her family. Embarrassing to her father, Sir Connor,
+> Christina was forced into confinement, rarely seeing anyone, reverting
+> to a somewhat feral state. When Lord Krolus believed Sir Connor was
+> hiding something from him, he instructed the Order to search his
+> house. They found Christina, released her, and began mocking her when
+> they discovered her mutation. Her father, being bullied by his
+> brothers, lashed out and struck Christina. She snapped; she attacked
+> her father and killed him in front of the Order. They brought her back
+> to let Lord Krolus decide her fate. He saw something special in her
+> and asked for a volunteer to train and guide her in the ways of the
+> Red Knights. Sir Edward, realizing a chance to find favor with his
+> Lord, took her as his ward. The two are inseparable. Sir Edward
+> watches over her and she kills with glee for her Lord.
+>
+> Sir Edward the Unrelenting (the Unremarkable) - Before Christina,
+> Edward was the omega of the Order. He was not a master swordsman, a
+> man of magic, an unstoppable brute, a tinkerer, or anything
+> remarkable. But it was this struggle of normalcy amongst superiority
+> that fed his rage. He built up a hatred, an absolute disgust for those
+> with normal, average, meaningless, and uneventful lives. In his mind,
+> he is purifying the world of the unremarkable. Edward took on
+> Christina, and, over time, the two fell in love. It is warped and
+> concerning, but it is their love.
+>
+> Sir Fherrin Nok - The Warlock Knight of the Order, Nok holds the
+> secrets of Lord Krolus. He is a confidant and one of the few that Lord
+> Krolus will confide in. Fherrin Nok is shrouded in mystery. His
+> brothers joke that they have never seen him sleep, eat, or even sit
+> down. There is something off-putting about his presence. He
+> immediately intimidates. (Fherrin Nok is later revealed to have come
+> from another dimension and helped bring Krolus's demon to this plane
+> of existence.)
+>
+> Halegaut - The Giant Knight is a frightening presence. He is the
+> strongest of the Order and he loves to fight. Although he is not
+> always interested in killing, he is always interested in testing his
+> strength. If there is a challenge to showcase his abilities,
+> especially to women, he will take that challenge.
+>
+> Sir Pritz - The hunter knight. Pritz is an expert at tracking and
+> hunting. He is a longbow sharpshooter. He is rarely seen on
+> battlefield, but his presence is known by the deadly accuracy of his
+> bow.
+>
+> Auto - The self-sustaining suit of armor, Auto is an animated
+> protector of Sir Fherrin Nok, designed by Sir Vinci and given life by
+> Fherrin himself.
+>
+> Lacon Darkstride - Lacon lost his right eye in battle and was imbued
+> with a magical glass eye that allows him the ability to move in
+> darkness. He can disappear in shadows. When cloaked in darkness, Lacon
+> can move without making an audible sound. Although he does not find
+> enjoyment in boasting, he has more kills than any other member of the
+> Order. He is also the only surviving member of the original Order of
+> Krolus.
+
+**[The King's Cabinet]{.underline}** -- King Shabaku's chosen leaders.
+Each one brings an important influence or understanding to the city of
+Saljaimer and the Antolian Hills.
+
+> Ambassador Shrike -- One of the last elders of Shabaku's original
+> tribe, Shrike is considered to be the wisest man Shabaku has ever met.
+> He sees beyond the moment and his own perspective to something
+> greater. Elsuon once said Shrike has an unworldly vision that
+> transcends the abilities of man. Whatever the case may be, Shrike
+> remains a humble and willing servant to Shabaku and their people.
+> Shrike was instrumental in establishing the infrastructure of the city
+> as well as creating the laws to govern such a diverse society.
+>
+> Ambassador Firebrand -- The youngest of the ambassadors, Firebrand has
+> a close connection to elemental powers. Known for his bright red hair
+> and hot temper, Firebrand works closely with the Golden Guard, the
+> elite soldiers sworn to protect Saljaimer and its people. Once an
+> orphan amidst the warring tribes in the Untamed Lands, Firebrand was
+> forced to develop his cunning and bravery to ensure his own survival.
+> Once old enough to fight, he found himself shoulder to shoulder with
+> his adopted siblings, the Daemon Twins. Each of the three was
+> considered an outcast and a freak growing up, but were considered
+> great assets in the ongoing wartime. Firebrand continues to earn his
+> place among the cabinet by relentlessly devoting himself to
+> maintaining the safety and security of his people.
+>
+> The Daemon Twins -- Zheng and Fu Daemon are two of the most powerful
+> members of Shabaku's cabinet. Each holds a high level of elemental
+> force and magic. Together, their energies feed off each other,
+> creating a level of power seldom seen in the mortal plane. Where their
+> adopted brother, Firebrand, is driven by honor and duty to the people
+> he cares for, the Daemon Twins need an outlet for their power. They
+> are more interested in testing the limits of their abilities against
+> those they deem worthy of their time rather than doing something for
+> the sake of good. Their powers give them undiscernible speed and long
+> range attacks, which they utilize in covert missions for Shabaku and
+> Elsuon. Firebrand attempts to maintain a connection to the twins'
+> humanity, but as their power continues to increase, their humanity
+> continues to dwindle.
+>
+> Ambassador Alessandra -- As the head of trade relations, Ambassador
+> Alessandra maintains close ties with most of the tradespeople and
+> salesman in the region. Utilizing their knowledge and information of
+> the area, Alessandra acts as the King's eyes and ears for all that
+> transpires outside his city's walls. Alessandra knows her beauty leads
+> many to underestimate her intelligence, which she uses as a weapon to
+> disarm and divulge information from many of the leaders of other lands
+> as well as business owners attempting to take advantage of situations.
+> Alessandra is more politically minded than cutthroat, but is just as
+> dangerous as the other members of the cabinet.
+>
+> General Otoh -- Otoh has fought beside Shabaku since they were both
+> young. He is a loyal and patient friend that always supports the king,
+> even when he personally had doubts as to the direction the King was
+> taking. He has seen his family die, his tribe massacred and the
+> overall devastation caused by both sides in the war after the Blood
+> Hand Pact was broken. He even supported the marriage of Shabaku and
+> Elsuon after his sister, Sona, was taken by the Orcs. With the end of
+> this conflict always looming in the back of his mind, Otoh has become
+> a determined military leader. His honest and charismatic leadership
+> has brought the devotion of his soldiers.
+>
+> Ambassador Flora -- A remarkably beautiful young-looking woman, Flora
+> is actually the oldest member of Shabaku's cabinet. Living in the
+> Untamed Lands for over 300 years, Flora has amassed a great knowledge
+> of the area and its people. With an extensive library and an in-depth
+> knowledge of all magics, Flora has been a great advisor and historian
+> for Shabaku over the years. Although no one would ever ask, it is not
+> certain how old Flora actually is or where she came from. In fact, the
+> younger Ambassadors continuously debate as to whether or not she's
+> even human. Although a valued asset, many wonder if her true
+> allegiance is with the king or if she is merely playing out a scenario
+> for her own personal gains.
+>
+> Ambassador Rey -- Recognizing the many needs for scouts, soldiers,
+> spies, and informants, as well as curriers and envoys, Ambassador Rey
+> uses her clout in the adventurer community to hire people to take on
+> the tasks King Shabaku cannot directly connect himself or the city to.
+> Rey maintained a similar role under King Halus, and easily gained the
+> trust of Shabaku to work in the same capacity. It is one of the
+> highest honors and most rewarding endeavors to work for or even with
+> Ambassador Rey. She is a tough, no nonsense warrior with a list of
+> accomplishments that bewilder even the most veteran adventurers.
+> Ambassador Rey was the first to warn Halus of the troubling changes in
+> Krolus's behavior and was instrumental in moving Princess Katzen out
+> of the capitol to Grimore.
+
+**[The (evil) Heretical]{.underline}** -- A group of necromancers,
+mages, cultists, and fanatics that all do the bidding of Fherrin Nok and
+Lord Krolus. They are a dangerous and unhinged group of pure evil.
+
+> Smert and Zivot -- The necromancers utilized by Fherrin Nok and Lord
+> Krolus, Smert and Zivot devote every waking moment and every fiber of
+> their beings to their master's desires. Their bodies deformed and
+> twisted into a monstrosity so horrible they simply cannot be
+> considered human any longer. They have created zombie and skeleton
+> armies for the bidding of their masters. They have even reawakened
+> fallen members of the Order of Krolus, although each time causes them
+> to sacrifice another piece of the humanity of their subjects. Outside
+> their spell-chanting, it is rare to ever hear the two speak. They work
+> almost silently. They spend the majority of their time in mausoleums
+> and cemeteries or morgues. If the smell of death is in the air, they
+> are not too far behind.
+>
+> Ma'zri -- A powerful mage apprentice under the tutelage of Fherrin
+> Nok, Ma'zri is a conduit for chaos and dark magic. Detached from his
+> own humanity and rumored to have sold his soul as a child to a demon
+> lord who let him live due to his ability to withstand chaos magic,
+> Ma'zri can absorb various forms of magic, creating a trance-like state
+> where his body enacts the will of Fherrin Nok. In this way, Fherrin
+> Nok does not have to place himself in dangerous settings with
+> questionable scenarios that may or may not have the outcome he
+> intends. Ma'zri has an emaciated look with hollow, sunken eyes and a
+> shuffling stance. Once imbued with magic, his body and eyes come to
+> life and he is able to maneuver, yet he is no longer in control of
+> himself. It is a tortured existence that Ma'zri is cursed to live out
+> for as long as Fherrin Nok wishes. Ma'zri has died many times, but is
+> brought back to "life" by Smert and Zivot to be used by Fherrin Nok.
+>
+> The Cultists -- A large group of devout and brainwashed minions used
+> by Smert and Zivot to assist in matters and gather items as needed.
+> Often used as sacrifice for rituals, the Cultists see no value in
+> life. They believe the work of the (evil) Heretical is to bring upon
+> the end of times, where all things are washed away into oblivion,
+> ceasing to exist. They believe the physical plane to be impure and
+> flawed. Wiping it away will force a higher plane of existence, and
+> therefore, a better plane of existence.
+>
+> The Fanatics -- Similar to the Cultists, the Fanatics are a devout
+> group to their perceived cause. The difference being that the Fanatics
+> are more interested in the chaos of destruction and creation and the
+> breakdown of order. The Fanatics look at the work of the (evil)
+> Heretical as bringing about the unnatural, the paranormal, and thereby
+> bringing about chaos into the world. The Fanatics will kill and die
+> for anything they deem to feed the chaos of life.
+
+**[The House of Blackrock Crow]{.underline}** -- The Elite, the high
+society of vampires, The House of Blackrock Crow is a dangerous group of
+deadly vampires that love the hunt as much as the kill and have been
+known to torture and bleed their victims for weeks before finally
+killing them.
+
+> Lord Mor Amroth -- Lord of the House, Mor Amroth was once a revered
+> nobleman of the Antolian Hills. Long before the Halus Empire, when
+> Estonia was considered the capitol, Lord Amroth was a captain of the
+> trade industry and was known for his influence across the lands. While
+> travelling across the Antolian Hills to meet with a new potential
+> supplier for his secret drug trade, Amroth's carriage was overtaken by
+> a group of vampires. The leader, a fair skinned dark-haired woman by
+> the name of Gambal, was fascinated by the decadence in which Amroth
+> seemed to live so comfortably in. Gambal, with her brother, Hurst,
+> decided to take Amroth and his servants. Gambal and Hurst decided to
+> turn Amroth and some of his servants they enjoyed, bleeding and
+> killing the rest to feed them. Once turned, Lord Amroth quickly
+> established himself and his new vampire associates as partners in a
+> new business venture. This new "family" dawned the name the Blackrock
+> Crow as Blackrock was originally where Gambal and Hurst were turned
+> and Crow was the sigil of the Amroth family. Lord Amroth's estate
+> brough in many wealthy clients and business associates that were
+> turned by the vampires to extend their influence. However, these new
+> vampires did not act as covertly and inconspicuous as the Blackrock
+> Crow and were eventually all taken out by adventurers paid for by the
+> community. Lord Amroth and the other vampires shared in a polyamorous
+> relationship with one another and agreed not to turn and only feed so
+> as to maintain their power and not garner the attention of surrounding
+> communities.
+>
+> The Blood Queen Gambal -- Once a poor gypsy girl in the port city of
+> Blackrock, Gambal was a pickpocket and a con artist, preying on the
+> young and naïve that wished to adventure and make a name for
+> themselves. Gambal would often coerce sailors and adventurers into
+> alleys where her brother Hurst would attack them and the two would rob
+> their victim. This was the life they knew until one dark night, Gambal
+> was irrevocably enamored with a mysterious couple from the docks.
+> Their dress, the way in which they carried themselves, there was
+> something absolutely mesmerizing about them. She was caught staring by
+> the lady of the couple and she gave a grin that sent chills of
+> excitement and fear throughout Gambal's entire body. She had to learn
+> more about them. They seemed to sense her interest and came to her.
+> They asked her numerous questions. They seemed to be as enthralled
+> with her as she was with them. Gambal, caught up in the moment, forgot
+> about her brother in the alley, forgot about everything related to her
+> current life. She started dreaming of what it would be like to be like
+> this couple. She dreamed of what it would be like to be so important,
+> so revered. Before she understood what was happening, she found
+> herself in the grasp of the gentleman. The woman asked her if she
+> wanted to escape this tedious world and live a life of luxury and
+> decadence. Gambal said she wanted it more than life itself. The woman
+> smiled. And just like that, in the back of a tavern, Gambal was
+> turned. Hurst found her and thought she was sick or possibly poisoned.
+> He tried to help her back to health, but she attacked him in a
+> bloodlust. Once the hunger was temporarily satiated, she came back to
+> her senses and realized what she had done. Realizing there was only
+> one way to save him, Gambal turned her brother, Hurst. The two were
+> constantly on the run, fearing the townspeople would realize who and
+> what they were and hire slayers to kill them. This fear fed paranoia
+> and the two were on the run for years, feeding off random passersby on
+> the road as they jumped from town to town. Then, their luck shifted as
+> they met Lord Mor Amroth.
+>
+> Hurst -- Hurst is the older brother of Gambal. The two lived a very
+> sad and unfortunate life in their younger years. Although Gambal was
+> always in some kind of trouble, Hurst loved his little sister and felt
+> an obligation to keep her safe. He would and did, in some way, give
+> his life for her. Throughout their lives, Hurst was the muscle to
+> Gambal's scheming mind. He believes in his sister and will do anything
+> and everything for her to make her happy.
+>
+> Eleonor -- Once a young servant boy of Lord Mor Amroth, Eleonor was a
+> fun play thing for Gambal. She tortured and bled him for days while
+> they allowed Lord Amroth time to recover from being turned. Once awake
+> and aware of the changes that transpired Eleonor was one of the few
+> servants Lord Amroth wished to keep. However, since he had been bled
+> for so long, it was unlikely he would survive. Gambal convinced Lord
+> Amroth to turn the servants he wanted to keep and she and Hurst would
+> bleed and feed off the rest. To his horror, Eleonor watched his fellow
+> servants slowly killed while he felt a growing desire to feed off
+> their blood. Once fully turned, he reallocated to his former role and
+> acted as a servant to Lord Amroth under his former mentor, Heclas, the
+> butler.
+>
+> Heclas -- Heclas was a very old and withered butler under his master,
+> Lord Amroth. But he held a high level of dignity and decorum for his
+> role, even if he didn't hold his master in the highest regards. Lord
+> Amroth recognized the value of Heclas and quickly decided he must be
+> turned. Heclas's attitude towards his work did not change. He still
+> carried himself highly, while still holding the highest level of
+> disdain for his master any person could. Over the years, Gambal has
+> recognized a higher value in Heclas's mind over his duties, and
+> convinced Amroth to make Heclas a partner in their growing business of
+> illegal drug trade and prostitution. Heclas, with the majority of his
+> humanity dissolved, took pride in being acknowledged by Gambal and has
+> taken his role as bookkeeper with utmost sincerity and
+> professionalism.
+>
+> Katinka and Ravenna -- The two temptresses of Lord Amroth, Katinka and
+> Ravenna were planned to be used as bargaining chips in a deal with a
+> new supplier Amroth was planning on meeting. However, after Amroth was
+> turned, he no longer saw use for them and informed Gambal and Hurst
+> they could be bled and disposed of. However, something about the two
+> interested Gambal and Hurst and they decided to turn them both to be
+> used for later fun and future plans.
+
+**[The Heretical]{.underline}**
+
+> Bunmand, while living in the Mountains, grew up in a simple, peaceful
+> world. His family dwelled in the caverns of Mount Menastily, mining
+> rocks to sell to nearby villagers for building supplies. It was when
+> he met the great Trebor Nodrog of Eliozor and heard of his harrowing
+> tales of the ruthless Lord Krolus of the Antolian Hills that Bunmand
+> realized his desire to spread the teachings of the great god Moradin.
+> Bunmand believes he has the moral obligation to help those in need.
+
+Aeor
+
+> Alcar Harkon -- Alcar came from a tribe in the Untamed Lands outside
+> of the Antolian Hills. He was revered for his unusual size and
+> strength and was assumed by many to be next in line for chief. The
+> tribe had designated Alcar as the lead hunter, a high-ranking position
+> in their tribe. Alcar was proud of his tribe's hunting prowess and
+> established deals with neighboring tribes to handle their hunting
+> needs. Their Tribal Chief was pleased with the prestige this created
+> for their tribe and backed Alcar and his hunters in these endeavors.
+> With each successful outing, Alcar became more arrogant and prideful.
+> He boasted of his abilities and that no one could match their hunting
+> capabilities. A neighboring tribe's chief felt emasculated by Alcar
+> and his achievements and called out the Beast of Grey Forest has never
+> been caught or killed and most men fear stepping foot in the Grey
+> Forest. Alcar was easily goaded into boasting he was not afraid. The
+> chief responded with a sneering grin on his face, that if Alcar was so
+> strong and brave, he should finally do away with the Beast for good
+> and cement himself as the greatest hunter in all of the Untamed Lands.
+> Alcar was happy to oblige the chief's requests, even if his hunters
+> were note. The hunting party traveled a full day to the Grey Forest.
+> The slept on the outskirts of the forest, planning to hunt the beast
+> in the early dawn. The Beast appeared to have other plans. Something
+> attracted the Beast to their campsite and in a matter of moments, 4
+> hunters lay dead on the ground. Alcar lept to his feet, grabbing an
+> axe and attempting to assess the situation. One after another, the
+> hunters fell to the Beast. Finally, Alcar was able to grapple the
+> creature to the ground where he snapped its neck with his bare hands.
+> He took his axe and chopped off the head of the Beast of Grey Forest.
+> Yet, as he stood triumphant, he looked over the campsite and realized
+> he was the only survivor. He returned to his tribe with the body and
+> head of the Beast as an offering. The Tribal Chief was infuriated as 6
+> of his greatest warriors and hunters were now dead for no other reason
+> than Alcar's need for adulation. Alcar was exiled and left homeless
+> and directionless. He believed he had to prove himself worthy of
+> returning to his tribe by showing he was humbled, heroic, and thought
+> of others before himself. This endeavor led Alcar to travel for
+> several years attempting to find a noble quest or mission to win him
+> back favor in his tribe's eyes. While venturing, he repeatedly came
+> across Ambassador Rey of King Shabaku's cabinet. The two had many
+> unfavorable dealings. Whether complicated by their interest in each
+> other or their distrust in one another, but mainly due to his
+> knowledge of Shabaku's tribe in the Untamed Lands and what they did to
+> their neighboring tribes, Alcar believed all of Saljaimer to be filled
+> with untrustworthy and evil people. His adventures did, however, lead
+> him to interact with articles of the occult and the paranormal,
+> something Alcar was absolutely fascinated with. Ambassador Rey was
+> well aware and would always tempt him with the possibility of
+> interacting with ghosts, demons, devils, cursed objects, or sacred
+> weapons as a way to get him to agree to another tedious currier job.
+> It was on one of these very missions, though, that Alcar met his new
+> brethren, the group that would one day be known across all lands as
+> the Heretical.
+
+Buck Norris
+
+Bert Flesh-eater
+
+> Eunikar was raised by Gaybare The White, a sentient polar bear, that
+> resides on a tiny island by the Sandgrid Temple. The temple was at the
+> heart of the great Blackshear civilization, once revered as a race of
+> powerful and wise sorcerers. However, the Frozen Sea began encroaching
+> and soon engulfed the city. The inhabitants, though powerful, were
+> bound to their city and unable to escape the city as it fell. As the
+> sea began to warm the ice melted over 2 centuries and the city, with
+> its temple, sank below the ocean. Prior to the consumption of
+> Blackshear, the Sandgrid priests imbued Gaybare with the collective
+> knowledge and power of the people as the culture was on the brink of
+> extinction. Gaybare would never tell Eunikar where he came from, only
+> that he found him as a small child floating on an iceberg and rescued
+> him from the ocean. Gaybare The White trains Eunikar in the ways of
+> the Druid before sending him on a quest to continue his training with
+> Pinehill the conjoined centaur living in the forest of Smithsridge.
+> Pinehill tasks Eunikar with an important mission that required
+> Pinehill to suppress Eunikar's memory before dumping him,
+> unceremoniously, on the side of a road in a random forest. It is here
+> that Eunikar meets the group that would become, The Heretical.
+
+Hans Gruber
+
+> MOU5 was created by the Artificer Lurin Aces for various activities
+> and jobs that he did not want to go out onto or did not have the
+> specialties to accomplish it. So he created the MOU series. Each
+> specializes in a field. MOU5 was built to specialize in covert
+> operations and investigations. However over time his role has expanded
+> to involve theft, the destruction of dark and dangerous creatures, and
+> the safeguarding of Lurin\'s Laboratory when not sent out for a job.
+
+Shax
+
+**[The Dastards]{.underline}**
+
+Poe, the thief
+
+**[The Orc Army]{.underline}**
+
+The Lost Queen, Sona Yoruba
+
+General Goldrog
+
+Grimsludge
+
+Atobelin
+
+Kleggt
+
+Uldgark
+
+**GODS**\
+Moradin is the Dwarven god of Wisdom and Knowledge and the deity that
+guides Bunmand on his courageous Paladin path.
+
+Pelor
+
+Silvanus
+
+Ebokia

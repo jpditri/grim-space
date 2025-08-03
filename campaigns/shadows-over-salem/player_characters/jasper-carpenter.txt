@@ -1,0 +1,811 @@
+Jasper Carpenter
+CHARACTER NAME
+
+STRENGTH
+
+•
+
+11
++0
+•
+
++0
+
+Strength
+
++4
+
+Dexterity
+
++2
+
+Constitution
+
++2
+
+Intelligence
+
++2
+
+Wisdom
+
++6
+
+Charisma
+
+Bard 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Reveler
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
++2
+
+10
+
+Temp HP
+
+Current HP
+
+-HIT POINTS
+
+Total
+
+1d8
+
+SUCCESSES
+FAILURES
+
+HIT DICE
+
+DEFENSES
+
++2
+
+SAVING THROWS
+
+CONSTITUTION
+
++4
+
+Acrobatics DEX
+
+14
+
++2
+
+Animal Handling WIS
+
++2
+
+Arcana INT
+
++2
+
++0
+
+Athletics STR
+
++6
+
+Deception CHA
+
++2
+
+History INT
+
++2
+
+Insight WIS
+
++4
+
+Intimidation CHA
+
++2
+
+Investigation INT
+
++2
+
+Medicine WIS
+
++2
+
+Nature INT
+
+P
+
++4
+
+Perception WIS
+
+P
+
++6
+
+Performance CHA
+
++4
+
+Persuasion CHA
+
++2
+
+Religion INT
+
+P
+
++4
+
+Sleight of Hand DEX
+
+P
+
++4
+
+Stealth DEX
+
++2
+
+Survival WIS
+
+P
+
+P
+
+INTELLIGENCE
+
+14
++2
+
++2
+
+CHARISMA
+
+13
+CLASS
+
+INITIATIVE
+
+15
+
+14
+
+Max HP
+
+Saving Throw Modifiers
+
+DEXTERITY
+
+WISDOM
+
+ARMOR
+
+18
++4
+
+HEROIC INSPIRATION
+
++2
+
+=== ARMOR ===
+Light Armor
+=== WEAPONS ===
+Simple Weapons
+
+PROFICIENCY BONUS
+
+=== TOOLS ===
+Drum, Fiddle, Hand Drum, Playing Card Set,
+Thieves' Tools, Vehicles (Land), Yarting
+
+ABILITY SAVE DC
+
+=== LANGUAGES ===
+Common, Common Sign Language
+30 ft. (Walking)
+
+SPEED
+PROFICIENCIES & TRAINING
+
+=== ACTIONS ===
+Standard Actions
+Attack, Magic, Dash, Disengage, Dodge, Help,
+Hide, Ready, Search, Utilize, Opportunity Attack,
+Grapple, Shove, Improvise, Two-Weapon Fighting,
+Interact with an Object, Study, Influence
+
+PASSIVE PERCEPTION
+
+12
+
+PASSIVE INSIGHT
+
+12
+
+PASSIVE INVESTIGATION
+
+SENSES
+
+You can confer your Bardic Inspiration die 4 times per
+Long Rest.
+
+=== BONUS ACTIONS ===
+Bardic Inspiration • 4 / Long Rest
+As a Bonus Action, you can inspire another
+creature within 60 ft. that can see or hear you. That
+creature gains one of your Bardic Inspiration dice
+(1d6). Once within the next hour, when the creature
+fails a D20 Test, the creature can roll the Bardic
+Inspiration die and add the number rolled to the total,
+potentially turning the failure into a success.
+ACTIONS
+
+SKILLS
+
+14
+
+DEATH SAVES
+
+NAME
+
+HIT
+
+DAMAGE/TYPE
+
+Dagger
+
++4
+
+1d4+2 Piercing
+
+Unarmed Strike
+
++2
+
+1 Bludgeoning
+
+NOTES
+Simple, Finesse, Light, Thrown, Nick, Range (20/60), True Strike: Radiant
+
+WEAPON ATTACKS & CANTRIPS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Jasper Carpenter
+CHARACTER NAME
+
+Bard 1
+
+TheGrimPandaMan
+
+CLASS & LEVEL
+
+PLAYER NAME
+
+Human
+
+Reveler
+
+(Milestone)
+
+SPECIES
+
+BACKGROUND
+
+EXPERIENCE POINTS
+
+| Increase two scores (+2 / +1) • TCMP1
+
+=== BARD FEATURES ===
+* Versatile • PHB-2024 194
+You gain an Origin feat of your choice.
+
+* Core Bard Traits • PHB-2024 59
+* Bardic Inspiration • PHB-2024 59
+As a Bonus Action, you can inspire another creature
+within 60 ft. that can see or hear you. That creature
+gains one of your Bardic Inspiration dice (1d6). Once
+within the next hour, when the creature fails a D20
+Test, the creature can roll the Bardic Inspiration die
+and add the number rolled to the total, potentially
+turning the failure into a success.
+
+* Languages • PHB-2024 37
+Your character knows at least three languages:
+Common plus two languages you roll or choose from
+the Standard Languages table. Knowledge of a
+language means your character can communicate in it,
+read it, and write it.
+
+=== FEATS ===
+You can confer your Bardic Inspiration die 4 times per
+Long Rest.
+| 4 / Long Rest • 1 Bonus Action
+* Spellcasting • PHB-2024 59
+You can cast spells through your bardic arts. Charisma
+is your spellcasting ability for your Bard spells (Spell
+DC 14, Spell Attack +6). You can use a Musical
+Instrument as a Spellcasting Focus for your Bard
+spells.
+
+* Skilled • PHB-2024 201
+You gain proficiency in any combination of three skills
+or tools of your choice.
+Repeatable. You can take this feat more than once.
+* Reveling Fool • TCMP1 115
+Fool’s Mask. By donning a jovial mask and a fool’s,
+jester’s, or clown’s costume, you take on a new identity
+that hides your own. In the guise of the fool, you can
+get away with minor transgressions against people in
+positions of authority or station.
+
+=== HUMAN SPECIES TRAITS ===
+* Size • PHB-2024 194
+Your Size is Medium or Small, chosen when you select
+this species.
+* Speed • PHB-2024 194
+Your Speed is 30 ft.
+* Resourceful • PHB-2024 194
+You gain Heroic Inspiration whenever you finish a
+Long Rest.
+* Skillful • PHB-2024 193
+You gain proficiency in one skill of your choice.
+
+Jester’s Repartee. You always have the Hideous
+Laughter spell prepared, and your spellcasting ability
+for it is Intelligence, Wisdom, or Charisma (choose the
+ability when you select this feat). You can cast it once
+without Material components or a spell slot, and you
+regain the ability to cast it in that way when you finish a
+Long Rest. You can also cast the spell using any spell
+slots you have.
+| Charisma • TCMP1
+* The Crooked Moon Ability Score Improvements •
+TCMP1
+
+FEATURES & TRAITS
+
+CP
+
+SP
+
+NAME
+
+QTY
+
+WEIGHT
+
+NAME
+
+QTY
+
+WEIGHT
+
+Leather
+
+1
+
+10 lb.
+
+Bedroll
+
+1
+
+7 lb.
+
+Dagger
+
+1
+
+1 lb.
+
+Bell
+
+1
+
+--
+
+Torch
+
+3
+
+3 lb.
+
+Tinderbox
+
+1
+
+1 lb.
+
+Hand Drum
+
+0
+
+--
+
+Waterskin
+
+1
+
+5 lb.
+
+Yarting
+
+0
+
+--
+
+Mirror
+
+1
+
+0.5 lb.
+
+Backpack
+
+1
+
+5 lb.
+
+Bullseye Lantern
+
+1
+
+2 lb.
+
+Ball Bearings
+
+1,000
+
+2 lb.
+
+Costume
+
+3
+
+12 lb.
+
+Manacles
+
+1
+
+6 lb.
+
+Skateboard
+
+1
+
+--
+
+Thieves' Tools
+
+1
+
+1 lb.
+
+Hunting Trap
+
+1
+
+25 lb.
+
+114.5 lb.
+
+Costume
+
+1
+
+4 lb.
+
+ENCUMBERED
+
+Traveler's Clothes
+
+1
+
+4 lb.
+
+ATTUNED MAGIC ITEMS
+
+QTY
+
+WEIGHT
+
+Skateboard
+
+1
+
+--
+
+Oil
+
+8
+
+8 lb.
+
+Rations
+
+9
+
+18 lb.
+
+0
+
+0
+
+EP
+
+0
+
+GP
+
+5
+
+PP
+
+0
+WEIGHT CARRIED
+
+165 lb.
+PUSH/DRAG/LIFT
+
+330 lb.
+
+EQUIPMENT
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+Medium
+
+Jasper Carpenter
+CHARACTER NAME
+
+GENDER
+
+AGE
+
+Chaotic Good
+
+Athiest
+
+ALIGNMENT
+
+FAITH
+
+SIZE
+
+HEIGHT
+
+WEIGHT
+
+SKIN
+
+EYES
+
+HAIR
+
+PERSONALITY TRAITS
+
+IDEALS
+
+BONDS
+
+CHARACTER APPEARANCE
+
+CHARACTER BACKSTORY
+
+FLAWS
+
+ALLIES & ORGANIZATIONS
+
+ADDITIONAL NOTES
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+CHA
+
+14
+
++6
+
+SPELLCASTING
+ABILITY
+
+SPELL SAVE DC
+
+SPELL ATTACK
+BONUS
+
+Bard
+SPELLCASTING
+CLASS
+
+SAVE/ATK TIME
+
+RANGE
+
+COMP
+
+DURATION
+
+PAGE REF
+
+NOTES
+
+Bard
+
+WIS 14
+
+1A
+
+60 ft.
+
+V
+
+Instantaneous
+
+PHB-2024 337
+
+V
+
+Bard
+
++6
+
+1A
+
+Self
+
+S,M
+
+Instantaneous
+
+PHB-2024 336
+
+S/M
+
+Bard
+
+--
+
+1A
+
+60 ft.
+
+V,S,M
+
+Concentration, up to 1 hour
+
+TCMP1 126 D: 1h, V/S/M
+
+Bard
+
+--
+
+1BA
+
+60 ft.
+
+V
+
+Instantaneous
+
+PHB-2024 284
+
+V
+
+Dissonant Whispers
+
+Bard
+
+WIS 14
+
+1A
+
+60 ft.
+
+V
+
+Instantaneous
+
+PHB-2024 264
+
+V
+
+Faerie Fire
+
+Bard
+
+DEX 14 1A
+
+60 ft./20 ft. Cube V
+
+Concentration, up to 1 minute
+
+PHB-2024 271
+
+D: 1m, 20 ft. Cube, V
+
+Tasha's Hideous Laughter
+
+Reveling Fool
+
+WIS 14
+
+1A
+
+30 ft.
+
+V,S,M
+
+Concentration, up to 1 minute
+
+PHB-2024 331
+
+1/LR, D: 1m, V/S/M
+
+Tasha's Hideous Laughter
+
+Reveling Fool (Always Prepared) WIS 14
+
+1A
+
+30 ft.
+
+V,S,M
+
+Concentration, up to 1 minute
+
+PHB-2024 331
+
+D: 1m, V/S/M
+
+PREP SPELL NAME
+
+O
+O
+
+O
+O
+O
+O
+O
+P
+
+SOURCE
+
+=== CANTRIPS ===
+
+(At Will)
+
+Vicious Mockery
+True Strike
+
+=== 1st LEVEL ===
+
+2 Slots OO
+
+Captivate Undead
+
+Healing Word
+
+SPELLS
+
+TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use.
+
+
