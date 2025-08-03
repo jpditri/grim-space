@@ -1,6 +1,16 @@
+title:: Crilla (Scar)
+type:: player-character
+campaign:: shadows-over-salem
+race:: Human
+class:: Barbarian
+level:: 1
+background:: Soldier
+player:: TheGrimPandaMan
+tags:: #shadows-over-salem #player-character #barbarian #crilla #scar
+
 # Crilla (Scar)
 
-## Identity
+- ## Identity
 - **Name:** Crilla (Scar)
 - **Race:** Human
 - **Class:** Barbarian 1
@@ -9,7 +19,7 @@
 - **Level:** 1
 - **Player:** TheGrimPandaMan
 
-## Attributes
+- ## Attributes
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 | 19  | 15  | 15  | 8   | 12  | 10  |

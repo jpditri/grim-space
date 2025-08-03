@@ -1,16 +1,18 @@
----
-title: "Madison Scott - The Broken Witness"
-tags: ["#dresden-lite", "#npc", "#good-aligned", "#salem-hospital", "#mental-patient", "#coven-witness"]
-type: "npc"
-campaign: "dresden-lite"
-alignment: "good"
-location: "Salem Hospital - Mental Health Ward"
----
+title:: Madison Scott - The Broken Witness
+type:: npc
+campaign:: dresden-lite
+alignment:: good
+location:: Salem Hospital - Mental Health Ward
+race:: Human
+class:: Traumatized Witness
+level:: N/A (civilian)
+background:: College Student
+tags:: #dresden-lite #npc #good-aligned #salem-hospital #mental-patient #coven-witness #madison-scott
 
 # Madison Scott
-## The Broken Witness
+- ## The Broken Witness
 
-### Physical Description
+- ### Physical Description
 Madison is a woman in her 20s who appears older than her years due to the trauma she's endured. She has unkempt blonde hair that hangs limp around her face, and pale blue eyes that seem to stare through people rather than at them. Her frame is thin from poor appetite and the stress of her mental condition. She typically wears hospital-issued clothing, and her movements alternate between periods of agitated pacing and complete stillness. When she's lucid, glimpses of her former self show through—intelligent, articulate, and deeply frightened.
 
 **Most Notable Feature**: Her eyes, which occasionally show moments of complete terror as if she's seeing something no one else can perceive.

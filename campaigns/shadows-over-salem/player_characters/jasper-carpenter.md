@@ -1,6 +1,16 @@
+title:: Jasper Carpenter
+type:: player-character
+campaign:: shadows-over-salem
+race:: Human
+class:: Bard
+level:: 1
+background:: Reveler
+player:: TheGrimPandaMan
+tags:: #shadows-over-salem #player-character #bard #jasper-carpenter
+
 # Jasper Carpenter
 
-## Identity
+- ## Identity
 - **Name:** Jasper Carpenter
 - **Race:** Human
 - **Class:** Bard 1
@@ -9,7 +19,7 @@
 - **Level:** 1
 - **Player:** TheGrimPandaMan
 
-## Attributes
+- ## Attributes
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 | 11  | 14  | 14  | 10  | 10  | 16  |

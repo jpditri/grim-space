@@ -1,21 +1,23 @@
----
-title: "Thomas Glover - The Grieving Bookseller"
-tags: ["#dresden-lite", "#npc", "#good-aligned", "#essex-street", "#occult-knowledge"]
-type: "npc"
-campaign: "dresden-lite"
-alignment: "good"
-location: "Caldron of Books, Essex Street Salem"
----
+title:: Thomas Glover - The Grieving Bookseller
+type:: npc
+campaign:: dresden-lite
+alignment:: good
+location:: Caldron of Books, Essex Street Salem
+race:: Human
+class:: Occult Scholar
+level:: 5
+background:: Book Merchant
+tags:: #dresden-lite #npc #good-aligned #essex-street #occult-knowledge #thomas-glover
 
 # Thomas Glover
-## The Grieving Bookseller
+- ## The Grieving Bookseller
 
-### Physical Description
+- ### Physical Description
 Thomas is a man in his 60s with the weathered appearance of someone who has spent decades surrounded by dusty tomes and old knowledge. His frame appears frail and slightly hunched, suggesting years of poor health or recent decline. Deep-set eyes behind wire-rimmed glasses reflect both intelligence and profound sadness. His gray hair is unkempt, and his clothes—typically wool sweaters and worn slacks—hang loosely on his diminished frame.
 
 **Most Notable Feature**: A persistent, deep chest cough that sounds like it originates from the very depths of his lungs, often punctuating his conversations and causing him to pause mid-sentence.
 
-### Personality Traits
+- ### Personality Traits
 - **Default Demeanor**: Grumpy and short-tempered with customers
 - **Emotional Trigger**: Becomes weepy and soft when his deceased wife is mentioned
 - **Knowledge Repository**: Possesses extensive occult knowledge through decades of book dealing

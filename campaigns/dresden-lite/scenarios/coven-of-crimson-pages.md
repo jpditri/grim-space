@@ -1,76 +1,75 @@
----
-title: "The Coven of the Crimson Pages - Main Campaign Scenario"
-tags: ["#dresden-lite", "#scenario", "#main-plot", "#halloween-countdown", "#investigation"]
-type: "scenario"
-campaign: "dresden-lite"
-difficulty: "deadly"
-estimated_duration: "8-12 sessions"
----
+title:: The Coven of the Crimson Pages - Main Campaign Scenario
+type:: scenario
+campaign:: dresden-lite
+difficulty:: deadly
+estimated_duration:: 8-12 sessions
+category:: main-plot
+tags:: #dresden-lite #scenario #main-plot #halloween-countdown #investigation #coven-of-crimson-pages
 
 # The Coven of the Crimson Pages
-## Main Campaign Scenario
+- ## Main Campaign Scenario
 
-### Campaign Overview
-**Timeline**: 30 days until Halloween (adjust based on real-world timing)
+- ### Campaign Overview
+**Timeline**: 30 days until [[Halloween]] (adjust based on real-world timing)
 **Threat Level**: Apocalyptic - Reality-ending consequences if players fail
 **Investigation Type**: Missing persons case escalating to supernatural horror
 **Player Agency**: Multiple paths to discover and stop the Coven
 **Tone**: Urban horror building to cosmic terror
 
-### The Core Mystery
-Twelve teenagers have vanished from Salem and Marblehead over the past year. Police investigations have found no meaningful leads, and federal authorities have begun treating it as a serial killer case. The truth is far worse: a college student named Henry Abbot has formed a cult dedicated to summoning an ancient demon, and they're building toward a Halloween ritual that will tear open permanent rifts between dimensions.
+- ### The Core Mystery
+Twelve teenagers have vanished from Salem and Marblehead over the past year. Police investigations have found no meaningful leads, and federal authorities have begun treating it as a serial killer case. The truth is far worse: a college student named [[Henry Abbot]] has formed a cult dedicated to summoning an ancient demon, and they're building toward a Halloween ritual that will tear open permanent rifts between dimensions.
 
 ---
 
-## Session Structure Overview
+- ## Session Structure Overview
 
-### **Phase 1: The Missing (Sessions 1-3)**
+	- ### **Phase 1: The Missing (Sessions 1-3)**
 **Focus**: Establishing characters, investigating disappearances, discovering supernatural elements
-**Key Locations**: Essex Street Salem, Forest River Park, Salem Police Department
-**Major NPCs**: Thomas Glover, Jennifer Tilly, Craig Kerig, Beverly Martinez
+**Key Locations**: [[Essex Street]] [[Salem]], [[Forest River Park]], [[Salem Police Department]]
+**Major NPCs**: [[Thomas Glover]], [[Jennifer Tilly]], [[Craig Kerig]], [[Beverly Martinez]]
 **Revelation**: The disappearances are connected to supernatural activity
 
-### **Phase 2: The Pattern (Sessions 4-6)**
+	- ### **Phase 2: The Pattern (Sessions 4-6)**
 **Focus**: Understanding the Coven's methods, gathering intelligence, first confrontations
-**Key Locations**: Winter Island, Salem State University, Lynn Woods
-**Major NPCs**: Missy Lee (memory recovery), Grimtooth, Daniel Fairview
+**Key Locations**: [[Winter Island]], [[Salem State University]], [[Lynn Woods]]
+**Major NPCs**: [[Missy Lee]] (memory recovery), [[Grimtooth]], [[Daniel Fairview]]
 **Revelation**: A cult is systematically targeting victims for ritual purposes
 
-### **Phase 3: The Enemy (Sessions 7-9)**
+	- ### **Phase 3: The Enemy (Sessions 7-9)**
 **Focus**: Confronting Coven members, rescuing Abigail, learning about Valkraise
-**Key Locations**: Coven hideouts, Winter Island estate, Salem Hospital
-**Major NPCs**: Henry Abbot, Abigail Abbot, Madison Scott
-**Revelation**: The Halloween summoning will end reality as we know it
+**Key Locations**: Coven hideouts, [[Winter Island]] estate, [[Salem Hospital]]
+**Major NPCs**: [[Henry Abbot]], [[Abigail Abbot]], [[Madison Scott]]
+**Revelation**: The [[Halloween]] summoning will end reality as we know it
 
-### **Phase 4: The Countdown (Sessions 10-12)**
+	- ### **Phase 4: The Countdown (Sessions 10-12)**
 **Focus**: Final preparations, Halloween confrontation, preventing apocalypse
-**Key Locations**: Winter Island climax, dimensional battleground
-**Major NPCs**: Valkraise the Cruel, all surviving characters
+**Key Locations**: [[Winter Island]] climax, dimensional battleground
+**Major NPCs**: [[Valkraise the Cruel]], all surviving characters
 **Resolution**: Success or failure determines world's fate
 
 ---
 
-## Investigation Hooks and Entry Points
+- ## Investigation Hooks and Entry Points
 
-### **Hook 1: Personal Connection**
+	- ### **Hook 1: Personal Connection**
 - **Setup**: One character has a personal connection to a missing teenager
 - **Motivation**: Family member, friend, romantic interest, or mentee has vanished
 - **Investigation Start**: Character doesn't trust official explanations
 - **Advantage**: Emotional investment, insider family information
 
-### **Hook 2: Professional Involvement**
+	- ### **Hook 2: Professional Involvement**
 - **Setup**: Character works in law enforcement, social services, or education
 - **Motivation**: Professional responsibility to solve the case
 - **Investigation Start**: Access to official reports and witness statements
 - **Advantage**: Legitimate authority, resource access
 
-### **Hook 3: Supernatural Awareness**
+	- ### **Hook 3: Supernatural Awareness**
 - **Setup**: Character already knows supernatural threats exist
 - **Motivation**: Recognizes signs that authorities are missing
 - **Investigation Start**: Investigating supernatural aspects directly
 - **Advantage**: Understanding of magical threats, appropriate caution
 
-### **Hook 4: Accidental Discovery**
+	- ### **Hook 4: Accidental Discovery**
 - **Setup**: Character stumbles into supernatural evidence
 - **Motivation**: Can't ignore what they've seen
 - **Investigation Start**: Trying to understand impossible experiences

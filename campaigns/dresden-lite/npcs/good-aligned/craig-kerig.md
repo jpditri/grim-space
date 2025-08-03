@@ -1,21 +1,23 @@
----
-title: "Craig Kerig - The Night Watchman with Stories"
-tags: ["#dresden-lite", "#npc", "#good-aligned", "#peabody-essex-museum", "#coast-guard", "#winter-island"]
-type: "npc"
-campaign: "dresden-lite"
-alignment: "good"
-location: "Peabody Essex Museum, Salem"
----
+title:: Craig Kerig - The Night Watchman with Stories
+type:: npc
+campaign:: dresden-lite
+alignment:: good
+location:: Peabody Essex Museum, Salem
+race:: Human
+class:: Security Guard
+level:: 3
+background:: Former Coast Guard
+tags:: #dresden-lite #npc #good-aligned #peabody-essex-museum #coast-guard #winter-island #craig-kerig
 
 # Craig Kerig
-## The Night Watchman with Stories
+- ## The Night Watchman with Stories
 
-### Physical Description
+- ### Physical Description
 Craig is a round man in his 40s with the comfortable bulk of someone who enjoys good food and coffee—lots of coffee. His security uniform strains slightly across his middle, and he has the relaxed posture of someone who's comfortable in his own skin. Friendly brown eyes peer from behind a face that's quick to smile, and his receding hairline is offset by a well-maintained mustache. He almost always has a steaming cup of coffee in hand.
 
 **Most Notable Feature**: Never seen without his coffee mug—a large, worn ceramic mug with "World's Okayest Dad" printed on the side, a gift from his children.
 
-### Personality Traits
+- ### Personality Traits
 - **Storyteller**: Loves sharing tales about the museum's supernatural activity
 - **Family Man**: Devoted to wife Julia and his two children
 - **Coffee Addict**: Drinks coffee throughout his entire shift

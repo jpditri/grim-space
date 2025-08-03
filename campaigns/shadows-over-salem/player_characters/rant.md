@@ -1,6 +1,16 @@
+title:: Rant
+type:: player-character
+campaign:: shadows-over-salem
+race:: Human
+class:: Fighter
+level:: 1
+background:: Soldier
+player:: TheGrimPandaMan
+tags:: #shadows-over-salem #player-character #fighter #rant
+
 # Rant
 
-## Identity
+- ## Identity
 - **Name:** Rant
 - **Race:** Human
 - **Class:** Fighter 1
@@ -9,7 +19,7 @@
 - **Level:** 1
 - **Player:** TheGrimPandaMan
 
-## Attributes
+- ## Attributes
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 | 13  | 15  | 13  | 12  | 8   | 10  |

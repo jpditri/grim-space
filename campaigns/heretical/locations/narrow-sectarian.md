@@ -1,9 +1,16 @@
+title:: Narrow Sectarian
+type:: location
+campaign:: heretical
+location-type:: village
+region:: Eastern Antolian Hills
+tags:: #heretical #location #village #narrow-sectarian #border-town
+
 # Narrow Sectarian
 
-Type: Village
-Region: Eastern Antolian Hills
-Summary: Diverse, fast-growing border town. Known for its various churches, bustling market, delicious bread and strong mead.
-Notable NPCs: Athena (Coven Sisters), King Everec (Mountain Dwarves)
+- **Type**: Village
+- **Region**: Eastern [[Antolian Hills]]
+- **Summary**: Diverse, fast-growing border town. Known for its various churches, bustling market, delicious bread and strong mead.
+- **Notable NPCs**: [[Athena]] ([[Coven Sisters]]), [[King Everec]] (Mountain Dwarves)
 Features:
 - Market with high quality goods
 - Multiple religions and churches

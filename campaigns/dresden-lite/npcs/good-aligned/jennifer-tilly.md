@@ -1,21 +1,23 @@
----
-title: "Jennifer Tilly - The Connected Dispatcher"
-tags: ["#dresden-lite", "#npc", "#good-aligned", "#salem-police", "#riptide-bar", "#forest-river-park"]
-type: "npc"
-campaign: "dresden-lite"
-alignment: "good"
-location: "Salem Police Department / Riptide Bar, Marblehead"
----
+title:: Jennifer Tilly - The Connected Dispatcher
+type:: npc
+campaign:: dresden-lite
+alignment:: good
+location:: Salem Police Department / Riptide Bar, Marblehead
+race:: Human
+class:: Dispatcher / Bartender
+level:: 4
+background:: Law Enforcement
+tags:: #dresden-lite #npc #good-aligned #salem-police #riptide-bar #forest-river-park #jennifer-tilly
 
 # Jennifer Tilly
-## The Connected Dispatcher
+- ## The Connected Dispatcher
 
-### Physical Description
+- ### Physical Description
 Jennifer is a woman in her 40s with the composed bearing of someone who's spent years managing emergency communications. She has shoulder-length auburn hair that she keeps professionally styled, and sharp green eyes that miss nothing. Her build is average but athletic—she clearly takes care of herself despite the sedentary nature of dispatch work. She carries herself with the confident posture of someone accustomed to being in control of information flow, whether at the police station or behind the bar.
 
 **Most Notable Feature**: Always wears a small gold necklace with a tiny dog charm—a tribute to her beloved companion Queenie.
 
-### Personality Traits
+- ### Personality Traits
 - **Information Hub**: Natural collector and organizer of details from multiple sources
 - **Professional**: Maintains strict boundaries between personal and work relationships
 - **Animal Lover**: Absolutely devoted to her small dog Queenie

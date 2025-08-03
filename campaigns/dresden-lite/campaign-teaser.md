@@ -1,12 +1,10 @@
----
-title: "Campaign Teaser: Shadows Over Salem"
-tags: ["#dresden-lite", "#campaign-teaser", "#players", "#mystery"]
-type: "campaign-teaser"
-campaign: "dresden-lite"
----
+title:: Campaign Teaser: Shadows Over Salem
+type:: campaign-teaser
+campaign:: dresden-lite
+tags:: #dresden-lite #campaign-teaser #players #mystery #shadows-over-salem
 
 # SHADOWS OVER SALEM
-## A Dresden Lite Campaign
+- ## A Dresden Lite Campaign
 
 *The morning commute on the Orange Line feels different today. The businessman across from you keeps checking his phone, muttering about his daughter not coming home last night. The college student beside you scrolls through missing person posts on social media—another teenager vanished from Salem High. Twelve kids gone in the past year. The authorities say it's runaways, drugs, the usual urban decay. But you know better.*
 
@@ -14,7 +12,7 @@ campaign: "dresden-lite"
 
 ---
 
-### **Welcome to Your Hidden World**
+- ### Welcome to Your Hidden World
 
 In the shadow of TD Garden's bright lights and the tourist traps of Salem's Essex Street, a darker reality pulses through the veins of Massachusetts. Corporate towers scrape the sky while ancient things crawl through subway tunnels. Social media influencers chase viral fame while covens gather under blood-red moons. The dragons of legend walk among us in human skin, and the ghosts of the witch trials still whisper secrets in the wind.
 
@@ -24,7 +22,7 @@ While millions go about their daily lives—grabbing coffee at Dunkin', catching
 
 ---
 
-### **The North Shore Mystery**
+- ### The North Shore Mystery
 
 **Twelve teenagers have vanished.** Salem High, Marblehead High, Salem State University—students disappearing like morning fog over the harbor. The police have theories: runaways, human trafficking, drug deals gone wrong. The media creates hashtags and forgettable headlines. Parents organize search parties and vigils.
 
@@ -42,7 +40,7 @@ And the pattern is escalating—each disappearance more brazen than the last.
 
 ---
 
-### **Your Characters**
+- ### Your Characters
 
 You're not superheroes. You're not chosen ones. You're **humans who've been pulled into a hidden war** for the soul of the North Shore. Maybe you:
 
@@ -56,7 +54,7 @@ You're not superheroes. You're not chosen ones. You're **humans who've been pull
 
 ---
 
-### **The Rules of Your World**
+- ### The Rules of Your World
 
 - **Cast a spell in public?** Prepare for viral videos, federal investigations, and very angry supernatural authorities.
 - **Flash your sword on the T?** Hello, Boston PD and mandatory psychiatric evaluation.
@@ -67,22 +65,22 @@ This isn't a world where you can be heroes in broad daylight. This is a world wh
 
 ---
 
-### **Your Salem**
+- ### Your Salem
 
 This is the Boston North Shore you thought you knew:
 
-- **Essex Street, Salem** - Tourist traps hiding real supernatural businesses
-- **TD Garden** - Where supernatural factions meet during Celtics games
-- **Lynn Woods** - 2,200 acres where things prowl in the darkness
-- **Winter Island** - An abandoned estate harboring interdimensional secrets
-- **Marblehead Harbor** - Where old money families keep older secrets
-- **Chinatown, Boston** - Where ancient protections guard against modern threats
+- **[[Essex Street]], [[Salem]]** - Tourist traps hiding real supernatural businesses
+- **[[TD Garden]]** - Where supernatural factions meet during Celtics games
+- **[[Lynn Woods]]** - 2,200 acres where things prowl in the darkness
+- **[[Winter Island]]** - An abandoned estate harboring interdimensional secrets
+- **[[Marblehead Harbor]]** - Where old money families keep older secrets
+- **[[Chinatown]], [[Boston]]** - Where ancient protections guard against modern threats
 
 Every location has two faces: the one the tourists see, and the one that reveals itself after midnight.
 
 ---
 
-### **The Mystery Deepens**
+- ### The Mystery Deepens
 
 *The missing teenagers aren't just gone—they're being prepared for something. Dark rituals are being performed in hidden places throughout the North Shore. On Winter Island, an ancient entity stirs in its dimensional prison.*
 

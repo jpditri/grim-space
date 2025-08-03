@@ -1,6 +1,11 @@
-**LOCATIONS**
+title:: Heretical Campaign Setting
+type:: setting
+campaign:: heretical
+tags:: #heretical #setting #campaign-world #locations #characters
 
-Narrow Sectarian is a beautiful village, constantly growing as the Coven
+- ## LOCATIONS
+
+[[Narrow Sectarian]] is a beautiful village, constantly growing as the Coven
 Sisters have agreed to take in refugees from other nearby towns and
 areas abandoned as the Order of Krolus expand their influence over the
 Antolian Hills. The town is made up of a few different churches for
@@ -15,7 +20,7 @@ Narrow Sectarian will provide bread and mead to the dwarves in exchange
 for building materials for new housing as well as defensive buildings
 such as towers and a city wall.
 
-Eliozor was once one of the larger cities among the Antolian Hills. It
+[[Eliozor]] was once one of the larger cities among the Antolian Hills. It
 was the home of Trebor Nodrog, a good and noble blacksmith and fighter.
 The town is west of Mount Menastily and Northwest of Narrow Sectarian.
 The town was overtaken by the Order of Krolus and acted as a base of
@@ -26,7 +31,7 @@ actions and blamed the fire on Krolus's army. This decisive win over
 Krolus's army gave much popularity to the Heretical in the Antolian
 Hills.
 
-Mascas is the capital of the Antolian Hills and the home of Lord Krolus.
+[[Mascas]] is the capital of the [[Antolian Hills]] and the home of Lord Krolus.
 While his brother King Halus ventures outside his territory for the
 expansion of his empire, Lord Krolus has brought a darkness over the
 city of Mascas. To the North of the city lies Orinda. To the east,
@@ -35,7 +40,7 @@ Northwest, the frozen Goblin Mountain. The surrounding area of Mascas
 has fallen to ruin. What was once a glorious capitol city has now lost
 its luster.
 
-Estonia is the oldest city within the Antolian Hills. West of Eliozor
+[[Estonia]] is the oldest city within the [[Antolian Hills]]. West of Eliozor
 and North of Saljaimer, it is a large fortified city, once the capitol
 of a now fallen empire. The inhabitants are good and peaceful people.
 The market is strong in Estonia, but it does not have the decadence and
@@ -46,14 +51,14 @@ with connections to many different deities will make a pilgrimage to
 Estonia to worship at the ancient temples and hope to take part in a
 miracle or two.
 
-Ice Goblin Mountain is a treacherous location filled with natural and
+[[Ice Goblin Mountain]] is a treacherous location filled with natural and
 unnatural dangers alike. West of Orinda, North of Saljaimer, Northwest
 of Mascas, Southwest of Eliozor, and Southeast of Estonia, the trade
 roads surround the great mountain. The goblins that reside on the
 mountain are often found raiding the roadways around the mountain for
 anything they can get their hands on.
 
-Saljaimer, the Golden City, lies just outside the Antolian Hills.
+[[Saljaimer]], the Golden City, lies just outside the Antolian Hills.
 Perched atop a great hill, the city bursts forth with riches, political
 activity, and adventure. The Orc armies of the Southern Untamed
 Territories were once a divided group of clans constantly raiding and
@@ -79,7 +84,7 @@ imagine can be found all over the city. Adventurers use Saljaimer as a
 haven between campaigns as the city looks at them as freelance soldiers
 to carry out political and military covert missions.
 
-Grimore is the home of Princess Katzen, also known as the Purple
+[[Grimore]] is the home of [[Princess Katzen]], also known as the Purple
 Princess due to her unusual natural purple hair. Grimore has a rare and
 unusual magical blessing over the entire city. This blessing maintains a
 level of peace for all that come within range, including all races and
@@ -115,7 +120,7 @@ who fell on hard times and are looking for any kind of opportunity to
 turn their luck around. These places are commonly used for gambling,
 smuggling, off the record exchanges, and sharing of information.
 
-Jorbundo was an alluring city, but developed a rather concerning
+[[Jorbundo]] was an alluring city, but developed a rather concerning
 history. North of Grimore and South of Mount Jorog, Jorbundo is the
 furthest East of the great cities of the Antolian Hills. Not too long
 ago, the city was known for its many schools of learning. The city
@@ -247,9 +252,9 @@ their own home. This alliance between Human and Orc was, of course,
 short-lived, known as the Blood Hand Pact, and set the stage for an
 almost unending war over the lands outside of Saljaimer\...
 
-**CHARACTERS**
+- ## CHARACTERS
 
-Trebor Nodrog, once a simple smith of a small village known as Eliozor,
+[[Trebor Nodrog]], once a simple smith of a small village known as Eliozor,
 was forced to defend the innocent people of Eliozor from the tyrant,
 Lord Krolus. Krolus, enraged by the following Trebor inadvertently
 developed, decreed that Trebor and anyone foolish enough to follow in
@@ -258,14 +263,14 @@ Trebor was forced to flee Eliozor, but swore to return to overthrow
 Krolus and return peace to his people. Trebor tirelessly quests to save
 those trampled by the corrupted in power.
 
-Lord Krolus, ruler of the Antolian Hills, resides in his castle
+[[Lord Krolus]], ruler of the [[Antolian Hills]], resides in his castle
 demanding the tribute of his people and plotting the torture and demise
 of the upstart, Trebor Nodrog. Krolus is the bastard son of the late
 King Halus and therefore half-brother to the present king, Lannon Halus
 II. Halus casts a blind eye to Krolus\'s actions, not realizing they
 could be his undoing\...
 
-The Coven Sisters: Athena, Brianna, Cassandra, and Delilah all reside
+The [[Coven Sisters]]: [[Athena]], Brianna, Cassandra, and Delilah all reside
 together in the Village of Narrow Sectarian, a half day's walk south of
 Mount Menastily. Each sister has developed a specialty in some form of
 magic. Athena can infuse physical objects with magical properties.
@@ -275,7 +280,7 @@ form of chaos magic. The sisters have agreed to stay in Narrow Sectarian
 together to watch over Delilah as her chaos magic shows her dark visions
 of a desperate future.
 
-King Everec of the Mountain Dwarves is an old but wise leader. His
+[[King Everec]] of the Mountain Dwarves is an old but wise leader. His
 dwarven city inside the mountain is filled with beauty and wonder. Walls
 made of precious stones and gems and a foundry that makes some of the
 strongest armor and weapons imaginable.
@@ -302,7 +307,7 @@ decisions. Martin is very generous and has agreed to help those who help
 him in matters of business, political standing, and social status. He is
 definitely someone you want to keep on your good side.
 
-King Shabaku was once a tribal chieftain in the Untamed Lands Southwest
+[[King Shabaku]] was once a tribal chieftain in the Untamed Lands Southwest
 of the Antolian Hills. Among the humans, he was considered to be one of
 the bravest warriors as well as one of the wisest leaders. He prided
 himself on looking for solutions that would not endanger a single life.
@@ -336,7 +341,7 @@ called "a new royal line." Elsuon and Shabaku were soon with child, the
 city was thriving under his rule, and the people of Saljaimer were
 happy, unaware of the impending troubles that loomed on the horizon...
 
-Queen Elsuon is a stunningly gorgeous and strong black woman, the
+[[Queen Elsuon]] is a stunningly gorgeous and strong black woman, the
 perfect partner for King Shabaku. Although their union was political in
 nature, the two find solace and mutual admiration for one another. Their
 child further cemented this bond. Elsuon is also an incredible tactician
@@ -501,9 +506,9 @@ dark secret no one knows is that Boudica is from Jorbundo and is the
 orphaned daughter of a temptress who ended up being responsible for
 picking out her fellow orphans for the slaughter.
 
-**GROUPS AND MEMBERS**
+- ## GROUPS AND MEMBERS
 
-**[Order of Krolus]{.underline}** -- An elite group of knights sent out
+- ### Order of Krolus -- An elite group of knights sent out
 to kill, raid, and kidnap for Lord Krolus. The Order consists of the
 following:
 
@@ -593,7 +598,7 @@ following:
 > Order. He is also the only surviving member of the original Order of
 > Krolus.
 
-**[The King's Cabinet]{.underline}** -- King Shabaku's chosen leaders.
+- ### The King's Cabinet -- King Shabaku's chosen leaders.
 Each one brings an important influence or understanding to the city of
 Saljaimer and the Antolian Hills.
 
@@ -680,7 +685,7 @@ Saljaimer and the Antolian Hills.
 > Krolus's behavior and was instrumental in moving Princess Katzen out
 > of the capitol to Grimore.
 
-**[The (evil) Heretical]{.underline}** -- A group of necromancers,
+- ### The (evil) Heretical -- A group of necromancers,
 mages, cultists, and fanatics that all do the bidding of Fherrin Nok and
 Lord Krolus. They are a dangerous and unhinged group of pure evil.
 
@@ -729,7 +734,7 @@ Lord Krolus. They are a dangerous and unhinged group of pure evil.
 > bringing about chaos into the world. The Fanatics will kill and die
 > for anything they deem to feed the chaos of life.
 
-**[The House of Blackrock Crow]{.underline}** -- The Elite, the high
+- ### The House of Blackrock Crow -- The Elite, the high
 society of vampires, The House of Blackrock Crow is a dangerous group of
 deadly vampires that love the hunt as much as the kill and have been
 known to torture and bleed their victims for weeks before finally
@@ -836,7 +841,7 @@ killing them.
 > interested Gambal and Hurst and they decided to turn them both to be
 > used for later fun and future plans.
 
-**[The Heretical]{.underline}**
+- ### The Heretical
 
 > Bunmand, while living in the Mountains, grew up in a simple, peaceful
 > world. His family dwelled in the caverns of Mount Menastily, mining
@@ -936,11 +941,11 @@ Hans Gruber
 
 Shax
 
-**[The Dastards]{.underline}**
+- ### The Dastards
 
 Poe, the thief
 
-**[The Orc Army]{.underline}**
+- ### The Orc Army
 
 The Lost Queen, Sona Yoruba
 
@@ -954,7 +959,7 @@ Kleggt
 
 Uldgark
 
-**GODS**\
+- ## GODS\
 Moradin is the Dwarven god of Wisdom and Knowledge and the deity that
 guides Bunmand on his courageous Paladin path.
 

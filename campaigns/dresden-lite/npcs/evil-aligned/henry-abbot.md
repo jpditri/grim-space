@@ -1,94 +1,96 @@
----
-title: "Henry Abbot - The Corrupted Librarian"
-tags: ["#dresden-lite", "#npc", "#evil-aligned", "#coven-leader", "#salem-state", "#the-black-book"]
-type: "npc"
-campaign: "dresden-lite"
-alignment: "evil"
-location: "Salem State University Library / Winter Island"
----
+title:: Henry Abbot - The Corrupted Librarian
+type:: npc
+campaign:: dresden-lite
+alignment:: evil
+location:: Salem State University Library / Winter Island
+race:: Human (supernaturally corrupted)
+class:: Warlock (Great Old One patron)
+level:: 9
+background:: University Student / Library Assistant
+tags:: #dresden-lite #npc #evil-aligned #coven-leader #salem-state #the-black-book #henry-abbot
 
 # Henry Abbot
-## The Corrupted Librarian
+- ## The Corrupted Librarian
 
-### Physical Description
+- ### Physical Description
 Henry is a young man in his early 20s who has undergone a dramatic transformation since discovering The Black Book. Originally an unremarkable college student, he now carries himself with unnatural confidence and authority. He's of average height with a lean build, but his movements have taken on an unsettling quality—too fluid, too purposeful. His brown hair is often unkempt, and his eyes have developed an intensity that makes people uncomfortable. Dark circles under his eyes suggest chronic sleep deprivation, and his skin has taken on a pale, almost translucent quality.
 
 **Most Notable Feature**: His eyes, which occasionally seem to reflect light in unnatural ways, and the way his voice takes on harmonics that shouldn't be possible for human vocal cords when he's channeling the book's power.
 
-### Personality Traits
+- ### Personality Traits
 - **Obsessively Driven**: Completely consumed by his pursuit of supernatural power
 - **Manipulative Leader**: Charismatic when necessary, ruthless when challenged
 - **Intellectually Arrogant**: Believes his discovery makes him superior to others
 - **Emotionally Detached**: The book has numbed his capacity for human empathy
 - **Sacrificial Mindset**: Willing to sacrifice anyone, including family, for his goals
 
-### Background
+- ### Background
 Henry was an ordinary Salem State University student working as a library assistant when he discovered fragmentary notes about a buried grimoire. Initially driven by academic curiosity, he convinced his sister Abigail to help him excavate The Black Book from Old Burial Hill in Marblehead. The moment he touched the ancient tome, it began corrupting his mind and soul, feeding him knowledge and power while slowly consuming his humanity.
 
-### Current Situation
+- ### Current Situation
 - **Coven Leadership**: Commands the Coven of the Crimson Pages through supernatural charisma
 - **University Cover**: Maintains his librarian job as a front for normal life
 - **Ritual Progression**: Conducting monthly ceremonies building toward Halloween summoning
-- **Sister's Sacrifice**: Using Abigail as a dimensional vessel for Valkraise the Cruel
+- **Sister's Sacrifice**: Using [[Abigail]] as a dimensional vessel for [[Valkraise the Cruel]]
 - **Growing Power**: Increasing supernatural abilities as Halloween approaches
 
-### The Black Book's Influence
+- ### The Black Book's Influence
 **Mental Corruption**: The book has rewritten his personality and moral framework
 **Supernatural Knowledge**: Granted understanding of dimensional magic and entity summoning
 **Enhanced Charisma**: Supernatural ability to convince others to join his cause
 **Physical Changes**: Gradual transformation as his body adapts to channel dark energies
 **Addiction**: Psychologically dependent on the book's power and knowledge
 
-### Coven Leadership
+- ### Coven Leadership
 **Recruitment**: Uses supernatural charisma to attract followers among college students
 **Control**: Maintains absolute authority through magical compulsion and fear
 **Ritual Direction**: Personally conducts all major ceremonies and summonings
 **Strategic Planning**: Coordinates the escalating timeline toward Halloween
 **Resource Management**: Organizes logistics for obtaining victims and ritual components
 
-### University Life (Cover Identity)
+- ### University Life (Cover Identity)
 **Position**: Part-time librarian at Salem State University
 **Schedule**: Works primarily evening and weekend shifts
 **Colleagues**: Maintains superficial professional relationships
 **Academic Standing**: Still technically enrolled but rarely attends classes
 **Research**: Uses library access to research historical supernatural events
 
-### Relationship with Abigail
+- ### Relationship with Abigail
 **Original Bond**: Genuinely loved his sister before the book's corruption
 **Current Dynamic**: Views her as a necessary tool for his ultimate goal
 **Emotional Manipulation**: Uses their family history to maintain her cooperation
 **Gradual Sacrifice**: Slowly transforming her into a dimensional vessel
 **Justification**: Believes her sacrifice will grant them both immortal power
 
-### Supernatural Abilities
-**Entity Communication**: Can speak directly with Valkraise the Cruel
+- ### Supernatural Abilities
+**Entity Communication**: Can speak directly with [[Valkraise the Cruel]]
 **Minor Summoning**: Capable of bringing small aberrant horrors into reality
 **Magical Compulsion**: Can influence weak-willed individuals to obey commands
 **Dark Knowledge**: Understanding of dimensional barriers and reality manipulation
 **Corruption Aura**: His presence gradually corrupts others toward evil
 
-### Monthly Ritual Cycle
+- ### Monthly Ritual Cycle
 **Timing**: Conducts major ceremonies during specific lunar and celestial alignments
-**Location**: Uses the abandoned estate on Winter Island for all significant rituals
+**Location**: Uses the abandoned estate on [[Winter Island]] for all significant rituals
 **Participants**: Requires increasing numbers of Coven members for each ceremony
 **Escalation**: Each ritual grows more powerful and dangerous than the last
 **Purpose**: Building supernatural energy for the Halloween summoning
 
-### Halloween Endgame
-**Final Ritual**: Plans to complete Valkraise's summoning on Halloween night
-**Sister's Role**: Will sacrifice Abigail to serve as the demon's permanent vessel
+- ### Halloween Endgame
+**Final Ritual**: Plans to complete [[Valkraise the Cruel]]'s summoning on [[Halloween]] night
+**Sister's Role**: Will sacrifice [[Abigail]] to serve as the demon's permanent vessel
 **Dimensional Breach**: Intends to open permanent rifts between realities
 **Personal Transformation**: Expects to be rewarded with demonic power and immortality
 **Apocalyptic Vision**: Believes he's bringing about a supernatural renaissance
 
-### Psychological Profile
+- ### Psychological Profile
 **Core Motivation**: Desperate desire for power and significance
 **Rationalization**: Believes he's destined for greatness and supernatural authority
 **Emotional Numbing**: The book has suppressed his capacity for guilt or empathy
 **Grandiose Delusions**: Sees himself as a chosen prophet of cosmic forces
 **Isolation**: Increasingly disconnected from normal human relationships
 
-### Roleplaying Notes
+- ### Roleplaying Notes
 **Voice**: Often speaks with unnatural cadence, occasionally lapses into archaic language
 **Mannerisms**:
 - Constantly references "the greater plan" and "cosmic significance"
@@ -101,27 +103,27 @@ Henry was an ordinary Salem State University student working as a library assist
 - "Abigail understands the honor of her role in our transformation."
 - "Lesser minds cannot comprehend the necessity of sacrifice for transcendence."
 
-### Character Motivations
+- ### Character Motivations
 **Primary Goal**: Complete the Halloween summoning to gain immortal power
 **Secondary Goals**: Expand the Coven, protect The Black Book, prepare Abigail
 **Greatest Fear**: Losing The Black Book or failing to complete the ritual
 **Driving Obsession**: Proving himself worthy of cosmic power and significance
 
-### Potential Redemption
+- ### Potential Redemption
 Henry's corruption runs deep, but potential salvation exists:
-- **Destroying The Black Book**: Might break the supernatural influence over him
-- **Saving Abigail**: Genuine love for his sister could break through the corruption
+- **Destroying [[The Black Book]]**: Might break the supernatural influence over him
+- **Saving [[Abigail]]**: Genuine love for his sister could break through the corruption
 - **Facing Consequences**: Confronting the victims of his actions might restore empathy
 - **Divine Intervention**: Powerful holy magic could potentially purify his soul
 
-### Combat Tactics
+- ### Combat Tactics
 **Preferred Strategy**: Uses summoned aberrant horrors rather than direct confrontation
 **Backup Plans**: Relies on Coven members for protection and distraction
 **Escape Routes**: Knows multiple ways to flee Winter Island if threatened
 **Psychological Warfare**: Attempts to corrupt or demoralize opponents
 **Last Resort**: Will sacrifice himself to complete the summoning if necessary
 
-### Stats & Abilities
+- ### Stats & Abilities
 **AC**: 13 (Unarmored Defense + Dex + Supernatural Protection)
 **HP**: 58 (13d8+13)
 **Speed**: 30 ft

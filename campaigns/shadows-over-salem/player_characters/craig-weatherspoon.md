@@ -1,6 +1,16 @@
+title:: Craig Weatherspoon
+type:: player-character
+campaign:: shadows-over-salem
+race:: Human
+class:: Sorcerer
+level:: 1
+background:: Guard
+player:: TheGrimPandaMan
+tags:: #shadows-over-salem #player-character #sorcerer #craig-weatherspoon
+
 # Craig Weatherspoon
 
-## Identity
+- ## Identity
 - **Name:** Craig Weatherspoon
 - **Race:** Human
 - **Class:** Sorcerer 1
@@ -9,12 +19,12 @@
 - **Level:** 1
 - **Player:** TheGrimPandaMan
 
-## Attributes
+- ## Attributes
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 | 12  | 14  | 18  | 10  | 10  | 14  |
 
-## Saves
+- ## Saves
 - Str: +1
 - Dex: +2
 - Con: +4
@@ -22,7 +32,7 @@
 - Wis: +3
 - Cha: +4
 
-## HP & Combat
+- ## HP & Combat
 - HP: 10
 - AC: (not listed; base likely 14-15, check armor/spell)
 - Hit Dice: 1d6
