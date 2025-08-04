@@ -1,16 +1,15 @@
-Currency - Energy Credits
+- Currency - Energy Credits
 
-  *Use 5e as our building block (SRD only)
+- *Use 5e as our building block (SRD only)
 
-  *There is Magic -  There is Technoligy that appears like Magic (ghostbusters proton packs/nanites healing people)
+- *There is Magic -  There is Technoligy that appears like Magic (ghostbusters proton packs/nanites healing people)
 
-  *Instead of spell slots, do you we want to have more like tokens that we can spend. IE to cast magical spell we spend an certain amount of essence tokens, or energy to cast a tech spell?
+- *Instead of spell slots, do you we want to have more like tokens that we can spend. IE to cast magical spell we spend an certain amount of essence tokens, or energy to cast a tech spell?
 
-  *Multiverse -  traversing from one universe to another takes a toll always negative in its cost.
+- *Multiverse -  traversing from one universe to another takes a toll always negative in its cost.
 
-  *Milestone EXP
+- *Milestone EXP
 
-  *FTL - Wormhole - Magical Portal - Folding Space Drive (needs to be done by a trained healms-man/pilot and has a chance of event horizoning)
+- *FTL - Wormhole - Magical Portal - Folding Space Drive (needs to be done by a trained healms-man/pilot and has a chance of event horizoning)
 
-  *Sanity - Con + Int + Wisdom (their modifiers added together = their sanity score-pool)
-
+- *Sanity - Con + Int + Wisdom (their modifiers added together = their sanity score-pool)

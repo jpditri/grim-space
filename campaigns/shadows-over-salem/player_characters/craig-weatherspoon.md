@@ -1,14 +1,14 @@
 title:: Craig Weatherspoon
 type:: player-character
-campaign:: shadows-over-salem
+campaign:: shadows-over-[[salem]]
 race:: Human
 class:: Sorcerer
 level:: 1
 background:: Guard
 player:: TheGrimPandaMan
-tags:: #shadows-over-salem #player-character #sorcerer #craig-weatherspoon
+tags:: #shadows-over-[[salem]] #player-character #sorcerer #craig-weatherspoon
 
-# Craig Weatherspoon
+- # Craig Weatherspoon
 
 - ## Identity
 - **Name:** Craig Weatherspoon
@@ -20,9 +20,9 @@ tags:: #shadows-over-salem #player-character #sorcerer #craig-weatherspoon
 - **Player:** TheGrimPandaMan
 
 - ## Attributes
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 12  | 14  | 18  | 10  | 10  | 14  |
+- | STR | DEX | CON | INT | WIS | CHA |
+- |-----|-----|-----|-----|-----|-----|
+- | 12  | 14  | 18  | 10  | 10  | 14  |
 
 - ## Saves
 - Str: +1
@@ -37,23 +37,23 @@ tags:: #shadows-over-salem #player-character #sorcerer #craig-weatherspoon
 - AC: (not listed; base likely 14-15, check armor/spell)
 - Hit Dice: 1d6
 
-## Proficiencies
+- ## Proficiencies
 - Weapons: (not listed; Sorcerer: daggers, darts, slings, quarterstaffs, light crossbows)
 - Tools: (not listed)
 - Skills: (likely Perception, Intimidation/Guard picks)
 - Languages: (not listed)
 
-## Features & Traits
+- ## Features & Traits
 - Spellcasting: Charisma-based
 - Sorcerer: Spell slots, metamagic (when available)
 - Guard background: Watch duty, skill proficiencies
 - Saving Throws: Constitution, Charisma
 
-## Equipment
+- ## Equipment
 - (Details not shown)
 
-## Backstory/Personality
+- ## Backstory/Personality
 - (Not present; please add player flavor for your campaign!)
 
----
-*Imported from D&D Beyond PDF. For campaign "Shadows Over Salem".*
+- ---
+- *Imported from D&D Beyond PDF. For campaign "Shadows Over [[Salem]]".*

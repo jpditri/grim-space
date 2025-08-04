@@ -1,14 +1,14 @@
 title:: Rant
 type:: player-character
-campaign:: shadows-over-salem
+campaign:: shadows-over-[[salem]]
 race:: Human
 class:: Fighter
 level:: 1
 background:: Soldier
 player:: TheGrimPandaMan
-tags:: #shadows-over-salem #player-character #fighter #rant
+tags:: #shadows-over-[[salem]] #player-character #fighter #rant
 
-# Rant
+- # Rant
 
 - ## Identity
 - **Name:** Rant
@@ -20,11 +20,11 @@ tags:: #shadows-over-salem #player-character #fighter #rant
 - **Player:** TheGrimPandaMan
 
 - ## Attributes
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 13  | 15  | 13  | 12  | 8   | 10  |
+- | STR | DEX | CON | INT | WIS | CHA |
+- |-----|-----|-----|-----|-----|-----|
+- | 13  | 15  | 13  | 12  | 8   | 10  |
 
-## Saves
+- ## Saves
 - Str: +1
 - Dex: +3
 - Con: +3
@@ -32,28 +32,28 @@ tags:: #shadows-over-salem #player-character #fighter #rant
 - Wis: -1
 - Cha: +0
 
-## HP & Combat
+- ## HP & Combat
 - HP: 13
 - AC: (not listed, Fighter: likely 15-17)
 - Hit Dice: 1d10
 
-## Proficiencies
+- ## Proficiencies
 - Weapons: (not listed, Fighter: all armor, shields, simple + martial)
 - Tools: (not listed)
 - Skills: (likely Athletics, Intimidation/Soldier picks)
 - Languages: (not listed)
 
-## Features & Traits
+- ## Features & Traits
 - Fighting Style (choose one)
 - Second Wind
 - Soldier background: ranking skills, equipment
 - Saving Throws: Strength, Constitution
 
-## Equipment
+- ## Equipment
 - (Details not shown)
 
-## Backstory/Personality
+- ## Backstory/Personality
 - (Not present; please add player flavor for your campaign!)
 
----
-*Imported from D&D Beyond PDF. For campaign "Shadows Over Salem".*
+- ---
+- *Imported from D&D Beyond PDF. For campaign "Shadows Over [[Salem]]".*

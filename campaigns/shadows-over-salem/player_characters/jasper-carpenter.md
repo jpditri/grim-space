@@ -1,14 +1,14 @@
 title:: Jasper Carpenter
 type:: player-character
-campaign:: shadows-over-salem
+campaign:: shadows-over-[[salem]]
 race:: Human
 class:: Bard
 level:: 1
 background:: Reveler
 player:: TheGrimPandaMan
-tags:: #shadows-over-salem #player-character #bard #jasper-carpenter
+tags:: #shadows-over-[[salem]] #player-character #bard #jasper-carpenter
 
-# Jasper Carpenter
+- # Jasper Carpenter
 
 - ## Identity
 - **Name:** Jasper Carpenter
@@ -20,11 +20,11 @@ tags:: #shadows-over-salem #player-character #bard #jasper-carpenter
 - **Player:** TheGrimPandaMan
 
 - ## Attributes
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 11  | 14  | 14  | 10  | 10  | 16  |
+- | STR | DEX | CON | INT | WIS | CHA |
+- |-----|-----|-----|-----|-----|-----|
+- | 11  | 14  | 14  | 10  | 10  | 16  |
 
-## Saves
+- ## Saves
 - Str: +0
 - Dex: +2
 - Con: +2
@@ -32,28 +32,28 @@ tags:: #shadows-over-salem #player-character #bard #jasper-carpenter
 - Wis: +2
 - Cha: +6
 
-## HP & Combat
+- ## HP & Combat
 - HP: 10
 - AC: (not listed, Bard: likely 13-14)
 - Hit Dice: 1d8
 
-## Proficiencies
+- ## Proficiencies
 - Weapons: (not listed; Bard: simple weapons, hand crossbows, longswords, rapiers, shortswords)
 - Tools: (not listed)
 - Skills: (likely Deception, Persuasion/Reveler picks)
 - Languages: (not listed)
 
-## Features & Traits
+- ## Features & Traits
 - Spellcasting: Charisma-based
 - Bardic Inspiration
 - Reveler background: party skills
 - Saving Throws: Dexterity, Charisma
 
-## Equipment
+- ## Equipment
 - (Details not shown)
 
-## Backstory/Personality
+- ## Backstory/Personality
 - (Not present; please add player flavor for your campaign!)
 
----
-*Imported from D&D Beyond PDF. For campaign "Shadows Over Salem".*
+- ---
+- *Imported from D&D Beyond PDF. For campaign "Shadows Over [[Salem]]".*

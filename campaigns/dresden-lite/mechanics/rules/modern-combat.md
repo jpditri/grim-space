@@ -4,7 +4,7 @@ campaign:: dresden-lite
 category:: rules
 tags:: #dresden-lite #mechanics #firearms #modern-combat #rules
 
-# Modern Combat & Firearms Rules
+- # Modern Combat & Firearms Rules
 
 - ## Firearms Mechanics
 
@@ -19,10 +19,10 @@ tags:: #dresden-lite #mechanics #firearms #modern-combat #rules
 - **Hit Determination**: D4 roll for number of bullets that hit target (only if initial D20 attack succeeds)
 
 	- ### Automatic Weapons Hit System
-1. Roll D20 to determine if attack hits
-2. If hit, roll D4 to determine number of bullets that connect
-3. Apply damage for each bullet hit
-4. Consider cover, armor, and defensive positioning
+- 1. Roll D20 to determine if attack hits
+- 2. If hit, roll D4 to determine number of bullets that connect
+- 3. Apply damage for each bullet hit
+- 4. Consider cover, armor, and defensive positioning
 
 	- ### Weapon Concealment
 - **Open Carry Restrictions**: Carrying weapons openly draws immediate police attention
@@ -42,10 +42,10 @@ tags:: #dresden-lite #mechanics #firearms #modern-combat #rules
 - **Cover Stories**: Explosions become "gas leaks," disappearances become "missing persons"
 
 	- ### Consequence Escalation
-1. **First Exposure**: Treated as isolated incident, covered up locally
-2. **Repeated Exposure**: Federal investigation begins
-3. **Major Exposure**: National security response, manhunt initiated
-4. **Catastrophic Exposure**: Military intervention, supernatural community mobilizes
+- 1. **First Exposure**: Treated as isolated incident, covered up locally
+- 2. **Repeated Exposure**: Federal investigation begins
+- 3. **Major Exposure**: National security response, manhunt initiated
+- 4. **Catastrophic Exposure**: Military intervention, supernatural community mobilizes
 
 	- ### Stealth Casting
 - **Subtle Spell Techniques**: Metamagic to reduce visible effects

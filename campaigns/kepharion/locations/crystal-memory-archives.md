@@ -1,33 +1,33 @@
 title:: Crystal Memory Archives
 type:: location
-campaign:: kepharion
-region:: Central Kepharion
-location-type:: archives, crystalline complex
-tags:: #kepharion #location #xenocortex #knowledge #archives #crystal-memory-archives
+campaign:: [[kepharion]]
+region:: Central [[Kepharion]]
+- location-type:: archives, crystalline complex
+tags:: #[[kepharion]] #location #[[xenocortex]] #knowledge #archives #crystal-memory-archives
 
-# Crystal Memory Archives
+- # Crystal Memory Archives
 
 - ## Overview
-The Crystal Memory Archives represent the pinnacle of Kepharion civilization—a vast complex where the collective xenocortex patterns of entire cultures are preserved, studied, and accessed. Built into a series of natural crystal formations, the Archives serve as both library and living museum of consciousness itself.
+- The Crystal Memory Archives represent the pinnacle of [[Kepharion]] civilization—a vast complex where the collective [[xenocortex]] patterns of entire cultures are preserved, studied, and accessed. Built into a series of natural crystal formations, the Archives serve as both library and living museum of consciousness itself.
 
 - ## Physical Description
 - **Structure**: Massive crystalline caverns naturally formed but architecturally enhanced
 - **Size**: Extends over 50 levels both above and below ground
-- **Materials**: Bio-crystalline growths that resonate with xenocortex frequencies
+- **Materials**: [[Bio-crystalline]] growths that resonate with [[xenocortex]] frequencies
 - **Lighting**: Bioluminescent organisms provide soft, color-coded illumination
 - **Climate**: Precisely controlled temperature and humidity for crystal preservation
 
 - ## The Archive System
 
 	- ### Pattern Storage
-- **Memory Crystals**: Massive xenocortex-like formations store encoded behaviors
+- **Memory Crystals**: Massive [[xenocortex]]-like formations store encoded behaviors
 - **Cultural Collections**: Entire civilizations' knowledge preserved in crystal
 - **Individual Donations**: Personal pattern libraries donated by notable figures
 - **Historical Archives**: Ancient patterns from extinct species and cultures
 
 	- ### Access Methods
 - **Resonance Chambers**: Rooms where visitors can temporarily access stored patterns
-- **Pattern Streaming**: Direct neural interface with archived xenocortex memories
+- **Pattern Streaming**: Direct neural interface with archived [[xenocortex]] memories
 - **Crystalline Guides**: Living crystal entities that help navigate the collection
 - **Harmonic Keys**: Sonic frequencies unlock specific knowledge categories
 
@@ -40,13 +40,13 @@ The Crystal Memory Archives represent the pinnacle of Kepharion civilization—a
 - ## The Archivist Caste
 
 	- ### Pattern Keepers
-- **Xenocortex Specialists**: Beings with enhanced crystalline brain development
+- **[[Xenocortex]] Specialists**: Beings with enhanced crystalline brain development
 - **Memory Catalogers**: Experts in pattern classification and storage
 - **Resonance Technicians**: Maintain and repair the crystal matrix systems
 - **Cultural Anthropologists**: Study the social implications of stored patterns
 
 	- ### The Archive Council
-- **High Archivist**: Elder being with maximum xenocortex development
+- **High Archivist**: Elder being with maximum [[xenocortex]] development
 - **Acquisition Committee**: Determines which patterns deserve preservation
 - **Access Board**: Controls who may access dangerous or sacred patterns
 - **Ethics Panel**: Debates the morality of consciousness preservation
@@ -66,7 +66,7 @@ The Crystal Memory Archives represent the pinnacle of Kepharion civilization—a
 - **Sacred Mysteries**: Religious and spiritual patterns of various cultures
 
 	- ### Deep Archives
-- **The Foundation**: Original patterns from Kepharion's first sentient species
+- **The Foundation**: Original patterns from [[Kepharion]]'s first sentient species
 - **Experimental Patterns**: Artificially created or modified behaviors
 - **The Forbidden**: Patterns deemed too dangerous for any access
 - **Living Storage**: Conscious beings who serve as pattern repositories
@@ -93,14 +93,14 @@ The Crystal Memory Archives represent the pinnacle of Kepharion civilization—a
 - **Cultural Crisis**: Conflict over access to another species' sacred patterns
 
 - ## Dangers
-- **Pattern Overload**: Too much pattern access can overwhelm xenocortex capacity
+- **Pattern Overload**: Too much pattern access can overwhelm [[xenocortex]] capacity
 - **Memory Displacement**: Visitors may lose their own patterns to archived ones
 - **Crystalline Infection**: Direct contact with raw crystal can alter brain structure
 - **Consciousness Fragmenting**: Deep pattern diving can scatter awareness
 - **Archive Security**: Automated guardians protect sensitive areas
 
 - ## Services and Resources
-- **Pattern Consultation**: Expert advice on xenocortex development
+- **Pattern Consultation**: Expert advice on [[xenocortex]] development
 - **Skill Acquisition**: Temporary access to professional or artistic patterns
 - **Cultural Research**: Academic study of inter-species behavioral differences
 - **Memory Recovery**: Help for those with damaged or corrupted patterns

@@ -1,4 +1,4 @@
-title:: Athena
+title:: [[Athena]]
 type:: npc
 campaign:: heretical
 race:: Human (possibly half-elf)
@@ -8,7 +8,7 @@ pronouns:: She/Her
 location:: [[Narrow Sectarian]]
 tags:: #heretical #npc #wizard #enchanter #coven-sisters #neutral-good
 
-# Athena
+- # [[Athena]]
 
 - **Race**: Human (possibly half-elf)
 - **Class**: Wizard (Enchanter)

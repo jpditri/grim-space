@@ -1,14 +1,14 @@
-title:: Lynn Woods Reservation
+title:: [[Lynn Woods]] Reservation
 type:: location
 campaign:: dresden-lite
 coordinates:: 42.4668° N, 70.9859° W
-location-type:: forest, supernatural sanctuary
+- location-type:: forest, supernatural sanctuary
 tags:: #dresden-lite #location #forest #supernatural-activity #lynn-woods #neutral-territory
 
-# Lynn Woods Reservation
+- # [[Lynn Woods]] Reservation
 
 - ## Overview
-Lynn Woods Reservation is a 2,200-acre forest preserve in [[Lynn]], [[Massachusetts]], just north of [[Boston]]. While appearing as a typical New England woodland to mundane visitors, it serves as a supernatural sanctuary and neutral ground for the region's hidden magical community.
+- [[Lynn Woods]] Reservation is a 2,200-acre forest preserve in [[Lynn]], [[Massachusetts]], just north of [[Boston]]. While appearing as a typical New England woodland to mundane visitors, it serves as a supernatural sanctuary and neutral ground for the region's hidden magical community.
 
 - ## Physical Description
 - **Size**: 2,200 acres of mixed hardwood and pine forest

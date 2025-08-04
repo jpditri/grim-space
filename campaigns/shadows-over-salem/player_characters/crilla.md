@@ -1,14 +1,14 @@
 title:: Crilla (Scar)
 type:: player-character
-campaign:: shadows-over-salem
+campaign:: shadows-over-[[salem]]
 race:: Human
 class:: Barbarian
 level:: 1
 background:: Soldier
 player:: TheGrimPandaMan
-tags:: #shadows-over-salem #player-character #barbarian #crilla #scar
+tags:: #shadows-over-[[salem]] #player-character #barbarian #crilla #scar
 
-# Crilla (Scar)
+- # Crilla (Scar)
 
 - ## Identity
 - **Name:** Crilla (Scar)
@@ -20,11 +20,11 @@ tags:: #shadows-over-salem #player-character #barbarian #crilla #scar
 - **Player:** TheGrimPandaMan
 
 - ## Attributes
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 19  | 15  | 15  | 8   | 12  | 10  |
+- | STR | DEX | CON | INT | WIS | CHA |
+- |-----|-----|-----|-----|-----|-----|
+- | 19  | 15  | 15  | 8   | 12  | 10  |
 
-## Saves
+- ## Saves
 - Str: +4
 - Dex: +3
 - Con: +5
@@ -32,28 +32,28 @@ tags:: #shadows-over-salem #player-character #barbarian #crilla #scar
 - Wis: +1
 - Cha: +0
 
-## HP & Combat
+- ## HP & Combat
 - HP: 15
 - AC: (not listed; Unarmored Defense or armor)
 - Hit Dice: 1d12
 
-## Proficiencies
+- ## Proficiencies
 - Weapons: (not listed; Barbarian: simple/martial)
 - Tools: (not listed)
 - Skills: (likely Athletics, Intimidation/Soldier picks)
 - Languages: (not listed)
 
-## Features & Traits
+- ## Features & Traits
 - Rage (level 1 Barbarian)
 - Unarmored Defense
 - Soldier background: rank, skill proficiencies
 - Saving Throws: Strength, Constitution
 
-## Equipment
+- ## Equipment
 - (Details not shown)
 
-## Backstory/Personality
+- ## Backstory/Personality
 - (Not present; please add player flavor for your campaign!)
 
----
-*Imported from D&D Beyond PDF. For campaign "Shadows Over Salem".*
+- ---
+- *Imported from D&D Beyond PDF. For campaign "Shadows Over [[Salem]]".*

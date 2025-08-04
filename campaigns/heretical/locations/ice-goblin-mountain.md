@@ -1,13 +1,13 @@
-# Ice Goblin Mountain
+- # [[Ice Goblin Mountain]]
 
 Type: Wilderness/Dungeon
 Region: Northern/central ring of Antolian Hills
 Summary: Treacherous mountain full of goblins; trade routes surround the area and are frequently raided.
-Notable NPCs: Goblin leaders (unnamed)
-Features:
+- Notable NPCs: Goblin leaders (unnamed)
+- Features:
 - Site of numerous goblin raids
 - Dangerous terrain and weather
 - Rumored to harbor monsters beyond goblins
-Hooks:
+- Hooks:
 - Possible goblin diplomacy or monster hunting
 - Location for dangerous wilderness encounters

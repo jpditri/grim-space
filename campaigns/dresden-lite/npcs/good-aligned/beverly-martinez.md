@@ -1,4 +1,4 @@
-title:: Beverly Martinez - The Clairvoyant Mother
+title:: [[Beverly Martinez]] - The Clairvoyant Mother
 type:: npc
 campaign:: dresden-lite
 alignment:: good
@@ -9,8 +9,8 @@ level:: 7
 background:: Single Mother / Supermarket Manager
 tags:: #dresden-lite #npc #good-aligned #clairvoyant #single-mother #paranormal-investigator
 
-# Beverly Martinez
-## The Clairvoyant Mother
+- # [[Beverly Martinez]]
+- ## The Clairvoyant Mother
 
 - ### Physical Description
 	- Beverly is a 34-year-old woman with the tired but determined look of a single mother balancing multiple responsibilities
@@ -120,6 +120,6 @@ tags:: #dresden-lite #npc #good-aligned #clairvoyant #single-mother #paranormal-
 		- **Danger Sense**: Advantage on initiative rolls when supernatural threats are present
 	- **Equipment**: EMF detector, digital recorder, smartphone, car keys, pepper spray
 
----
+- ---
 
-*"Look, I know how this sounds, but I've got two kids to protect and bills to pay. I don't go looking for trouble. But sometimes trouble finds you anyway, and when it does, you better know how to listen to the voices trying to warn you."*
+- *"Look, I know how this sounds, but I've got two kids to protect and bills to pay. I don't go looking for trouble. But sometimes trouble finds you anyway, and when it does, you better know how to listen to the voices trying to warn you."*

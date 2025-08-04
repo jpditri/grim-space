@@ -5,10 +5,10 @@ rarity:: common
 category:: food
 tags:: #dresden-lite #item #food #guilt #supernatural #penance-sandwich
 
-# Penance Sandwich
+- # Penance Sandwich
 
 - ## Description
-A Penance Sandwich carries the weight of its name in every bite, served in certain supernatural establishments around Boston as both sustenance and psychological experience.
+- A Penance Sandwich carries the weight of its name in every bite, served in certain supernatural establishments around [[Boston]] as both sustenance and psychological experience.
 
 - ## Physical Appearance
 - **Bread**: Firm, austere crust of dark rye with sour tang
@@ -80,5 +80,4 @@ A Penance Sandwich carries the weight of its name in every bite, served in certa
 - **The Full Confession**: Double-sized version for serious transgressions
 - **The Whispered Guilt**: Smaller version for minor supernatural infractions
 - **The Absolution**: Special preparation that provides stronger cleansing effects
-- **The Boston Special**: Local variant with added cranberries (slightly less bitter)
-
+- **The [[Boston]] Special**: Local variant with added cranberries (slightly less bitter)

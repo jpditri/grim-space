@@ -1,13 +1,13 @@
-title:: Boston Supernatural World - The Hidden Reality
+title:: [[Boston]] Supernatural World - The Hidden Reality
 type:: lore
 campaign:: dresden-lite
-tags:: #dresden-lite #lore #masquerade #boston #supernatural-world #hidden-reality
+tags:: #dresden-lite #lore #masquerade #[[boston]] #supernatural-world #hidden-reality
 
-# Boston Supernatural World - The Hidden Reality
+- # [[Boston]] Supernatural World - The Hidden Reality
 
 - ## The Masquerade
 
-In the greater Boston-North Shore area, the supernatural world exists in the shadows of everyday life. While the United States continues its familiar trajectory - China rising as a global power, corporations expanding influence, social media dominating communication - a parallel reality operates just beneath the surface.
+- In the greater [[Boston]]-North Shore area, the supernatural world exists in the shadows of everyday life. While the United States continues its familiar trajectory - China rising as a global power, corporations expanding influence, social media dominating communication - a parallel reality operates just beneath the surface.
 
 	- ### The Hidden Truth
 - **Ghosts and Goblins**: Real supernatural beings hide among the mundane population
@@ -16,15 +16,15 @@ In the greater Boston-North Shore area, the supernatural world exists in the sha
 - **Modern Folklore**: Old Grendelkin tales have basis in supernatural reality
 
 	- ### The Masquerade Rules
-1. **No Open Magic**: Supernatural abilities cannot be displayed publicly
-2. **Official Cover-Ups**: Authorities create conventional explanations for supernatural events
-3. **Community Enforcement**: Supernatural beings police their own to maintain secrecy
-4. **Severe Consequences**: Exposure violations face exile, hunting, or worse
+- 1. **No Open Magic**: Supernatural abilities cannot be displayed publicly
+- 2. **Official Cover-Ups**: Authorities create conventional explanations for supernatural events
+- 3. **Community Enforcement**: Supernatural beings police their own to maintain secrecy
+- 4. **Severe Consequences**: Exposure violations face exile, hunting, or worse
 
 - ## Geographic Setting
 
-	- ### Primary Territory: Boston-North Shore Massachusetts
-The supernatural community operates throughout the greater Boston metropolitan area, with particular concentration in historically significant locations.
+	- ### Primary Territory: [[Boston]]-North Shore Massachusetts
+- The supernatural community operates throughout the greater [[Boston]] metropolitan area, with particular concentration in historically significant locations.
 
 	- ### Key Supernatural Locations
 
@@ -129,27 +129,27 @@ The supernatural community operates throughout the greater Boston metropolitan a
 - ## The Coven of the Crimson Pages Crisis
 
 	- ### Current Threat Level: ESCALATING
-For the past year, twelve teenagers have vanished from Salem and Marblehead High Schools, with some college students also missing. While authorities attribute these to typical runaway cases, the supernatural community recognizes a far more sinister pattern.
+- For the past year, twelve teenagers have vanished from Salem and Marblehead High Schools, with some college students also missing. While authorities attribute these to typical runaway cases, the supernatural community recognizes a far more sinister pattern.
 
 	- ### The Missing Twelve
-The disappearances follow a supernatural pattern:
+- The disappearances follow a supernatural pattern:
 - **Timing**: Aligned with lunar cycles and celestial positioning
 - **Demographics**: Young people aged 16-22, all with latent supernatural sensitivity
 - **Location Pattern**: Concentrated around historically significant Salem/Marblehead sites
 - **Physical Evidence**: Sulfur residue, unexplained technological malfunctions, reality distortions
 
 	- ### The Coven's Origin
-**[[Henry Abbot]]**, a [[Salem State University]] librarian, discovered notes about a buried grimoire while cataloging old manuscripts. Following these clues, he and his sister **[[Abigail]]** excavated **[[The Black Book]]** from [[Old Burial Hill]] in [[Marblehead]]. The tome's influence quickly corrupted Henry and allowed him to gather followers into the **Coven of the Crimson Pages**.
+- **[[Henry Abbot]]**, a [[Salem State University]] librarian, discovered notes about a buried grimoire while cataloging old manuscripts. Following these clues, he and his sister **[[Abigail]]** excavated **[[The Black Book]]** from [[Old Burial Hill]] in [[Marblehead]]. The tome's influence quickly corrupted Henry and allowed him to gather followers into the **Coven of the Crimson Pages**.
 
 	- ### The Ritual Cycle
-The Coven has been conducting monthly rituals on [[Winter Island]], using the abandoned estate's proximity to dimensional barriers. Each ritual:
-1. **Summons aberrant horrors** from far realms to terrorize specific targets
-2. **Feeds energy** to the imprisoned demon **Valkraise the Cruel**
-3. **Prepares Abigail** as a dimensional vessel for the final summoning
-4. **Weakens reality barriers** in preparation for Halloween
+- The Coven has been conducting monthly rituals on [[Winter Island]], using the abandoned estate's proximity to dimensional barriers. Each ritual:
+- 1. **Summons aberrant horrors** from far realms to terrorize specific targets
+- 2. **Feeds energy** to the imprisoned demon **Valkraise the Cruel**
+- 3. **Prepares Abigail** as a dimensional vessel for the final summoning
+- 4. **Weakens reality barriers** in preparation for Halloween
 
 	- ### Halloween Endgame
-On Halloween night, when dimensional barriers are weakest, [[Henry Abbot]] plans to:
+- On Halloween night, when dimensional barriers are weakest, [[Henry Abbot]] plans to:
 - **Complete the final ritual** using accumulated supernatural energy
 - **Release [[Valkraise the Cruel]]** from its centuries-old prison
 - **Open permanent dimensional rifts** across the [[North Shore]]
@@ -251,6 +251,6 @@ On Halloween night, when dimensional barriers are weakest, [[Henry Abbot]] plans
 - **Reality Instability**: Dimensional rifts causing unpredictable supernatural events
 - **Public Awareness**: Growing human suspicion threatening the Masquerade
 
----
+- ---
 
-*"In Boston, the supernatural world operates like the subway system - everyone knows it's there, most people use it daily, but few ever really look at the tunnels. But now the tunnels are flooding, and everyone's about to get very, very wet."*
+- *"In [[Boston]], the supernatural world operates like the subway system - everyone knows it's there, most people use it daily, but few ever really look at the tunnels. But now the tunnels are flooding, and everyone's about to get very, very wet."*

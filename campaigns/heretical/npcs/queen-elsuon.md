@@ -1,10 +1,10 @@
-# Queen Elsuon
+- # [[Queen Elsuon]]
 Race: Human
 Class: Aristocrat (courtly mage or noble)
 Alignment: Lawful Neutral
 Pronouns: She/Her
-Location: Saljaimer
-Background:
-  Second wife of King Shabaku, patron of the arts and culture. Responsible for Saljaimer's flourishing artistic scene and for welcoming foreigners seeking refuge.
+Location: [[Saljaimer]]
+- Background:
+- Second wife of [[King Shabaku]], patron of the arts and culture. Responsible for [[Saljaimer]]'s flourishing artistic scene and for welcoming foreigners seeking refuge.
 Traits: Generous, artistic, highly connected
 Hook: Patron of artists, organizers, and scholars; supports worthy adventurers.
