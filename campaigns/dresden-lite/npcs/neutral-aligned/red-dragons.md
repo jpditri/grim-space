@@ -1,9 +1,9 @@
-title:: The Red Dragons - Anti-Trafficking Gang
-tags:: #dresden-lite, #npc, #neutral-aligned, #chinese-gang, #anti-trafficking, #chinatown
-type:: npc
-campaign:: dresden-lite
-alignment:: neutral
-location:: Chinatown, [[Boston]] / Hong Kong Kings Restaurant
+- title:: The Red Dragons - Anti-Trafficking Gang
+- tags:: : #dresden-lite, #npc, #neutral-aligned, #chinese-gang, #anti-trafficking, #chinatown
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : neutral
+- location:: : Chinatown, [[Boston]] / Hong Kong Kings Restaurant
 
 - # The Red Dragons
 - ## Anti-Trafficking Gang

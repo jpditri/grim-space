@@ -1,17 +1,17 @@
-name:: Symphonist
-type:: class
-hit_die:: 10
-primary_ability:: Charisma, Intelligence
-saving_throw_proficiencies:: Charisma, Intelligence
-skill_proficiencies:: 4
-armor_proficiencies:: Light armor, Medium armor, Heavy armor, Shields
-weapon_proficiencies:: Simple weapons, Martial weapons
-spellcasting_ability:: Charisma
-spell_list:: symphonist
-xenocortex_class:: true
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T16:45:00Z
+- name:: : Symphonist
+- type:: : class
+- hit_die:: 10
+- primary_ability:: Charisma, Intelligence
+- saving_throw_proficiencies:: Charisma, Intelligence
+- skill_proficiencies:: 4
+- armor_proficiencies:: Light armor, Medium armor, Heavy armor, Shields
+- weapon_proficiencies:: Simple weapons, Martial weapons
+- spellcasting_ability:: Charisma
+- spell_list:: symphonist
+- xenocortex_class:: true
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T16:45:00Z
 
 - # Symphonist
 
@@ -120,7 +120,7 @@ last_updated:: 2025-07-02T16:45:00Z
 - **Cultural Synthesis:** Can understand and adapt to any cultural context rapidly
 - **Peaceful Resolution:** Can cast *calm emotions* and *zone of truth* at will
 
-- ##### The Architect  
+- ##### The Architect
 - **System Integration:** Can permanently improve magical or technological systems
 - **Resource Multiplication:** Can make limited resources stretch further through efficient coordination
 - **Infrastructure Mastery:** Can control and modify large-scale constructions or vehicles

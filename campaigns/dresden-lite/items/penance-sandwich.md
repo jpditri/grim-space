@@ -1,9 +1,9 @@
-title:: Penance Sandwich
-type:: item
-campaign:: dresden-lite
-rarity:: common
-category:: food
-tags:: #dresden-lite #item #food #guilt #supernatural #penance-sandwich
+- title:: Penance Sandwich
+- type:: : item
+- campaign:: : dresden-lite
+- rarity:: common
+- category:: food
+- tags:: : #dresden-lite #item #food #guilt #supernatural #penance-sandwich
 
 - # Penance Sandwich
 

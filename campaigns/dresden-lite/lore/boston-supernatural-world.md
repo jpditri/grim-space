@@ -1,7 +1,7 @@
-title:: [[Boston]] Supernatural World - The Hidden Reality
-type:: lore
-campaign:: dresden-lite
-tags:: #dresden-lite #lore #masquerade #[[boston]] #supernatural-world #hidden-reality
+- title:: [[Boston]] Supernatural World - The Hidden Reality
+- type:: : lore
+- campaign:: : dresden-lite
+- tags:: : #dresden-lite #lore #masquerade #[[boston]] #supernatural-world #hidden-reality
 
 - # [[Boston]] Supernatural World - The Hidden Reality
 
@@ -162,26 +162,26 @@ tags:: #dresden-lite #lore #masquerade #[[boston]] #supernatural-world #hidden-r
 		- #### **[[Winter Island]], [[Salem]]** - 42.528°N, -70.869°W
 - **Mundane Function**: 45-acre park with yacht facilities
 - **Supernatural Significance**: **MAJOR THREAT** - Active dimensional ritual site
-- **Hidden Features**: 
-  - Abandoned estate with interdimensional portal
-  - Monthly Coven gathering location
-  - Reality barriers weakened by repeated ritual use
-  - **[[Twink]]** (fairy resident) has witnessed Coven activities
+- **Hidden Features**:
+- Abandoned estate with interdimensional portal
+- Monthly Coven gathering location
+- Reality barriers weakened by repeated ritual use
+- **[[Twink]]** (fairy resident) has witnessed Coven activities
 
 		- #### **[[Essex Street]] [[Salem]]** - 42.5195°N, -70.8967°W
 - **Supernatural Significance**: Information and resource hub
 - **Key Establishments**:
-  - **[[Caldron of Books]]**: [[Thomas Glover]]'s occult bookstore
-  - **[[Purple Dragon Dispensary]]**: [[Paul Rhodes]]' front business
-  - **[[Hexen Shop]]**: [[Jared Larenzo]]'s witch supplies (dark arts practitioner)
+- **[[Caldron of Books]]**: [[Thomas Glover]]'s occult bookstore
+- **[[Purple Dragon Dispensary]]**: [[Paul Rhodes]]' front business
+- **[[Hexen Shop]]**: [[Jared Larenzo]]'s witch supplies (dark arts practitioner)
 
 		- #### **[[Lynn Woods Reservation]]** - 42.4905°N, -70.992°W (2,200 acres)
 - **Supernatural Significance**: Supernatural sanctuary and hunting ground
 - **Hidden Features**:
-  - **[[Van Drake]]'s** hunting territory (vampire serial killer)
-  - Ancient supernatural protection pacts
-  - Neutral territory for supernatural meetings
-  - Source of unexplained screams and sulfur smells
+- **[[Van Drake]]'s** hunting territory (vampire serial killer)
+- Ancient supernatural protection pacts
+- Neutral territory for supernatural meetings
+- Source of unexplained screams and sulfur smells
 
 		- #### **[[TD Garden]], [[Boston]]** - 42.3598°N, -71.0573°W
 - **Supernatural Significance**: Faction meeting venue during major events
@@ -199,7 +199,7 @@ tags:: #dresden-lite #lore #masquerade #[[boston]] #supernatural-world #hidden-r
 - **Evidence**: Sulfur residue, traumatized witness ([[Missy Lee]])
 - **Supernatural Significance**: Coven testing ground for summoned entities
 
-		- #### **[[Old Burial Hill]], [[Marblehead]]**  
+		- #### **[[Old Burial Hill]], [[Marblehead]]**
 - **Historical Significance**: Original burial site of The Black Book
 - **Current Status**: Excavation site showing supernatural disturbances
 - **Evidence**: Disturbed earth, residual dark magic traces

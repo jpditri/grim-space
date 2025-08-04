@@ -1,11 +1,11 @@
-name:: Crystalline Sentinel
-type:: monster
-size:: Large
-creature_type:: construct
-challenge_rating:: 8
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T17:30:00Z
+- name:: : Crystalline Sentinel
+- type:: : monster
+- size:: Large
+- creature_type:: construct
+- challenge_rating:: 8
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T17:30:00Z
 
 - # Crystalline Sentinel
 

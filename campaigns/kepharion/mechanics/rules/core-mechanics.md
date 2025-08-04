@@ -1,7 +1,7 @@
-title:: [[Kepharion]] Core Mechanics
-tags:: #[[kepharion]], #mechanics, #house-rules
-type:: mechanics
-campaign:: [[kepharion]]
+- title:: [[Kepharion]] Core Mechanics
+- tags:: : #[[kepharion]], #mechanics, #house-rules
+- type:: : mechanics
+- campaign:: : [[kepharion]]
 
 - # [[Kepharion]] Core Mechanics
 

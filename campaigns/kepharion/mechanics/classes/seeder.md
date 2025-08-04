@@ -1,15 +1,15 @@
-name:: Seeder
-type:: class
-hit_die:: 8
-primary_ability:: Intelligence, Wisdom
-saving_throw_proficiencies:: Intelligence, Wisdom
-skill_proficiencies:: 4
-armor_proficiencies:: Light armor, Medium armor
-weapon_proficiencies:: Simple weapons, Martial weapons (finesse only)
-xenocortex_class:: true
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T16:15:00Z
+- name:: : Seeder
+- type:: : class
+- hit_die:: 8
+- primary_ability:: Intelligence, Wisdom
+- saving_throw_proficiencies:: Intelligence, Wisdom
+- skill_proficiencies:: 4
+- armor_proficiencies:: Light armor, Medium armor
+- weapon_proficiencies:: Simple weapons, Martial weapons (finesse only)
+- xenocortex_class:: true
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T16:15:00Z
 
 - # Seeder
 
@@ -66,7 +66,7 @@ last_updated:: 2025-07-02T16:15:00Z
 - **Pathfinding:** Always know which direction is north and can navigate by [[xenocortex]] pattern recognition
 - **[[Xenocortex]] Expansion:** +1 additional pattern storage slot
 
-- ##### Path of the Cultivator  
+- ##### Path of the Cultivator
 - **Life Sense:** Can detect living creatures within 60 feet through [[xenocortex]] bio-pattern recognition
 - **Growth Acceleration:** Your Growth Catalyst ability recharges on short rest
 - **Symbiotic Link:** Can form temporary mental bonds with animals or plants
@@ -88,12 +88,12 @@ last_updated:: 2025-07-02T16:15:00Z
 
 - ### 5th Level
 
-- #### Environmental Attunement  
+- #### Environmental Attunement
 			- You become one with your surroundings:
 - **Terrain Bond:** Choose one terrain type; gain the following while in that terrain:
-  - +2 to AC from environmental awareness
-  - Advantage on Stealth checks
-  - Resistance to one damage type common to that terrain
+- +2 to AC from environmental awareness
+- Advantage on Stealth checks
+- Resistance to one damage type common to that terrain
 - **Ecological Network:** Can communicate basic concepts to plants and animals in your bonded terrain
 
 - ### 6th Level
@@ -109,7 +109,7 @@ last_updated:: 2025-07-02T16:15:00Z
 - **Accelerated Ecosystem:** Can create a 30-foot radius of enhanced plant growth that provides benefits
 - **Life Network:** Can share health and status effects with bonded creatures
 
-- ##### Path of the Inventor  
+- ##### Path of the Inventor
 - **[[Xenocortex]] Interface:** Can mentally interface with compatible technology
 - **Pattern Programming:** Can store spell-like effects as patterns (limited spell list)
 
@@ -131,7 +131,7 @@ last_updated:: 2025-07-02T16:15:00Z
 
 - ### Combat Tactics
 - **Primary Actions:** ["analyze_enemy", "environmental_advantage", "support_ally"]
-- **Target Priority:** ["threatening_environment", "group_threats", "isolated_enemies"]  
+- **Target Priority:** ["threatening_environment", "group_threats", "isolated_enemies"]
 - **Positioning:** Tactical positioning using environmental features
 - **Risk Tolerance:** Moderate to high (calculated risks for group benefit)
 

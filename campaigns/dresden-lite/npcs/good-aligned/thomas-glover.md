@@ -1,13 +1,13 @@
-title:: Thomas Glover - The Grieving Bookseller
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: Caldron of Books, Essex Street [[Salem]]
-race:: Human
-class:: Occult Scholar
-level:: 5
-background:: Book Merchant
-tags:: #dresden-lite #npc #good-aligned #essex-street #occult-knowledge #thomas-glover
+- title:: Thomas Glover - The Grieving Bookseller
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : good
+- location:: : Caldron of Books, Essex Street [[Salem]]
+- race:: : Human
+- class:: Occult Scholar
+- level:: : 5
+- background:: : Book Merchant
+- tags:: : #dresden-lite #npc #good-aligned #essex-street #occult-knowledge #thomas-glover
 
 - # Thomas Glover
 - ## The Grieving Bookseller

@@ -1,7 +1,7 @@
-title:: The Crystal Hierarchy of Nuvarden
-tags:: #[[kepharion]], #vaarn-culture, #nuvarden, #theocracy, #crystal-worship
-type:: lore
-campaign:: [[kepharion]]
+- title:: The Crystal Hierarchy of Nuvarden
+- tags:: : #[[kepharion]], #vaarn-culture, #nuvarden, #theocracy, #crystal-worship
+- type:: : lore
+- campaign:: : [[kepharion]]
 
 - # The Crystal Hierarchy of Nuvarden
 

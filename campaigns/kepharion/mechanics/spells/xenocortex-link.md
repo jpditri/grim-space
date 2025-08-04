@@ -1,15 +1,15 @@
-name:: [[Xenocortex]] Link
-level:: 2
-school:: Divination
-casting_time:: 1 action
-range:: Touch
-components:: V, S, M (a small crystal resonator)
-duration:: Concentration, up to 10 minutes
-classes:: Singer, Symphonist
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-xenocortex_spell:: true
-last_updated:: 2025-07-02T18:00:00Z
+- name:: : [[Xenocortex]] Link
+- level:: : 2
+- school:: Divination
+- casting_time:: 1 action
+- range:: Touch
+- components:: V, S, M (a small crystal resonator)
+- duration:: Concentration, up to 10 minutes
+- classes:: Singer, Symphonist
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- xenocortex_spell:: true
+- last_updated:: 2025-07-02T18:00:00Z
 
 - # [[Xenocortex]] Link
 

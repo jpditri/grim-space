@@ -1,9 +1,9 @@
-title:: Missy Lee - The Traumatized Witness
-tags:: #dresden-lite, #npc, #good-aligned, #hong-kong-kings, #forest-river-park, #trauma-survivor
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: Hong Kong Kings Restaurant, Chinatown / Local Tattoo Parlor
+- title:: Missy Lee - The Traumatized Witness
+- tags:: : #dresden-lite, #npc, #good-aligned, #hong-kong-kings, #forest-river-park, #trauma-survivor
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : good
+- location:: : Hong Kong Kings Restaurant, Chinatown / Local Tattoo Parlor
 
 - # Missy Lee
 - ## The Traumatized Witness

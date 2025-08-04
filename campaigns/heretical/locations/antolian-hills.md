@@ -1,0 +1,31 @@
+- # Antolian Hills
+
+	- Type:: Region
+	- Campaign:: heretical
+	- Region::
+	- Parent Location ID::
+	- Coordinates::
+	- Population:: 15000
+	- Government:: Mixed settlements and lordships
+	- Description:: A hilly region that serves as the primary setting for much of [[the Heretical]] campaign. Contains multiple settlements, ruins, and geographical features including Mount Menastily. The region has been shaped by the rise and fall of various powers, including the [[Order of Krolus]].
+	- History:: Ancient homeland of various kingdoms and city-states. Has seen multiple wars and conquests over the centuries.
+	- Current Events:: Region recovering from recent conflicts involving the [[Order of Krolus]] and [[the Heretical]] band.
+	- Secrets:: Hidden ruins and ancient sites scattered throughout the hills hold forgotten knowledge and power.
+	- Status:: active
+	- Notable NPCs::
+
+	- ## Features
+		- Rolling hills and elevated terrain
+		- Multiple settlements including [[Eliozor]], [[Narrow Sectarian]], [[Mascas]]
+		- [[Mount Menastily]] as the highest peak
+		- Ancient roads connecting major settlements
+		- Scattered ruins from previous civilizations
+		- Strategic river valleys and passes
+
+	- ## Hooks
+		- Political tensions between surviving settlements
+		- Ancient treasures and artifacts waiting to be discovered
+		- Remnants of the [[Order of Krolus]] still operate in hidden locations
+		- Trade routes that need protection from bandits and monsters
+		- Refugees and displaced populations seeking new homes
+		- Environmental changes affecting agriculture and settlement patterns

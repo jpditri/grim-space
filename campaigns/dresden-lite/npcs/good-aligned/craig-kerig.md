@@ -1,13 +1,13 @@
-title:: Craig Kerig - The Night Watchman with Stories
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: Peabody Essex Museum, [[Salem]]
-race:: Human
-class:: Security Guard
-level:: 3
-background:: Former Coast Guard
-tags:: #dresden-lite #npc #good-aligned #peabody-essex-museum #coast-guard #winter-island #craig-kerig
+- title:: Craig Kerig - The Night Watchman with Stories
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : good
+- location:: : Peabody Essex Museum, [[Salem]]
+- race:: : Human
+- class:: Security Guard
+- level:: : 3
+- background:: : Former Coast Guard
+- tags:: : #dresden-lite #npc #good-aligned #peabody-essex-museum #coast-guard #winter-island #craig-kerig
 
 - # Craig Kerig
 - ## The Night Watchman with Stories

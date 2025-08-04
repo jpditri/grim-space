@@ -1,13 +1,13 @@
-title:: Valkraise the Cruel - The Imprisoned Demon
-type:: npc
-campaign:: dresden-lite
-alignment:: chaotic evil
-location:: Dimensional Prison / Winter Island (partial manifestation)
-race:: Aberration (Far Realm Entity)
-class:: Demon Lord
-level:: 20+ (Cosmic Entity)
-background:: Ancient Dimensional Horror
-tags:: #dresden-lite #npc #evil-aligned #demon #far-realm #main-antagonist #valkraise-the-cruel
+- title:: Valkraise the Cruel - The Imprisoned Demon
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : chaotic evil
+- location:: : Dimensional Prison / Winter Island (partial manifestation)
+- race:: : Aberration (Far Realm Entity)
+- class:: Demon Lord
+- level:: : 20+ (Cosmic Entity)
+- background:: : Ancient Dimensional Horror
+- tags:: : #dresden-lite #npc #evil-aligned #demon #far-realm #main-antagonist #valkraise-the-cruel
 
 - # Valkraise the Cruel
 - ## The Imprisoned Demon

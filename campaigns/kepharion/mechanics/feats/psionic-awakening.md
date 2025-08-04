@@ -1,9 +1,9 @@
-name:: Psionic Awakening
-type:: feat
-prerequisites:: Vaarn race, [[Xenocortex]] Rating 3+, Special training
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T17:15:00Z
+- name:: : Psionic Awakening
+- type:: : feat
+- prerequisites:: Vaarn race, [[Xenocortex]] Rating 3+, Special training
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T17:15:00Z
 
 - # Psionic Awakening
 

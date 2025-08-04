@@ -1,15 +1,15 @@
-name:: Pattern Synthesis
-level:: 3
-school:: Transmutation
-casting_time:: 1 minute
-range:: Self
-components:: V, S, M (two [[xenocortex]] pattern crystals)
-duration:: 8 hours
-classes:: Seeder, Symphonist
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-xenocortex_spell:: true
-last_updated:: 2025-07-02T18:15:00Z
+- name:: : Pattern Synthesis
+- level:: : 3
+- school:: Transmutation
+- casting_time:: 1 minute
+- range:: Self
+- components:: V, S, M (two [[xenocortex]] pattern crystals)
+- duration:: 8 hours
+- classes:: Seeder, Symphonist
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- xenocortex_spell:: true
+- last_updated:: 2025-07-02T18:15:00Z
 
 - # Pattern Synthesis
 

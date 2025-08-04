@@ -1,17 +1,17 @@
-name:: Singer
-type:: class
-hit_die:: 6
-primary_ability:: Charisma, Wisdom
-saving_throw_proficiencies:: Wisdom, Charisma
-skill_proficiencies:: 6
-armor_proficiencies:: Light armor
-weapon_proficiencies:: Simple weapons
-spellcasting_ability:: Charisma
-spell_list:: singer
-xenocortex_class:: true
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T16:30:00Z
+- name:: : Singer
+- type:: : class
+- hit_die:: 6
+- primary_ability:: Charisma, Wisdom
+- saving_throw_proficiencies:: Wisdom, Charisma
+- skill_proficiencies:: 6
+- armor_proficiencies:: Light armor
+- weapon_proficiencies:: Simple weapons
+- spellcasting_ability:: Charisma
+- spell_list:: singer
+- xenocortex_class:: true
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T16:30:00Z
 
 - # Singer
 
@@ -131,7 +131,7 @@ last_updated:: 2025-07-02T16:30:00Z
 - **Community Memory:** Can access and contribute to collective Vaarn cultural memory
 - **Harmonic Mastery:** Can influence large groups through [[xenocortex]]-enhanced performance
 
-- #### 13th Level - Memory Immortality  
+- #### 13th Level - Memory Immortality
 - **[[Xenocortex]] Backup:** Can create permanent memory copies in crystal matrices
 - **Consciousness Transfer:** Can temporarily place consciousness in other compatible xenocortices
 
@@ -147,7 +147,7 @@ last_updated:: 2025-07-02T16:30:00Z
 - ### 1st Level
 - Bless, Charm Person, Comprehend Languages, Cure Wounds, Detect Magic, Identify
 
-- ### 2nd Level  
+- ### 2nd Level
 - Calm Emotions, Detect Thoughts, Hold Person, Lesser Restoration, Suggestion, Zone of Truth
 
 - ### 3rd Level

@@ -1,12 +1,12 @@
-title:: [[Athena]]
-type:: npc
-campaign:: heretical
-race:: Human (possibly half-elf)
-class:: Wizard (Enchanter)
-alignment:: Neutral Good
-pronouns:: She/Her
-location:: [[Narrow Sectarian]]
-tags:: #heretical #npc #wizard #enchanter #coven-sisters #neutral-good
+- title:: [[Athena]]
+- type:: : npc
+- campaign:: : heretical
+- race:: : Human (possibly half-elf)
+- class:: Wizard (Enchanter)
+- alignment:: : Neutral Good
+- pronouns:: She/Her
+- location:: : [[Narrow Sectarian]]
+- tags:: : #heretical #npc #wizard #enchanter #coven-sisters #neutral-good
 
 - # [[Athena]]
 

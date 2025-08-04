@@ -1,7 +1,7 @@
-title:: Heretical Campaign Setting
-type:: setting
-campaign:: heretical
-tags:: #heretical #setting #campaign-world #locations #characters
+- title:: Heretical Campaign Setting
+- type:: : setting
+- campaign:: : heretical
+- tags:: : #heretical #setting #campaign-world #locations #characters
 
 - ## LOCATIONS
 

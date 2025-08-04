@@ -1,19 +1,19 @@
-campaign:: [[kepharion]]
-type:: campaign-overview
-setting:: Planet [[Kepharion]] and interplanetary space
-theme:: [[Bio-crystalline]] sci-fi with [[dual cognition]] mechanics
+- campaign:: : [[kepharion]]
+- type:: : campaign-overview
+- setting:: Planet [[Kepharion]] and interplanetary space
+- theme:: [[Bio-crystalline]] sci-fi with [[dual cognition]] mechanics
 - technology-level:: Advanced (energy credits, FTL travel, bio-tech)
-atmosphere:: Scientific wonder meets existential questions about consciousness
-tags:: #[[kepharion]] #[[bio-crystalline]] #[[xenocortex]] #space-sci-fi #consciousness #[[pattern-locking]] #multiverse
+- atmosphere:: Scientific wonder meets existential questions about consciousness
+- tags:: : #[[kepharion]] #[[bio-crystalline]] #[[xenocortex]] #space-sci-fi #consciousness #[[pattern-locking]] #multiverse
 
 - # [[Kepharion]] Campaign
 
 - Welcome to **[[Kepharion]]** - a sci-fi campaign set on a world where life has evolved [[dual cognition]] systems, blending biological creativity with crystalline memory storage.
 
 - ## Campaign Overview
-- **Setting**: Planet [[Kepharion]] and interplanetary space  
-- **Theme**: [[Bio-crystalline]] sci-fi with [[dual cognition]] mechanics  
-- **Technology Level**: Advanced (energy credits, FTL travel, bio-tech)  
+- **Setting**: Planet [[Kepharion]] and interplanetary space
+- **Theme**: [[Bio-crystalline]] sci-fi with [[dual cognition]] mechanics
+- **Technology Level**: Advanced (energy credits, FTL travel, bio-tech)
 - **Atmosphere**: Scientific wonder meets existential questions about consciousness
 
 - ## Key Elements

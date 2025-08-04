@@ -1,16 +1,16 @@
-name:: Vaarn
-type:: race
-size:: Medium
-speed:: 30
-languages:: Common, Vaarnish, [[Xenocortex]]-Speech
-ability_score_increases:: {"intelligence" => 1, "wisdom" => 1}
-xenocortex_rating:: true
-dual_cognition:: true
-empathic_sensitivity:: true
-pattern_storage:: true
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T16:00:00Z
+- name:: : Vaarn
+- type:: : race
+- size:: Medium
+- speed:: : 30
+- languages:: Common, Vaarnish, [[Xenocortex]]-Speech
+- ability_score_increases:: {"intelligence" => 1, "wisdom" => 1}
+- xenocortex_rating:: true
+- dual_cognition:: true
+- empathic_sensitivity:: true
+- pattern_storage:: true
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T16:00:00Z
 
 - # Vaarn
 
@@ -126,7 +126,7 @@ last_updated:: 2025-07-02T16:00:00Z
 - **Preferred Classes:** Ranger, Druid, Artificer, Wizard (School of Transmutation)
 - **[[Xenocortex]] Use:** Practical knowledge storage, environmental adaptation patterns
 
-- ### Singer Inclination  
+- ### Singer Inclination
 - **Traits:** Empathetic, memory-focused, culturally preserving
 - **Preferred Classes:** Bard, Cleric, Sorcerer, Wizard (School of Enchantment)
 - **[[Xenocortex]] Use:** Cultural archives, emotional pattern storage

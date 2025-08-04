@@ -1,9 +1,9 @@
-title:: Paul Rhodes - The Dispensary Owner with Secrets
-tags:: #dresden-lite, #npc, #good-aligned, #essex-street, #gun-smuggling, #the-wharf
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: Purple Dragon Dispensary, Essex Street [[Salem]] / Leather Works, The Wharf
+- title:: Paul Rhodes - The Dispensary Owner with Secrets
+- tags:: : #dresden-lite, #npc, #good-aligned, #essex-street, #gun-smuggling, #the-wharf
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : good
+- location:: : Purple Dragon Dispensary, Essex Street [[Salem]] / Leather Works, The Wharf
 
 - # Paul Rhodes
 - ## The Dispensary Owner with Secrets

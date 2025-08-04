@@ -1,13 +1,13 @@
-title:: [[Madison Scott]] - The Broken Witness
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: [[Salem]] Hospital - Mental Health Ward
-race:: Human
-class:: Traumatized Witness
-level:: N/A (civilian)
-background:: College Student
-tags:: #dresden-lite #npc #good-aligned #[[salem]]-hospital #mental-patient #coven-witness #madison-scott
+- title:: [[Madison Scott]] - The Broken Witness
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : good
+- location:: : [[Salem]] Hospital - Mental Health Ward
+- race:: : Human
+- class:: Traumatized Witness
+- level:: : N/A (civilian)
+- background:: : College Student
+- tags:: : #dresden-lite #npc #good-aligned #[[salem]]-hospital #mental-patient #coven-witness #madison-scott
 
 - # [[Madison Scott]]
 - ## The Broken Witness

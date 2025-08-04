@@ -1,13 +1,13 @@
-title:: Henry Abbot - The Corrupted Librarian
-type:: npc
-campaign:: dresden-lite
-alignment:: evil
-location:: [[Salem]] State University Library / Winter Island
-race:: Human (supernaturally corrupted)
-class:: Warlock (Great Old One patron)
-level:: 9
-background:: University Student / Library Assistant
-tags:: #dresden-lite #npc #evil-aligned #coven-leader #[[salem]]-state #the-black-book #henry-abbot
+- title:: Henry Abbot - The Corrupted Librarian
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : evil
+- location:: : [[Salem]] State University Library / Winter Island
+- race:: : Human (supernaturally corrupted)
+- class:: Warlock (Great Old One patron)
+- level:: : 9
+- background:: : University Student / Library Assistant
+- tags:: : #dresden-lite #npc #evil-aligned #coven-leader #[[salem]]-state #the-black-book #henry-abbot
 
 - # Henry Abbot
 - ## The Corrupted Librarian

@@ -1,13 +1,13 @@
-title:: Abigail Abbot - The Chosen Vessel
-type:: npc
-campaign:: dresden-lite
-alignment:: evil
-location:: Winter Island (captive) / Marblehead High School (former)
-race:: Human (supernaturally transformed)
-class:: Dimensional Vessel
-level:: N/A (victim)
-background:: High School Student
-tags:: #dresden-lite #npc #evil-aligned #coven-victim #dimensional-vessel #missing-person #abigail-abbot
+- title:: Abigail Abbot - The Chosen Vessel
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : evil
+- location:: : Winter Island (captive) / Marblehead High School (former)
+- race:: : Human (supernaturally transformed)
+- class:: Dimensional Vessel
+- level:: : N/A (victim)
+- background:: : High School Student
+- tags:: : #dresden-lite #npc #evil-aligned #coven-victim #dimensional-vessel #missing-person #abigail-abbot
 
 - # Abigail Abbot
 - ## The Chosen Vessel
@@ -20,7 +20,7 @@ tags:: #dresden-lite #npc #evil-aligned #coven-victim #dimensional-vessel #missi
 - ### Personality Traits (Original)
 - **Academically Driven**: Natural honors student with genuine love of learning
 - **Family Loyal**: Deeply devoted to her older brother Henry
-- **Intellectually Curious**: Drawn to mysteries and unexplained phenomena  
+- **Intellectually Curious**: Drawn to mysteries and unexplained phenomena
 - **Trusting**: Tendency to believe the best in people, especially family
 - **Determined**: Once committed to something, follows through completely
 

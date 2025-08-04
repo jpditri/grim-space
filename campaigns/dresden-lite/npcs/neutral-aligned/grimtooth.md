@@ -1,9 +1,9 @@
-title:: Grimtooth - The Observant Malk
-tags:: #dresden-lite, #npc, #neutral-aligned, #malk-cat, #coven-tracker, #henry-stalker
-type:: npc
-campaign:: dresden-lite
-alignment:: neutral
-location:: Various locations following Henry Abbot
+- title:: Grimtooth - The Observant Malk
+- tags:: : #dresden-lite, #npc, #neutral-aligned, #malk-cat, #coven-tracker, #henry-stalker
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : neutral
+- location:: : Various locations following Henry Abbot
 
 - # Grimtooth
 - ## The Observant Malk

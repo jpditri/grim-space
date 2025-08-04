@@ -1,19 +1,19 @@
-campaign:: dresden-lite
-type:: campaign-overview
-setting:: Modern [[Boston]]-North Shore Massachusetts
-theme:: Hidden supernatural world (Dresden Files inspired)
+- campaign:: : dresden-lite
+- type:: : campaign-overview
+- setting:: Modern [[Boston]]-North Shore Massachusetts
+- theme:: Hidden supernatural world (Dresden Files inspired)
 - magic-level:: Hidden (magic must be concealed from public)
-atmosphere:: Modern urban environment with supernatural secrets
-tags:: #dresden-lite #urban-fantasy #[[boston]] #hidden-magic #modern-setting #masquerade
+- atmosphere:: Modern urban environment with supernatural secrets
+- tags:: : #dresden-lite #urban-fantasy #[[boston]] #hidden-magic #modern-setting #masquerade
 
 - # Dresden Lite Campaign
 
 - Welcome to **Dresden Lite** - an urban fantasy campaign set in modern [[Boston]]-North Shore Massachusetts where magic hides in the shadows of the real world.
 
 - ## Campaign Overview
-- **Setting**: Modern [[Boston]]-North Shore Massachusetts  
-- **Theme**: Hidden supernatural world (Dresden Files inspired)  
-- **Magic Level**: Hidden (magic must be concealed from public)  
+- **Setting**: Modern [[Boston]]-North Shore Massachusetts
+- **Theme**: Hidden supernatural world (Dresden Files inspired)
+- **Magic Level**: Hidden (magic must be concealed from public)
 - **Atmosphere**: Modern urban environment with supernatural secrets
 
 - ## Key Elements

@@ -1,11 +1,11 @@
-name:: Resonance Spider
-type:: monster
-size:: Medium
-creature_type:: beast
-challenge_rating:: 4
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T17:45:00Z
+- name:: : Resonance Spider
+- type:: : monster
+- size:: Medium
+- creature_type:: beast
+- challenge_rating:: 4
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T17:45:00Z
 
 - # Resonance Spider
 
@@ -96,7 +96,7 @@ last_updated:: 2025-07-02T17:45:00Z
 - ### **Young Resonance Spider** (CR 1)
 		- Smaller version with reduced abilities and no Resonance Screech
 
-- ### **Elder Resonance Spider** (CR 7)  
+- ### **Elder Resonance Spider** (CR 7)
 		- Larger, more intelligent version that can coordinate with crystal formations and has developed rudimentary telepathic abilities
 
 - ### **Crystal Queen Spider** (CR 10)

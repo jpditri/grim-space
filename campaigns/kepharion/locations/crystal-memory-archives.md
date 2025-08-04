@@ -1,9 +1,9 @@
-title:: Crystal Memory Archives
-type:: location
-campaign:: [[kepharion]]
-region:: Central [[Kepharion]]
+- title:: Crystal Memory Archives
+- type:: : location
+- campaign:: : [[kepharion]]
+- region:: : Central [[Kepharion]]
 - location-type:: archives, crystalline complex
-tags:: #[[kepharion]] #location #[[xenocortex]] #knowledge #archives #crystal-memory-archives
+- tags:: : #[[kepharion]] #location #[[xenocortex]] #knowledge #archives #crystal-memory-archives
 
 - # Crystal Memory Archives
 

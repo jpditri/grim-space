@@ -1,9 +1,9 @@
-name:: [[Xenocortex]] Mastery
-type:: feat
-prerequisites:: Vaarn race, [[Xenocortex]] Rating 2+
-campaign:: [[kepharion]]
-source:: [[Kepharion]] Campaign
-last_updated:: 2025-07-02T17:00:00Z
+- name:: : [[Xenocortex]] Mastery
+- type:: : feat
+- prerequisites:: Vaarn race, [[Xenocortex]] Rating 2+
+- campaign:: : [[kepharion]]
+- source:: [[Kepharion]] Campaign
+- last_updated:: 2025-07-02T17:00:00Z
 
 - # [[Xenocortex]] Mastery
 
@@ -35,7 +35,7 @@ last_updated:: 2025-07-02T17:00:00Z
 - **Combat Patterns:** Can store combat maneuvers that grant bonus actions in specific situations
 - **Threat Assessment:** Can identify the most dangerous enemy as a bonus action
 
-- ### Social Applications  
+- ### Social Applications
 - **Cultural Archive:** Perfect recall of cultural customs grants advantage on social interactions with any Vaarn culture
 - **Empathic Precision:** Can read specific emotions instead of just general emotional states
 - **Memory Verification:** Can determine if someone's memories have been altered or are false

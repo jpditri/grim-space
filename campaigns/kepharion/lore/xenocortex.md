@@ -1,8 +1,8 @@
-title:: [[Xenocortex]]
-type:: lore
-campaign:: [[kepharion]]
-category:: [[bio-crystalline]]-organ
-tags:: #[[kepharion]] #[[xenocortex]] #[[bio-crystalline]] #dual-cognition #[[pattern-locking]] #memory-core
+- title:: [[Xenocortex]]
+- type:: : lore
+- campaign:: : [[kepharion]]
+- category:: [[bio-crystalline]]-organ
+- tags:: : #[[kepharion]] #[[xenocortex]] #[[bio-crystalline]] #dual-cognition #[[pattern-locking]] #memory-core
 
 - # [[Xenocortex]]
 - *A crystallized mirror of the mind—fast, exact, and utterly inflexible.*
@@ -36,12 +36,12 @@ tags:: #[[kepharion]] #[[xenocortex]] #[[bio-crystalline]] #dual-cognition #[[pa
 - ## 🧠💎 Functional Scenarios
 
 - **[[Xenocortex]] Without Brain:**
-  - The creature becomes a **scripted automaton**, capable only of repeating known behaviors. It *looks alive* but can’t learn, feel, or adapt.
-  - Often used in sapient funerary rites, war relics, or ritual labor.
+- The creature becomes a **scripted automaton**, capable only of repeating known behaviors. It *looks alive* but can’t learn, feel, or adapt.
+- Often used in sapient funerary rites, war relics, or ritual labor.
 
 - **Brain Without [[Xenocortex]]:**
-  - Fully sentient, capable of creativity and learning, but memories decay and are easily lost.
-  - Considered **"naked-minded"** in many cultures—respected for freedom, pitied for fragility.
+- Fully sentient, capable of creativity and learning, but memories decay and are easily lost.
+- Considered **"naked-minded"** in many cultures—respected for freedom, pitied for fragility.
 
 - ## 🌀 Implications of Bifurcated Intelligence
 

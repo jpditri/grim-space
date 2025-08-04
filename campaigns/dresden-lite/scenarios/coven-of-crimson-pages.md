@@ -1,10 +1,10 @@
-title:: The Coven of the Crimson Pages - Main Campaign Scenario
-type:: scenario
-campaign:: dresden-lite
-difficulty:: deadly
-estimated_duration:: 8-12 sessions
-category:: main-plot
-tags:: #dresden-lite #scenario #main-plot #halloween-countdown #investigation #coven-of-crimson-pages
+- title:: The Coven of the Crimson Pages - Main Campaign Scenario
+- type:: : scenario
+- campaign:: : dresden-lite
+- difficulty:: deadly
+- estimated_duration:: 8-12 sessions
+- category:: main-plot
+- tags:: : #dresden-lite #scenario #main-plot #halloween-countdown #investigation #coven-of-crimson-pages
 
 - # The Coven of the Crimson Pages
 - ## Main Campaign Scenario

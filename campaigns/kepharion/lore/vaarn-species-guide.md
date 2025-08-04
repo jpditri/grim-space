@@ -1,4 +1,4 @@
-Vaarn: Xenocortical People of [[Kepharion]]
+- Vaarn: Xenocortical People of [[Kepharion]]
 
 - The Vaarn are a sapient species native to the planet [[Kepharion]], distinguished by their dual-brain biology and rich cultural diversity. Every Vaarn individual possesses both a conventional organic brain and a [[xenocortex]] – a crystalline memory-and-subroutine organ that coexists within the skull. This unique physiology grants the Vaarn exceptional memory capacity and cognitive multitasking, along with a natural inclination toward heightened awareness and empathy. However, contrary to what some outsiders might assume, the [[xenocortex]] does not inherently bestow telepathic or other psionic powers. Only through disciplined training and ritual practice can a minority of Vaarn unlock potent psionic abilities, and even then such powers are rare and viewed through a complex cultural lens.
 

@@ -1,9 +1,9 @@
-title:: Daniel Fairview - The Ancient Businessman
-tags:: #dresden-lite, #npc, #neutral-aligned, #vampire, #harbor-light-hotel, #blood-raves
-type:: npc
-campaign:: dresden-lite
-alignment:: neutral
-location:: Harbor Light Hotel & Restaurant, [[Salem]] / Various Properties
+- title:: Daniel Fairview - The Ancient Businessman
+- tags:: : #dresden-lite, #npc, #neutral-aligned, #vampire, #harbor-light-hotel, #blood-raves
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : neutral
+- location:: : Harbor Light Hotel & Restaurant, [[Salem]] / Various Properties
 
 - # Daniel Fairview
 - ## The Ancient Businessman

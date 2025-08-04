@@ -1,7 +1,7 @@
-title:: The Technocratic Union of Alossi
-tags:: #[[kepharion]], #vaarn-culture, #alossi, #technocracy, #innovation
-type:: lore
-campaign:: [[kepharion]]
+- title:: The Technocratic Union of Alossi
+- tags:: : #[[kepharion]], #vaarn-culture, #alossi, #technocracy, #innovation
+- type:: : lore
+- campaign:: : [[kepharion]]
 
 - # The Technocratic Union of Alossi
 

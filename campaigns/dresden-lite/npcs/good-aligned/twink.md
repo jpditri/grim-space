@@ -1,9 +1,9 @@
-title:: Twink - The Winter Island Fairy
-tags:: #dresden-lite, #npc, #good-aligned, #fairy, #winter-island, #coven-witness
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: Winter Island, [[Salem]]
+- title:: Twink - The Winter Island Fairy
+- tags:: : #dresden-lite, #npc, #good-aligned, #fairy, #winter-island, #coven-witness
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : good
+- location:: : Winter Island, [[Salem]]
 
 - # Twink
 - ## The Winter Island Fairy

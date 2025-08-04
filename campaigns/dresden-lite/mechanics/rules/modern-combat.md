@@ -1,8 +1,8 @@
-title:: Modern Combat & Firearms Rules
-type:: mechanics
-campaign:: dresden-lite
-category:: rules
-tags:: #dresden-lite #mechanics #firearms #modern-combat #rules
+- title:: Modern Combat & Firearms Rules
+- type:: : mechanics
+- campaign:: : dresden-lite
+- category:: rules
+- tags:: : #dresden-lite #mechanics #firearms #modern-combat #rules
 
 - # Modern Combat & Firearms Rules
 
@@ -26,10 +26,10 @@ tags:: #dresden-lite #mechanics #firearms #modern-combat #rules
 
 	- ### Weapon Concealment
 - **Open Carry Restrictions**: Carrying weapons openly draws immediate police attention
-- **Concealment Methods**: 
-  - Shoulder holsters for pistols
-  - Briefcases or guitar cases for larger weapons
-  - Tool disguises for improvised weapons
+- **Concealment Methods**:
+- Shoulder holsters for pistols
+- Briefcases or guitar cases for larger weapons
+- Tool disguises for improvised weapons
 - **Legal Consequences**: Weapon violations result in arrest and investigation
 - **Supernatural Weapons**: Even more suspicious to authorities
 

@@ -1,7 +1,7 @@
-title:: Campaign Teaser: Shadows Over [[Salem]]
-type:: campaign-teaser
-campaign:: dresden-lite
-tags:: #dresden-lite #campaign-teaser #players #mystery #shadows-over-[[salem]]
+- title:: Campaign Teaser: Shadows Over [[Salem]]
+- type:: : campaign-teaser
+- campaign:: : dresden-lite
+- tags:: : #dresden-lite #campaign-teaser #players #mystery #shadows-over-[[salem]]
 
 - # SHADOWS OVER [[SALEM]]
 - ## A Dresden Lite Campaign

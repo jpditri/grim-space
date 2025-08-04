@@ -1,13 +1,13 @@
-title:: Jennifer Tilly - The Connected Dispatcher
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: [[Salem]] Police Department / Riptide Bar, Marblehead
-race:: Human
-class:: Dispatcher / Bartender
-level:: 4
-background:: Law Enforcement
-tags:: #dresden-lite #npc #good-aligned #[[salem]]-police #riptide-bar #forest-river-park #jennifer-tilly
+- title:: Jennifer Tilly - The Connected Dispatcher
+- type:: : npc
+- campaign:: : dresden-lite
+- alignment:: : good
+- location:: : [[Salem]] Police Department / Riptide Bar, Marblehead
+- race:: : Human
+- class:: Dispatcher / Bartender
+- level:: : 4
+- background:: : Law Enforcement
+- tags:: : #dresden-lite #npc #good-aligned #[[salem]]-police #riptide-bar #forest-river-park #jennifer-tilly
 
 - # Jennifer Tilly
 - ## The Connected Dispatcher
