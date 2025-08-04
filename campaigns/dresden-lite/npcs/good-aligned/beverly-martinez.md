@@ -1,13 +1,13 @@
-title:: [[Beverly Martinez]] - The Clairvoyant Mother
-type:: npc
-campaign:: dresden-lite
-alignment:: good
-location:: Local Supermarket / Various paranormal investigation sites
-race:: Human
-class:: Paranormal Investigator
-level:: 7
-background:: Single Mother / Supermarket Manager
-tags:: #dresden-lite #npc #good-aligned #clairvoyant #single-mother #paranormal-investigator
+- title:: [[Beverly Martinez]] - The Clairvoyant Mother
+- type:: npc
+- campaign:: dresden-lite
+- alignment:: good
+- location:: Local Supermarket / Various paranormal investigation sites
+- race:: Human
+- class:: Paranormal Investigator
+- level:: 7
+- background:: Single Mother / Supermarket Manager
+- tags:: #dresden-lite #npc #good-aligned #clairvoyant #single-mother #paranormal-investigator
 
 - # [[Beverly Martinez]]
 - ## The Clairvoyant Mother
