@@ -1,0 +1,44 @@
+# Lantae Package Manifest - grim-space
+# D&D campaign lore and notes for group play
+schema_version: '1.0'
+
+name: grim-space
+version: 1.0.0
+description: Notes and lore for group D&D game - Grim Space campaign setting
+repository: https://github.com/jpditri/grim-space
+author: jpditri
+
+provides:
+  capabilities:
+    - name: campaign-lore
+      version: 1.0.0
+      description: Campaign world lore and setting information
+    - name: session-notes
+      description: Session notes and player handouts
+
+  keywords:
+    - dnd
+    - campaign
+    - lore
+    - ttrpg
+    - grim-space
+    - worldbuilding
+
+project_type:
+  language: markdown
+  framework: none
+  test_framework: none
+
+# Lore packages typically don't need external dependencies
+requires:
+  packages: []
+  external:
+    ruby: []
+    system: []
+
+overlaps:
+  - package: dnd-docs
+    capabilities:
+      - campaign-lore
+    consolidation_potential: low
+    notes: Different campaign settings - no actual overlap
